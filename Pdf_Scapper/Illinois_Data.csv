@@ -1,0 +1,1250 @@
+,County,Sec-Twp_Rng,Company,Well,Location,Type,Permit Number,API Number,Objective,Date
+0,Clay,10-4N-7E,"Basnett, John R.","Crouch, John #2","330'N line, 495'W line of SE NE",SWD,204605,1.2025E+11,Cypress,Apr-18
+1,Crawford,14-6N-13W,X Oil Company,Utterback #108,"990'N line, 580'W line of NW NW",OIL,65544,1.20334E+11,Robinson,Apr-18
+2,Crawford,22-6N-13W,"Rhex, LLC",Doolittle #RX-1 WI,"7'N line, 438'E line of NE SE SW",WI,204616,1.20334E+11,Robinson,Apr-18
+3,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #DW-2","0'S line, 650'W line of SW SW",WI,204620,1.20334E+11,Robinson,Apr-18
+4,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #DW-3","674'S line, 652'W line of SW SW",WI,204621,1.20334E+11,Robinson,Apr-18
+5,Crawford,11-8N-14W,"Shull Energy, LLC",Ripley #S-1,"39'N line, 65'E line of NE SE NE",WI,204619,1.20334E+11,Cypress,Apr-18
+6,Crawford,11-8N-14W,"Shull Energy, LLC",Ripley #S-2,"307'N line, 51'E line of SE SE NE",WI,204618,1.20334E+11,Cypress,Apr-18
+7,Cumberland,12-10N-8E,"Got Oil, LLC","Evans, Rex and Becky #1","330'N line, 330'E line of SW NW",OIL,65541,1.20352E+11,"Moccasin,Springs",Apr-18
+8,Fayette,13-8N-3E,"P & M Oil, Inc.","Gregg, Willie #5-WI","990'N line, 330'W line of NE SW",WI,204622,1.2051E+11,Weiler,Apr-18
+9,Franklin,2-6S-1E,"Countrymark Energy Resources, LLC",Korin #3-SWD,"338'N line, 405'E line of SW NE",SWD,204617,1.2055E+11,Cypress,Apr-18
+10,Franklin,9-7S-3E,"Lampley Oil, Inc.",Lampley CNX #9-2A,"1650'N line, 1650'W line of NW",OIL,65550,1.20553E+11,Ullin,Apr-18
+11,Franklin,9-7S-3E,"Lampley Oil, Inc.",Lampley CNX #9-2B,"990'S line, 1812'W line of SW",OIL,65551,1.20553E+11,Ullin,Apr-18
+12,Gallatin,15-8S-9E,"R Energy, LLC","Schmitt ""A"" #9","380'N line, 330'W line of SW NW",OIL,65547,1.20593E+11,St Louis,Apr-18
+13,Hamilton,12-6S-5E,"Bi-Petro, Inc.",French #1,"330'S line, 330'E line of SE SW NE",OIL,65558,1.20653E+11,Warsaw,Apr-18
+14,Jasper,7-7N-11E,"American Oil Investments, Inc.",Ferguson #3-WI,"330'S line, 473'E line of SW",WI,204604,1.20793E+11,Rosiclare,Apr-18
+15,Lawrence,15-3N-12W,"Zanetis Oil Company, LLC","Gillespie, Grace #6","660'N line, 660'W line of NE SE",OIL,65564,1.21011E+11,Cypress,Apr-18
+16,Lawrence,22-3N-12W,"Podolsky, Bernard","Calvert, M. L. #14-W","330'S line, 430'W line of SE NE",WI,204607,1.21013E+11,Cypress,Apr-18
+17,Lawrence,27-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 3 #89-CDG","1119'S line, 150'E line of SE SE",OIL,65560,1.21013E+11,Salem,Apr-18
+18,Lawrence,12-3N-13W,"Loeb, Herman L. LLC",Andrews #1-12,"2260'S line, 375'E line of SE",OIL,65562,1.21013E+11,St Louis,Apr-18
+19,Macoupin,16-8N-6W,"Hardt, Edwin E.",Stoecker #31,"660'S line, 660'E line of NE",OIL,65548,1.21172E+11,Spoon,Apr-18
+20,Marion,33-4N-4E,Deep Rock Energy Corp.,Warren #11 DIR,"235'S line, 340'W line of SE NW SW",OIL,65563,1.21213E+11,McClosky,Apr-18
+21,Richland,5-3N-9E,Citation Oil & Gas Corp.,"Pflaum, Elizabeth #A-9","344'N line, 364'W line of NW NE",OIL,65549,1.21593E+11,Salem,Apr-18
+22,Wabash,34-1N-13W,"Small & Small, Inc.",Tennis Dairy #3,"312'N line, 349'W line of NE SE",OIL,65561,1.21853E+11,Benoist,Apr-18
+23,Wabash,2-2S-13W,"Seaton, Gregory S.","Schrodt Trust, Ralph #3","330'N line, 990'W line of NW SW",OIL,65545,1.21853E+11,McClosky,Apr-18
+24,Wayne,13-1N-9E,"Lynch, Darrell",Greathouse #5,"660'N line, 330'W line of NW SW",OIL,65546,1.21913E+11,McClosky,Apr-18
+25,White,28-3S-14W,"Campbell Energy, LLC",Reeves SWD #1,"491'N line, 287'W line of SE NW",SWD,204611,1.21933E+11,Caseyville,Apr-18
+26,White,28-3S-14W,"Campbell Energy, LLC",Reeves SWD #2,"270'S line, 262'W line of NW NE",SWD,204612,1.21933E+11,Caseyville,Apr-18
+27,White,8-4S-14W,"Campbell Energy, LLC",Cantrell Glaze SWD #1,"294'S line, 415'E line of SE SE",SWD,204610,1.21933E+11,Caseyville,Apr-18
+28,White,16-4S-14W,"Campbell Energy, LLC","Smith, Russel SWD #1","99'S line, 496'E line of NE SE",SWD,204609,1.21933E+11,Caseyville,Apr-18
+29,White,18-4S-14W,"Campbell Energy, LLC",Sheldon #1,"328'N line, 330'E line of SE SE",OIL,65543,1.21933E+11,Fort Payne,Apr-18
+30,White,18-4S-14W,"Campbell Energy, LLC",Weasel #1,"330'N line, 447'E line of NE SE",OIL,65542,1.21933E+11,Fort Payne,Apr-18
+31,White,20-4S-14W,"Campbell Energy, LLC",Dennis SWD #1,"405'S line, 588'W line of NW NW",SWD,204613,1.21933E+11,Caseyville,Apr-18
+32,White,21-4S-14W,"Campbell Energy, LLC",Hutch SWD #2,"424'N line, 69'E line of NW SW",SWD,204606,1.21933E+11,Caseyville,Apr-18
+33,White,7-5S-14W,"Campbell Energy, LLC",Kempf SWD #1,"181'N line, 371'E line of SE SE",SWD,204615,1.21933E+11,Caseyville,Apr-18
+34,White,16-7S-8E,"Webb, Patrick Oil L.L.C.",Nass #2,"330'N line, 390'W line of NW",OIL,65552,1.21933E+11,Fort Payne,Apr-18
+35,White,16-7S-8E,"Webb, Patrick Oil L.L.C.",Nass #4,"330'S line, 330'E line of NW NW",OIL,65553,1.21933E+11,Fort Payne,Apr-18
+36,White,17-7S-8E,"Webb, Patrick Oil L.L.C.",Douglas #4,"330'N line, 330'W line of SE NW",OIL,65557,1.21933E+11,Fort Payne,Apr-18
+37,White,17-7S-8E,"Webb, Patrick Oil L.L.C.","Douglas, F. #2","330'S line, 330'W line of SE NE",OIL,65556,1.21933E+11,Salem,Apr-18
+38,White,17-7S-8E,"Webb, Patrick Oil L.L.C.",Webb - Douglas Heirs #7,"330'S line, 330'E line of NE SW",OIL,65559,1.21933E+11,Fort Payne,Apr-18
+39,White,17-7S-8E,"Webb, Patrick Oil L.L.C.",Webb - Downen Spencer #3,"330'N line, 330'E line of SW NE",OIL,65554,1.21931E+11,Salem,Apr-18
+40,White,4-7S-9E,"Webb, Patrick Oil L.L.C.","Beck, Mary #7","330'S line, 990'W line of NW NW",OIL,65555,1.21933E+11,Fort Payne,Apr-18
+41,Coles,12-12N-10E,Ameren Illinois Company,"Walton, L. O. #8","1780'N line, 180'E line of NE",OBS,65955,1.2029E+11,Pottsville,Apr-19
+42,Crawford,15-6N-13W,B & D Resources,Walker #1,"514'N line, 330'W line of NW NE",OIL,65949,1.20334E+11,Robinson,Apr-19
+43,Crawford,15-6N-13W,B & D Resources,Walker #2,"330'N line, 990'W line of NW NE",OIL,65947,1.20334E+11,Robinson,Apr-19
+44,Crawford,15-6N-13W,B & D Resources,Walker #3,"990'N line, 330'W line of NW NE",OIL,65948,1.20334E+11,Robinson,Apr-19
+45,Crawford,15-6N-13W,B & D Resources,Walker #4,"990'N line, 990'W line of NW NE",OIL,65950,1.20334E+11,Robinson,Apr-19
+46,Crawford,15-6N-13W,B & D Resources,Walker #8,"2310'N line, 990'W line of NW NE",OIL,65951,1.20334E+11,Robinson,Apr-19
+47,Cumberland,4-10N-9E,"Blackridge IL Operating, LLC",Auger etal Community #1,"66'N line, 66'W line of NW",OIL,65942,1.20352E+11,Grand Tow,Apr-19
+48,Edgar,10-13N-13W,Dudley Oil Field Ops.,"Brinkerhoff, L. #B-11","1370'N line, 990'W line of NW NE NW",OIL,65940,1.20452E+11,Spoon,Apr-19
+49,Edgar,10-13N-13W,Dudley Oil Field Ops.,"Brinkerhoff, Louis A #8-A","660'N line, 330'E line of NE NW NW",OIL,65939,1.20452E+11,Spoon,Apr-19
+50,Gallatin,35-7S-8E,"Dee Drilling Co., Inc.",Brockschmidt #2,"333'N line, 331'W line of NE SW",OIL,65922,1.20593E+11,Ste Genevi,Apr-19
+51,Gallatin,35-7S-8E,"Dee Drilling Co., Inc.","Moye, Charles #1","333'S line, 330'E line of NW SW",OIL,65921,1.20593E+11,Ste Genevi,Apr-19
+52,Gallatin,15-8S-9E,"R Energy, LLC","Schmitt ""A"" #9","380'N line, 330'W line of SW NW",OIL,65953,1.20593E+11,St Louis,Apr-19
+53,Hamilton,36-6S-5E,"Brehm Oil Company, Inc.","Moore, M. C. #4-36 SWD","330'N line, 330'W line of NE SW",SWD,204678,1.20653E+11,Cypress,Apr-19
+54,Hardin,30-11S-8E,"Schofield, John O. Inc.",Schofield - Hicks Dome #1,"337'N line, 765'W line of NW SW",OIL,65944,1.20692E+11,Granite W,Apr-19
+55,Lawrence,22-3N-12W,"Podolsky, Bernard","Calvert, M. L. #19","6'S line, 330'E line of NE NW",OIL,65929,1.21013E+11,Cypress,Apr-19
+56,Lawrence,32-4N-12W,"CDG Operations, LLC","Middagh, Robert ASP BCF,#12-CDG","1862'N line, 1252'W line of NE NW",OIL,65927,1.21013E+11,Bridgeport,Apr-19
+57,Richland,10-3N-9E,Podolsky Oil Co.,"Winter, Carrie #10","990'N line, 990'W line of NW",OIL,65943,1.21593E+11,Ullin,Apr-19
+58,Wabash,20-1N-12W,"Keepes, Randy R.","Wood, Clifton #AA-2","990'S line, 2052'W line of SW",OIL,65941,1.21853E+11,Biehl,Apr-19
+59,Wabash,19-2S-13W,"R & S Operating, LLC","Hocking, Keith #4","990'S line, 990'E line of SE NE",OIL,65932,1.21853E+11,Fort Payne,Apr-19
+60,Wabash,19-2S-13W,"R & S Operating, LLC","Hocking, Keith #5","990'N line, 990'E line of NE",OIL,65933,1.21853E+11,Fort Payne,Apr-19
+61,White,25-3S-10E,"Shawnee Exploration Partners, LLC",Blackford #25-2,"337'S line, 325'E line of SW SE",OIL,65925,1.21933E+11,Fort Payne,Apr-19
+62,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-2,"1190'N line, 990'W line of SW",OIL,65945,1.21933E+11,Fort Payne,Apr-19
+63,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-3,"138'N line, 330'W line of SE SW",OIL,65946,1.21933E+11,Fort Payne,Apr-19
+64,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Sturm - Davis #36-7,"530'N line, 28'W line of NE NE",OIL,65926,1.21933E+11,Fort Payne,Apr-19
+65,White,32-3S-14W,"Campbell Energy, LLC",Crawford #1,"336'N line, 668'E line of SE NE",OIL,65924,1.21933E+11,Fort Payne,Apr-19
+66,White,32-3S-14W,"Campbell Energy, LLC",Crawford #2,"336'S line, 668'E line of SE NE",OIL,65923,1.21933E+11,Fort Payne,Apr-19
+67,White,8-4S-14W,"Campbell Energy, LLC",Cantrell - Glaze #1,"330'N line, 335'W line of SW SE",OIL,65952,1.21933E+11,Fort Payne,Apr-19
+68,White,9-4S-14W,"Campbell Energy, LLC","Cantrell - Boultinghouse #9,3","- 330'S line, 335'E line of SE SE",OIL,65928,1.21933E+11,Ullin,Apr-19
+69,White,15-4S-14W,"Campbell Energy, LLC","Cox, L. P. #4","334'N line, 364'E line of NE SW",OIL,65919,1.21933E+11,Fort Payne,Apr-19
+70,White,16-4S-14W,"Campbell Energy, LLC",Barger - Skiles #1,"502'S line, 335'W line of NW SW",OIL,65934,1.21933E+11,Ullin,Apr-19
+71,White,16-4S-14W,"Campbell Energy, LLC",Barger - Skiles #2,"359'N line, 334'E line of NW SW",OIL,65935,1.21933E+11,Fort Payne,Apr-19
+72,White,16-4S-14W,"Campbell Energy, LLC",Barger - Skiles #3,"332'S line, 362'E line of NW SW",OIL,65936,1.21933E+11,Fort Payne,Apr-19
+73,White,16-4S-14W,"Campbell Energy, LLC","Cantrell - Boultinghouse,Unit #16-5","330'S line, 336'E line of SW NE",OIL,65918,1.21933E+11,Fort Payne,Apr-19
+74,White,18-4S-14W,"Campbell Energy, LLC",Sheldon #1,"328'N line, 330'E line of SE SE",OIL,65937,1.21933E+11,Fort Payne,Apr-19
+75,White,18-4S-14W,"Campbell Energy, LLC",Weasel #1,"330'N line, 447'E line of NE SE",OIL,65938,1.21933E+11,Fort Payne,Apr-19
+76,White,21-4S-14W,"Campbell Energy, LLC",Barger - Ford #B-1,"270'S line, 557'W line of NW NE",OIL,65930,1.21933E+11,Fort Payne,Apr-19
+77,White,21-4S-14W,"Campbell Energy, LLC",Barger - Ford #B-2,"697'N line, 330'W line of NE NE",OIL,65912,1.21933E+11,Fort Payne,Apr-19
+78,White,21-4S-14W,"Campbell Energy, LLC",Barger - Ford #B-4,"660'N line, 10'E line of SW NE",OIL,65931,1.21933E+11,Fort Payne,Apr-19
+79,White,21-4S-14W,"Campbell Energy, LLC",Barger - Ford #B-5,"387'S line, 330'W line of SW NE",OIL,65915,1.21933E+11,Fort Payne,Apr-19
+80,White,21-4S-14W,"Campbell Energy, LLC",Barger - Ford #B-6,"330'N line, 702'E line of NE NE",OIL,65913,1.21933E+11,Fort Payne,Apr-19
+81,White,21-4S-14W,"Campbell Energy, LLC",Barger - Ford #B-7,"330'S line, 335'E line of NE NE",OIL,65917,1.21933E+11,Fort Payne,Apr-19
+82,White,21-4S-14W,"Campbell Energy, LLC",Barger - Ford #B-8,"330'N line, 670'E line of SE NE",OIL,65914,1.21933E+11,Fort Payne,Apr-19
+83,White,21-4S-14W,"Campbell Energy, LLC",Barger - Ford #B-9,"330'S line, 335'E line of SE NE",OIL,65916,1.21933E+11,Fort Payne,Apr-19
+84,White,9-5S-10E,Keyrock Energy LLC,Walsh #1,"76'S line, 50'W line of SE",CMM,65920,1.21933E+11,Herrin Coa,Apr-19
+85,White,29-5S-10E,Keyrock Energy LLC,Stophlet #1,"163'N line, 282'W line of SE",CMM,65954,1.21933E+11,Herrin Coa,Apr-19
+86,Fayette,18-7N-3E,M-S-C Corp.,Burtschi #1,"330'N line, 330'E line of SE",SWD,204749,1.2051E+11,Tar Spring,Apr-20
+87,Gallatin,13-8S-9E,"T & B Production Co., LLC",Lawler #7,"330'S line, 330'W line of NE",OIL,66255,1.2059E+11,St Louis,Apr-20
+88,Jasper,28-6N-10E,"Bateman's Bay Exploration, Inc",Ochs #3,"330'S line, 330'W line of NE SW NE",OIL,66251,1.20793E+11,Bailey,Apr-20
+89,Jasper,18-8N-10E,"S. F. Oil Company, Inc.",MVM #1,"990'S line, 330'E line of SW SE",OIL,66250,1.20793E+11,Ste Genevi,Apr-20
+90,Menard,3-19N-7W,"DAC Energy & Drilling, LLC",Dart #4-1,"330'N line, 330'E line of NE NE SW",OIL,66253,1.21292E+11,Spechts Fe,Apr-20
+91,Menard,10-19N-7W,"DAC Energy & Drilling, LLC",Dart #3-1,"330'N line, 358'E line of NE NW SW",OIL,66254,1.21292E+11,Spechts Fe,Apr-20
+92,Menard,10-19N-7W,"DAC Energy & Drilling, LLC",Dart #6-1,"330'S line, 330'W line of SW NE NW",OIL,66252,1.21292E+11,Spechts Fe,Apr-20
+93,Wabash,17-1N-12W,"Seaton, Gregory S.","Tennis, Charles #1","330'S line, 330'E line of NW SE",OIL,66248,1.21853E+11,Salem,Apr-20
+94,Wabash,12-2S-14W,"Dee Drilling Co., Inc.","Haase, David #2-WIW","330'N line, 990'E line of NE NW",WI,204750,1.21853E+11,Caseyville,Apr-20
+95,Washington,31-3S-5W,Ameren Illinois Company,Tilden #4-HOR,"1016'S line, 600'W line of NW",GST,66259,1.21892E+11,Cypress,Apr-20
+96,Washington,31-3S-5W,Ameren Illinois Company,Tilden #5-HOR,"1022'S line, 555'W line of NW",GST,66260,1.21892E+11,Cypress,Apr-20
+97,Washington,31-3S-5W,Ameren Illinois Company,Tilden #6-HOR,"1029'S line, 502'W line of NW",GST,66261,1.21892E+11,Cypress,Apr-20
+98,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Georgia #3,"654'N line, 331'E line of SE NE",OIL,66256,1.21933E+11,Fort Payne,Apr-20
+99,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Keitha #1,"353'N line, 329'W line of SW NE",OIL,66257,1.21933E+11,Fort Payne,Apr-20
+100,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Keitha #2,"341'N line, 631'W line of NE SE NW",OIL,66258,1.21933E+11,Fort Payne,Apr-20
+101,White,17-4S-14W,"Campbell Energy, LLC","Hughes, C. C. #10","660'S line, 330'E line of NE SE",OIL,66244,1.21933E+11,Ullin,Apr-20
+102,White,17-4S-14W,"Campbell Energy, LLC","Hughes, C. C. #11","0'S line, 403'E line of NE SE",OIL,66245,1.21933E+11,Ullin,Apr-20
+103,White,17-4S-14W,"Campbell Energy, LLC","Hughes, C. C. #13","495'N line, 330'W line of NE SE",OIL,66246,1.21933E+11,Ullin,Apr-20
+104,White,17-4S-14W,"Campbell Energy, LLC","Hughes, C. C. #15","330'N line, 448'W line of SE SE",OIL,66247,1.21933E+11,Ullin,Apr-20
+105,White,17-7S-8E,"Webb, Patrick Oil L.L.C.","Douglas, F. #1","330'N line, 330'W line of NE SE",OIL,66249,1.21933E+11,Fort Payne,Apr-20
+106,Clark,5-11N-14W,"Ashley Oil, Inc.",Van Liew #3-MIC,"0'S line, 220'W line of NE NE NW",WI,204777,1.20233E+11,St Louis,Apr-21
+107,Clark,5-11N-14W,"Ashley Oil, Inc.",Van Liew #5-MIC,"0'S line, 220'W line of SE NE NW",WI,204776,1.20233E+11,St Louis,Apr-21
+108,Crawford,11-7N-13W,B & D Resources,Glenn #W2-1,"0'N line, 0'E line of NE SE NE",OIL,66389,1.20334E+11,Spoon,Apr-21
+109,Franklin,24-5S-3E,Gesell's Pump Sales & Service,Bean #1,"763'N line, 330'W line of NW NE",OIL,66379,1.20553E+11,Spechts Fe,Apr-21
+110,Franklin,29-5S-3E,Gesell's Pump Sales & Service,Bauer #3,"102'S line, 330'E line of SE SE NW",OIL,66383,1.20553E+11,Ullin,Apr-21
+111,Franklin,3-6S-3E,Gesell's Pump Sales & Service,U. S. Coal and Coke #1-B,"330'N line, 330'E line of NW NW",OIL,66390,1.20553E+11,Bailey,Apr-21
+112,Jefferson,29-1S-3E,"Pioneer Oil Co., Inc.",Arnett #1,"330'N line, 400'E line of NE NE",OIL,66387,1.20813E+11,Ullin,Apr-21
+113,Madison,28-6N-6W,"MB Oil Production, Inc.",Albrecht #4,"670'N line, 1310'E line of NE NE NE",OIL,66392,1.21193E+11,Spoon,Apr-21
+114,Richland,30-2N-14W,"Galaxie Exploration Services, LLC",Wilson #7-WI,"990'N line, 990'W line of NE",WI,204775,1.21593E+11,Cypress,Apr-21
+115,Wabash,19-2S-13W,"Countrymark Energy Resources, LLC",Schmidt #7,"340'S line, 555'W line of SW NE",OIL,66391,1.21853E+11,Spoon,Apr-21
+116,Wayne,30-1S-7E,Basnett Investments,McNeil #3,"453'N line, 703'E line of SE NE",OIL,66388,1.21913E+11,St Louis,Apr-21
+117,White,20-3S-8E,"Wood Energy, Inc.",Miller - Andrews #23,"330'S line, 330'E line of SE SW SW",OIL,66393,1.21933E+11,Bailey,Apr-21
+118,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-2,"990'N line, 990'W line of SW",OIL,66384,1.21933E+11,Fort Payne,Apr-21
+119,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-5,"638'S line, 188'W line of SE SW",OIL,66385,1.21933E+11,Fort Payne,Apr-21
+120,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-7,"643'S line, 448'E line of SW SW",OIL,66386,1.21933E+11,Fort Payne,Apr-21
+121,White,31-3S-11E,"Campbell Energy, LLC",Davis #2,"380'N line, 330'E line of S2 NE",OIL,66382,1.21933E+11,Fort Payne,Apr-21
+122,White,31-3S-11E,"Campbell Energy, LLC",Davis #4,"330'S line, 380'E line of N2 SE",OIL,66381,1.21933E+11,Fort Payne,Apr-21
+123,White,31-3S-11E,"Campbell Energy, LLC",Davis #8,"10'S line, 360'E line of S2 NE",OIL,66380,1.21933E+11,Ullin,Apr-21
+124,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #38 (4-51",") 430'N line, 330'W line of NE",WI,204778,1.21933E+11,Salem,Apr-21
+125,Christian,4-15N-1W,Podolsky Oil Co.,"McMillen, T. R. #2","330'S line, 330'E line of SW SE",OIL,65683,1.20213E+11,Pre-Cambr,Aug-18
+126,Clark,26-9N-14W,"ITB Oil, LLC",Murphy #2,"455'S line, 330'E line of SW SW",OIL,65691,1.20233E+11,Geneva,Aug-18
+127,Clark,26-9N-14W,"ITB Oil, LLC",Ritter #1,"330'N line, 330'W line of NE SW",OIL,65690,1.20233E+11,Trenton,Aug-18
+128,Crawford,10-7N-13W,"Maus's Well Service, Inc.","Stantz, C. #14","330'N line, 483'W line of SE SW",OIL,65689,1.20334E+11,Robinson,Aug-18
+129,Crawford,16-7N-13W,"Maus's Well Service, Inc.",Wall #4-A,"330'S line, 330'E line of SW NW",OIL,65687,1.20334E+11,Robinson,Aug-18
+130,Crawford,16-7N-13W,"Maus's Well Service, Inc.",Wall #6,"330'S line, 330'E line of NE NW",OIL,65688,1.20333E+11,Robinson,Aug-18
+131,Edwards,30-2S-10E,"Mid-States Oil, LLC",Foster #2,"330'S line, 330'W line of SE SE",OIL,65676,1.20472E+11,Warsaw,Aug-18
+132,Fayette,35-5N-1E,"Wellspring Holdings, LLC",Brummet #1,"330'S line, 770'E line of SE SW",OIL,65662,1.20513E+11,Trenton,Aug-18
+133,Fayette,35-5N-1E,"Wellspring Holdings, LLC",Brummet #2,"330'N line, 330'E line of SW SW",OIL,65663,1.20513E+11,Trenton,Aug-18
+134,Franklin,35-5S-1E,"Pioneer Oil Co., Inc.",Bartolotti #5,"376'N line, 252'W line of SW SE",OIL,65696,1.20553E+11,Clear Cree,Aug-18
+135,Franklin,35-5S-1E,"Pioneer Oil Co., Inc.",Sesser Unit POC #35-2,"383'S line, 488'E line of SW NE",OIL,65659,1.20553E+11,Platteville,Aug-18
+136,Franklin,25-5S-2E,Gesell's Pump Sales & Service,Pickens - Adams #2,"330'S line, 990'W line of SW SE",OIL,65671,1.20553E+11,Bailey,Aug-18
+137,Franklin,13-7S-2E,"Lampley Oil, Inc.",Orient #2-A WI,"330'S line, 582'W line of SE NW",WI,204632,1.20553E+11,Salem,Aug-18
+138,Franklin,8-7S-3E,"Lampley Oil, Inc.",Lampley - CNX 8 #1-A,"330'S line, 1900'E line of SE",OIL,65657,1.20553E+11,Warsaw,Aug-18
+139,Franklin,16-7S-3E,"Lampley Oil, Inc.",Lampley - CNX 9 #3-B,"330'N line, 330'W line of NW NE",OIL,65658,1.20553E+11,Warsaw,Aug-18
+140,Gallatin,35-7S-8E,"Dee Drilling Co., Inc.",Brockschmidt Estate #1,"338'S line, 331'E line of NE NW",OIL,65672,1.20593E+11,Ste Genevi,Aug-18
+141,Hamilton,36-6S-5E,"Brehm Oil Company, Inc.","Moore, M. C. #3-36","330'S line, 330'W line of NE SW",OIL,65685,1.20653E+11,Aux Vases,Aug-18
+142,Hamilton,36-6S-5E,"Brehm Oil Company, Inc.","Moore, M. C. #4-36","330'N line, 330'W line of NE SW",OIL,65686,1.20653E+11,Aux Vases,Aug-18
+143,Jasper,15-5N-9E,"S. F. Oil Company, Inc.",Kuhl #2,"465'S line, 330'W line of SW SW",OIL,65695,1.20793E+11,McClosky,Aug-18
+144,Jasper,14-7N-10E,Geier Oil Inc.,Stretcher #1-A,"330'N line, 330'E line of NE SE SE",OIL,65694,1.20793E+11,St Louis,Aug-18
+145,Jasper,32-8N-14W,"Reynolds, Steven L.",Spencer #3,"990'S line, 330'W line of NW SW",OIL,65677,1.20793E+11,McClosky,Aug-18
+146,Jefferson,30-3S-2E,"Countrymark Energy Resources, LLC",Panzier #7,"518'S line, 53'W line of SW NE",OIL,65673,1.20813E+11,Clear Cree,Aug-18
+147,Lawrence,11-3N-12W,"CDG Operations, LLC","McPherson, R. #W-8 WSW","960'S line, 360'E line of SE",WSU,65675,1.21013E+11,Cypress,Aug-18
+148,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #121-CDG","540'S line, 590'W line of SW SW",OIL,65670,1.21013E+11,Salem,Aug-18
+149,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #122-CDG","558'S line, 513'E line of NE SW",OIL,65667,1.21013E+11,Salem,Aug-18
+150,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #123-CDG","181'N line, 655'E line of SE SW",OIL,65666,1.21013E+11,Salem,Aug-18
+151,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #125-CDG","508'N line, 11'E line of NW SW",OIL,65668,1.21013E+11,Salem,Aug-18
+152,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #127-CDG","408'N line, 239'E line of SW SW",OIL,65669,1.21013E+11,Salem,Aug-18
+153,Lawrence,35-3N-12W,"CDG Operations, LLC","Gould, H. H. #48-CDG","183'N line, 647'W line of SW NW",OIL,65653,1.21013E+11,Salem,Aug-18
+154,Lawrence,35-3N-12W,"CDG Operations, LLC",Hulfachor #5-CDG,"367'N line, 348'W line of NW NE",OIL,65664,1.21013E+11,Salem,Aug-18
+155,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c 1 (80),#105-CDG","257'N line, 50'W line of NE NW",OIL,65655,1.21013E+11,Salem,Aug-18
+156,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c 1 (80),#106-CDG","542'S line, 648'W line of NW NW",OIL,65652,1.21013E+11,Salem,Aug-18
+157,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c1 (80),#104-CDG","177'S line, 821'W line of NW NW",OIL,65654,1.21013E+11,Salem,Aug-18
+158,Marion,5-3N-1E,Penn Energy Corp.,Nattier - Walker #1-TW-SWD,"990'N line, 1320'E line of SW",SWD,204635,1.21213E+11,Trenton,Aug-18
+159,Randolph,25-6S-6W,Ebers Drilling Co.,Wilson Trust #1,"330'N line, 990'W line of SW",GAS,65693,1.21573E+11,Aux Vases,Aug-18
+160,Richland,30-3N-9E,"Countrymark Energy Resources, LLC",Long #3,"404'S line, 824'E line of NW",OIL,65674,1.21593E+11,Salem,Aug-18
+161,Richland,31-3N-9E,"Countrymark Energy Resources, LLC",Earnest #2,"990'N line, 330'W line of NW",OIL,65660,1.21593E+11,Warsaw,Aug-18
+162,Richland,31-3N-9E,"Countrymark Energy Resources, LLC",Earnest #3,"330'N line, 330'E line of NW",OIL,65661,1.21593E+11,Warsaw,Aug-18
+163,Richland,6-4N-10E,"Trojan Oil Co., Inc.",Murray #1-D,"330'S line, 330'W line of NE NW",WI,204638,1.21592E+11,St Louis,Aug-18
+164,Saline,24-8S-6E,Bankston Creek Land Trust,Vulcan Materials #2-SWD,"330'S line, 330'W line of NE SW",SWD,204634,1.21652E+11,Hardinsbur,Aug-18
+165,Shelby,27-10N-5E,"P & M Oil, Inc.",Chaffee #10-WI,"25'N line, 0'W line of NE NE",WI,204636,1.21732E+11,Aux Vases,Aug-18
+166,Wabash,7-1S-12W,Keron Oil Development,Campbell Heirs #11,"395'S line, 394'W line of NE NE",OIL,65651,1.21853E+11,Salem,Aug-18
+167,Wabash,19-2S-13W,"Countrymark Energy Resources, LLC","Schmidt, Clarence #6","430'N line, 430'E line of SW NE",OIL,65656,1.21853E+11,Bridgeport,Aug-18
+168,Wayne,32-1S-9E,Southern Triangle Oil Co.,Collins Brothers #9,"273'S line, 891'W line of SW",OIL,65692,1.21913E+11,St Louis,Aug-18
+169,White,19-3S-8E,"Triple S Petroleum, Inc.",Poorman #B-6 SWD,"450'N line, 350'E line of SW SE",SWD,204637,1.21933E+11,Caseyville,Aug-18
+170,White,25-3S-10E,Shawnee Exploration Partners LLC,Morris #C-6 WIW,"330'S line, 660'E line of NE SE",WI,204633,1.21933E+11,Warsaw,Aug-18
+171,White,29-3S-14W,"Keepes Petroleum, Inc.","Rawlinson, Frank #4","325'S line, 330'E line of NW NW",OIL,65684,1.21931E+11,McClosky,Aug-18
+172,White,1-4S-10E,"Campbell Energy, LLC",Willard #1,"341'S line, 330'W line of NW NE",OIL,65678,1.21933E+11,Fort Payne,Aug-18
+173,White,1-4S-10E,"Campbell Energy, LLC",Willard #2,"330'N line, 330'E line of SW NE",OIL,65679,1.2193E+11,Fort Payne,Aug-18
+174,White,1-4S-10E,"Campbell Energy, LLC",Willard #3,"20'N line, 330'E line of SE NE",OIL,65680,1.21933E+11,Fort Payne,Aug-18
+175,White,1-4S-10E,"Campbell Energy, LLC",Willard #4,"330'S line, 330'W line of SE SW NE",OIL,65681,1.21933E+11,Warsaw,Aug-18
+176,White,1-4S-10E,"Campbell Energy, LLC",Willard #5,"650'S line, 365'E line of SE NE",OIL,65682,1.21933E+11,Fort Payne,Aug-18
+177,White,4-4S-14W,"Campbell Energy, LLC",Evans SWD #1,"96'N line, 72'W line of NW NW",SWD,204614,1.21933E+11,Caseyville,Aug-18
+178,Christian,28-14N-2W,Vision Energy LLC,Sheldon #3,"339'N line, 680'W line of NW SE",OIL,66068,1.20213E+11,Edgewood,Aug-19
+179,Coles,13-12N-10E,Ameren Illinois Company,"Walton, L. O. #6-A","350'S line, 330'W line of SE NE",OBS,66077,1.2029E+11,Pottsville,Aug-19
+180,Crawford,1-5N-13W,"Doral Energy, Inc",Hille #MH-1,"330'N line, 330'W line of NW SE",OIL,66084,1.20334E+11,Spoon,Aug-19
+181,Crawford,1-5N-13W,"Doral Energy, Inc",Hille #MH-2,"330'N line, 940'W line of NW SE",OIL,66083,1.20334E+11,Spoon,Aug-19
+182,Crawford,1-5N-13W,"Doral Energy, Inc",Hille #MH-3,"330'S line, 940'W line of NW SE",OIL,66082,1.20334E+11,Spoon,Aug-19
+183,Crawford,1-5N-13W,"Doral Energy, Inc",Hille #MH-4,"330'S line, 330'W line of NW SE",OIL,66081,1.20334E+11,Spoon,Aug-19
+184,Crawford,1-5N-13W,"Doral Energy, Inc",Hille #MH-5,"330'N line, 380'E line of NE SW",OIL,66080,1.20334E+11,Aux Vases,Aug-19
+185,Crawford,20-6N-12W,"Maus's Well Service, Inc.",McCall #3-WI,"440'S line, 330'W line of NW NW",WI,204690,1.20334E+11,Robinson,Aug-19
+186,Fayette,7-6N-3E,"Belden, W. L.","Lewis, D. #2-SWD","65'S line, 1250'E line of SW",SWD,204692,1.20513E+11,Tar Spring,Aug-19
+187,Franklin,1-6S-2E,"Budmark Oil Co., Inc.",Budmark - IL Mineral #62-1,"420'S line, 950'W line of NW SW",OIL,66067,1.20553E+11,Warsaw,Aug-19
+188,Franklin,21-7S-3E,"Lampley Oil, Inc.",Blacktop #21-1,"770'N line, 450'W line of SE",OIL,66069,1.20553E+11,Warsaw,Aug-19
+189,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #122-CDG","558'S line, 513'E line of NE SW",OIL,66063,1.21013E+11,Salem,Aug-19
+190,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #123-CDG","181'N line, 655'E line of SE SW",OIL,66065,1.21013E+11,Salem,Aug-19
+191,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #125-CDG","508'N line, 11'E line of NW SW",OIL,66066,1.21013E+11,Salem,Aug-19
+192,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #126-CDG","35'S line, 464'E line of NE SW",OIL,66064,1.21013E+11,Salem,Aug-19
+193,Lawrence,34-3N-12W,"CDG Operations, LLC","Gee, S. J. a/c 1 #67-CDG","401'N line, 74'E line of SE NE",OIL,66060,1.21013E+11,Salem,Aug-19
+194,Lawrence,34-3N-12W,"CDG Operations, LLC","Vandermark, L. A. #38-CDG","141'S line, 459'W line of NE NE",OIL,66062,1.21013E+11,Salem,Aug-19
+195,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c 1 (80),#105-CDG","257'N line, 50'W line of NE NW",OIL,66059,1.21013E+11,Salem,Aug-19
+196,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c1 (80),#104-CDG","177'S line, 821'W line of NW NW",OIL,66061,1.21013E+11,Salem,Aug-19
+197,Macoupin,15-8N-6W,"Hardt, Edwin E.",Stoecker #33-WI,"660'S line, 330'W line of NW",WI,204691,1.21172E+11,Spoon,Aug-19
+198,Madison,8-4N-6W,"Kiec, Inc",Heuser #C-1 HOR,"330'S line, 330'W line of SE NE",OIL,66076,1.21193E+11,"Moccasin,Springs",Aug-19
+199,Madison,8-4N-6W,"Kiec, Inc",Heuser #M-4 HOR,"330'S line, 330'E line of NE SE",OIL,66075,1.21193E+11,"Moccasin,Springs",Aug-19
+200,Madison,8-4N-6W,"Kiec, Inc",Heuser #M-6 HOR,"330'S line, 330'W line of SE SE",OIL,66073,1.21193E+11,"Moccasin,Springs",Aug-19
+201,Madison,8-4N-6W,"Kiec, Inc","Heuser, H. #4 HOR","330'N line, 330'W line of NE SE",OIL,66074,1.2119E+11,"Moccasin,Springs",Aug-19
+202,Richland,30-2N-11E,"Woodcock Oil, LLC",Koertge - Harrison #4,"335'N line, 335'W line of SE NE",OIL,66086,1.21593E+11,Cypress,Aug-19
+203,Richland,18-2N-14W,"Small & Small, Inc.","Ridgely, Trevor #1","333'N line, 336'W line of NE SE",OIL,66088,1.21593E+11,Cypress,Aug-19
+204,Sangamon,28-16N-3W,West Bay Exploration Co.,Meijer #1-28,"2328'N line, 2321'E line of NE NE NE",OIL,66078,1.21673E+11,Silurian,Aug-19
+205,Washington,31-3S-5W,Ameren Illinois Company,Hunter #2,"330'S line, 330'E line of NW NW",OBS,66087,1.2189E+11,Cypress,Aug-19
+206,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC","Bass, Dewey #1-B","359'N line, 347'E line of SE NW",OIL,66070,1.21913E+11,Warsaw,Aug-19
+207,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC",Van Fansler #1-A,"500'S line, 346'W line of NW SE",OIL,66079,1.21913E+11,Salem,Aug-19
+208,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC","White, Paul #3-A","286'S line, 372'W line of NW NE",OIL,66071,1.21913E+11,Warsaw,Aug-19
+209,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC","White, Paul #5","340'S line, 515'W line of SW NE",OIL,66072,1.21913E+11,Warsaw,Aug-19
+210,White,14-4S-10E,"ACF Resources, LLC",Healy Disposal #1,"375'N line, 654'W line of SE NW",SWD,204689,1.21933E+11,Caseyville,Aug-19
+211,Christian,18-15N-1W,"Podolsky, Bernard Estate","Montgomery Estate, R. #2","710'S line, 330'W line of SE SW",WI,204761,1.2021E+11,Racine,Aug-20
+212,Clay,11-2N-5E,"Podolsky, Bernard Estate",Campbell Heirs Deep #9,"330'N line, 230'E line of SW",OIL,66281,1.20253E+11,Bailey,Aug-20
+213,Crawford,26-6N-12W,"Jones, Donald E., Jr.",McCoy #1,"330'S line, 330'W line of SW SW",GAS,66286,1.20333E+11,Spoon,Aug-20
+214,Crawford,26-6N-12W,"Jones, Donald E., Jr.",McCoy #5,"384'S line, 401'E line of NW SW",GAS,66285,1.20333E+11,Aux Vases,Aug-20
+215,Hamilton,7-6S-6E,"Wood Energy, Inc.",Dial #2,"660'N line, 330'W line of NE NW",OIL,66283,1.20653E+11,Ullin,Aug-20
+216,Jefferson,36-1S-4E,Resolve Exploration Corp.,Withrow #3,"890'S line, 330'E line of NW",OIL,66289,1.20813E+11,Ullin,Aug-20
+217,Kankakee,5-29N-10E,Natural Gas Pipeline Co. of America,Kruse #O-2,"40'N line, 660'E line of NE",OBS,66287,1.20913E+11,"Wise Lake,Dolomite",Aug-20
+218,Kankakee,29-30N-10E,Natural Gas Pipeline Co. of America,Kilpatrick - St. Peter #2,"2532'S line, 2676'E line of SE",OBS,66279,1.2091E+11,St Peter,Aug-20
+219,Kankakee,29-30N-10E,Natural Gas Pipeline Co. of America,Kilpatrick - St. Peter #6,"76'S line, 200'E line of SW",OBS,66278,1.2091E+11,St Peter,Aug-20
+220,Kankakee,29-30N-10E,Natural Gas Pipeline Co. of America,Kilpatrick - St. Peter #7,"590'S line, 12'E line of SW",OBS,66277,1.2091E+11,St Peter,Aug-20
+221,LaSalle,5-34N-1E,Northern Illinois Gas Company,"Mathesius, L. #9","64'S line, 183'E line of NW NE NE",SWD,204759,1.20993E+11,Mount Sim,Aug-20
+222,Lawrence,22-3N-12W,"Loeb, Herman L. LLC",Buchanan 'B' #1-22,"660'S line, 330'E line of SE SE SW",OIL,66288,1.21013E+11,Salem,Aug-20
+223,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c 1 #97-WI","660'S line, 330'W line of SE NE",WI,204760,1.21013E+11,Ste Genevi,Aug-20
+224,Marion,19-1N-1E,T.D. Energy Inc.,T. D. Energy #4,"213'S line, 557'W line of SW SE NW",OIL,66284,1.21213E+11,Clear Cree,Aug-20
+225,Menard,3-19N-7W,"DAC Energy & Drilling, LLC",Dart #5-1,"330'N line, 330'E line of NE SW SE",OIL,66292,1.21292E+11,Spechts Fe,Aug-20
+226,Montgomery,33-8N-5W,"Eggemeyer, Ronald D.","Simburger, Rose #1","330'S line, 495'E line of SE SE SE",OIL,66282,1.21352E+11,Spoon,Aug-20
+227,Perry,20-5S-1W,"KWR Ventures, L.L.C.",Opps #1-20,"330'S line, 330'W line of SW NE SE",OIL,66275,1.21453E+11,Ste Genevi,Aug-20
+228,Perry,21-5S-1W,"KWR Ventures, L.L.C.",Tamaroa South Pier #1-21,"330'S line, 445'E line of SW NW",OIL,66276,1.21453E+11,Ste Genevi,Aug-20
+229,Perry,29-5S-1W,"KWR Ventures, L.L.C.",Opps #1-29,"330'N line, 330'E line of NE NW NE",OIL,66274,1.21453E+11,Ste Genevi,Aug-20
+230,Sangamon,28-16N-3W,"Bi-Petro, Inc.",Patterson #1,"330'S line, 330'E line of NW",OIL,66291,1.21673E+11,Edgewood,Aug-20
+231,Sangamon,28-16N-3W,"Bi-Petro, Inc.",Patterson #2,"330'N line, 330'E line of SW",OIL,66290,1.21673E+11,Edgewood,Aug-20
+232,White,15-4S-10E,"ACF Resources, LLC","Carter, Claude #1-WIW","330'S line, 330'E line of SW",WI,204758,1.21933E+11,Aux Vases,Aug-20
+233,White,17-4S-14W,"Campbell Energy, LLC","Hughes, C. C. #3-B","300'N line, 300'E line of SE",WI,204762,1.2193E+11,Aux Vases,Aug-20
+234,White,3-6S-10E,Pamco Oil & Gas LLC,Duvall #71X-3,"354'N line, 873'E line of NE NE",OIL,66293,1.21933E+11,Ullin,Aug-20
+235,Williamson,15-8S-3E,Ameren Illinois Company,C.I.P.S. #CO-1,"298'N line, 275'W line of SE NW",OBS,66280,1.21992E+11,Carbondale,Aug-20
+236,Clark,36-10N-14W,N and R Inc.,"Howard, Leon #2A","330'S line, 990'W line of SW SW NW",WI,204791,1.20233E+11,Abbott,Aug-21
+237,Crawford,33-7N-13W,"Rhex, LLC",Caywood #RX-1,"51'N line, 93'W line of SW SW SW",WI,204796,1.20334E+11,Spoon,Aug-21
+238,Crawford,33-7N-13W,"Rhex, LLC",Caywood #RX-2,"19'N line, 14'W line of NW SW SW",WI,204797,1.20334E+11,Spoon,Aug-21
+239,Crawford,33-7N-13W,"Rhex, LLC",Mosbey #S-4,"26'S line, 48'E line of SE NW NE",WI,204795,1.20334E+11,Spoon,Aug-21
+240,Edwards,24-2S-10E,"Anderson, Clint E.",Wick #4,"330'N line, 365'W line of SE NE",OIL,66466,1.20473E+11,Ullin,Aug-21
+241,Edwards,12-3S-10E,"Got Oil, LLC",Fieber #W-15,"330'S line, 330'E line of NE NE",WI,204794,1.20472E+11,Aux Vases,Aug-21
+242,Fayette,33-8N-3E,Natural Gas Pipeline Co. of America,"Dial, Silas #13-SWD","110'N line, 107'W line of NE NW",SWD,204793,1.2051E+11,Salem,Aug-21
+243,Hamilton,10-5S-7E,"Campbell Energy, LLC","Johnson, Vada ""A"" #7-WI","330'S line, 330'W line of SE",WI,204792,1.20652E+11,Cypress,Aug-21
+244,Hamilton,12-6S-5E,"Bi-Petro, Inc.",Smith #1-B,"330'N line, 380'W line of SE SE",OIL,66469,1.20653E+11,Ullin,Aug-21
+245,Hamilton,14-6S-5E,"Bi-Petro, Inc.",Culpepper #2-B,"330'N line, 380'E line of SW SE",OIL,66470,1.20653E+11,Ullin,Aug-21
+246,Wabash,17-1N-12W,"Seaton, Gregory S.",Stevens Farms #1,"1136'N line, 330'E line of NE",OIL,66460,1.21853E+11,Ste Genevi,Aug-21
+247,Wabash,11-3S-14W,"Nichols Operating, LLC",Dunn #9-11,"253'S line, 269'E line of SW NE",OIL,66467,1.21853E+11,Tar Spring,Aug-21
+248,White,22-4S-14W,Citation Oil & Gas Corp.,"Collins, B. S. #10","330'S line, 330'W line of SE SE",OIL,66457,1.21933E+11,Ullin,Aug-21
+249,White,22-4S-14W,Citation Oil & Gas Corp.,"Collins, B. S. #8","330'N line, 330'E line of SW SE",OIL,66455,1.21933E+11,Ullin,Aug-21
+250,White,22-4S-14W,Citation Oil & Gas Corp.,"Collins, B. S. #9","330'S line, 330'W line of SW SE",OIL,66456,1.21933E+11,Ullin,Aug-21
+251,White,22-4S-14W,Citation Oil & Gas Corp.,"Ford, Harry C. #23","330'S line, 365'E line of NE SE",OIL,66458,1.21933E+11,Ullin,Aug-21
+252,White,27-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #91","384'N line, 355'W line of SE NE",OIL,66459,1.21933E+11,Ullin,Aug-21
+253,White,27-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #C-17","660'N line, 660'W line of SW SE",OIL,66471,1.2193E+11,Ullin,Aug-21
+254,White,33-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #109","319'S line, 353'E line of NE SW",OIL,66461,1.21933E+11,Ullin,Aug-21
+255,White,33-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #110","378'N line, 232'E line of NE SW SW",OIL,66462,1.21933E+11,Ullin,Aug-21
+256,White,33-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #111","306'N line, 418'W line of SE SW",OIL,66463,1.21933E+11,Ullin,Aug-21
+257,White,33-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #113","351'S line, 312'E line of SE SW",OIL,66464,1.21933E+11,Ullin,Aug-21
+258,White,33-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #114","390'S line, 289'E line of SW SE",OIL,66465,1.21933E+11,Ullin,Aug-21
+259,White,35-5S-10E,Pamco Oil & Gas LLC,Ackerman #17-35,"362'N line, 330'E line of NW SW SW",OIL,66468,1.21933E+11,Ullin,Aug-21
+260,Christian,9-15N-1W,Podolsky Oil Co.,"McMillen ""B"" #5","330'S line, 330'E line of SW NE",OIL,65821,1.20213E+11,Racine,Dec-18
+261,Clay,16-3N-6E,"Third Day Oil and Gas, LLC",Garrett #1,"610'N line, 330'W line of NW SW NW",OIL,65806,1.20253E+11,"Moccasin,Springs",Dec-18
+262,Clay,28-4N-6E,"MDM Energy, Inc.",Kincaid #1,"100'N line, 1850'E line of NE",OBS,65828,1.20253E+11,Bailey,Dec-18
+263,Crawford,12-5N-11W,Decker's Well Service & Producing,Kent #W-2,"48'S line, 25'E line of SE SE SW",WI,204659,1.20334E+11,Robinson,Dec-18
+264,Jasper,20-6N-9E,"Aeos, LLC",Chaney #5,"1650'S line, 1897'E line of SE",OIL,65811,1.20793E+11,St Louis,Dec-18
+265,Jefferson,30-3S-2E,"Countrymark Energy Resources, LLC",Panzier #4-W,"539'S line, 255'W line of NE SE",WI,204660,1.20813E+11,Salem,Dec-18
+266,Kankakee,3-30N-9E,Natural Gas Pipeline Co. of America,"Cook, P. #1","4067'S line, 47'W line of section",OBS,65823,1.2091E+11,Mount Sim,Dec-18
+267,Lawrence,5-3N-12W,"CDG Operations, LLC","Cooper, S. N. a/c 1 #CD-4,WSW","351'S line, 336'W line of SW NW",WSU,65802,1.2101E+11,Bridgeport,Dec-18
+268,Lawrence,5-3N-12W,"CDG Operations, LLC","Cooper, S. N. a/c 1 #CD-6,WSW","330'S line, 330'W line of NW SW",WSU,65827,1.2101E+11,Bridgeport,Dec-18
+269,Lawrence,35-3N-12W,"CDG Operations, LLC","Gould, A. L. #SWD-1CDG","58'N line, 20'W line of NW SE",SWD,204661,1.21013E+11,Eau Claire,Dec-18
+270,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c 1 #HM-7A,WSW","1344'N line, 685'W line of NW",WSU,65826,1.21013E+11,McClosky,Dec-18
+271,Lawrence,24-4N-13W,"CDG Operations, LLC","King, Perry a/c 1 & 2 #GM-17 WSW","2640'S line, 1320'E line of SE",WSU,65822,1.21013E+11,McClosky,Dec-18
+272,Madison,28-6N-6W,"MB Oil Production, Inc.",Albrecht #1,"330'N line, 239'E line of NW NE NE",OIL,65829,1.21193E+11,Spoon,Dec-18
+273,Marion,19-1N-1E,T.D. Energy Inc.,"Borum, T. #1","232'N line, 161'E line of NW SW SW",OIL,65820,1.21213E+11,Aux Vases,Dec-18
+274,Saline,23-8S-6E,"KWR Ventures, L.L.C.",Butler Heirs #1,"235'S line, 330'E line of NE SW",OIL,65819,1.21653E+11,St Louis,Dec-18
+275,Saline,4-8S-7E,"KWR Ventures, L.L.C.",Oldham #1-4,"330'N line, 330'W line of NE NE",OIL,65807,1.21653E+11,St Louis,Dec-18
+276,Wabash,5-1S-13W,"Wabash 12 Oil, LLC",Keepes - Shearer #2,"330'N line, 330'E line of SW NE",OIL,65810,1.21853E+11,Salem,Dec-18
+277,Wabash,15-3S-14W,"Campbell Energy, LLC",Performance #15-1,"336'N line, 335'E line of NE SE",OIL,65812,1.21853E+11,Fort Payne,Dec-18
+278,Wabash,15-3S-14W,"Campbell Energy, LLC",Performance #15-2,"330'N line, 438'E line of NW NE",OIL,65818,1.21853E+11,Fort Payne,Dec-18
+279,Wabash,15-3S-14W,"Campbell Energy, LLC",Performance #15-3,"336'S line, 336'W line of NE NE",OIL,65814,1.21853E+11,Fort Payne,Dec-18
+280,Wabash,15-3S-14W,"Campbell Energy, LLC",Performance #15-4,"336'N line, 336'E line of SW NE",OIL,65815,1.21853E+11,Fort Payne,Dec-18
+281,Wabash,15-3S-14W,"Campbell Energy, LLC",Performance #15-5,"336'S line, 354'W line of SE NE",OIL,65816,1.21853E+11,Fort Payne,Dec-18
+282,Wabash,15-3S-14W,"Campbell Energy, LLC",Performance #15-6,"670'S line, 334'E line of NW SE",OIL,65817,1.21853E+11,Fort Payne,Dec-18
+283,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC",Hilliard #2,"506'S line, 347'W line of NE NW",OIL,65830,1.21913E+11,Warsaw,Dec-18
+284,Wayne,4-2S-7E,"Paragon Oil Company, Inc.",Sprague #4-B,"335'S line, 330'E line of NW SE",OIL,65800,1.21913E+11,Salem,Dec-18
+285,White,29-3S-14W,"Campbell Energy, LLC",Eastwood #1,"334'N line, 333'E line of NE SE",OIL,65798,1.21933E+11,Ullin,Dec-18
+286,White,29-3S-14W,"Campbell Energy, LLC",Eastwood #2,"334'S line, 330'E line of NE SE",OIL,65797,1.21933E+11,Ullin,Dec-18
+287,White,29-3S-14W,"Campbell Energy, LLC",Eastwood #6,"0'S line, 258'E line of NW NE SE",OIL,65799,1.21933E+11,Fort Payne,Dec-18
+288,White,30-3S-14W,"Keepes Petroleum, Inc.",Glaze Five SWD #1,"330'S line, 330'W line of SW SW",SWD,204658,1.21933E+11,Degonia,Dec-18
+289,White,32-3S-14W,"Campbell Energy, LLC","Hon, C. #3-PO","673'S line, 330'W line of SE SE",OIL,65825,1.21933E+11,Fort Payne,Dec-18
+290,White,33-3S-14W,"Campbell Energy, LLC",Bump #16,"675'S line, 330'W line of NW NW",OIL,65805,1.21933E+11,Warsaw,Dec-18
+291,White,7-4S-14W,"Campbell Energy, LLC",Estate 80 #2,"331'S line, 330'E line of NE SE",OIL,65809,1.21933E+11,Fort Payne,Dec-18
+292,White,17-4S-14W,"Campbell Energy, LLC","Hughes, Dennis #17-3","330'N line, 330'W line of SW NW",OIL,65801,1.21933E+11,Fort Payne,Dec-18
+293,White,28-4S-14W,Citation Oil & Gas Corp.,"Jacobs, E. S. #A-5","330'S line, 330'E line of NW",OIL,65824,1.2193E+11,Warsaw,Dec-18
+294,White,33-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #106","330'S line, 380'W line of NW SE",OIL,65803,1.21933E+11,Warsaw,Dec-18
+295,White,31-5S-9E,Wabash Prod. & Dev. Corp.,Absher - Storey #1,"331'N line, 331'E line of NW NE",OIL,65808,1.21933E+11,St Louis,Dec-18
+296,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #15","350'N line, 330'W line of NE SE",OIL,65804,1.21931E+11,Warsaw,Dec-18
+297,White,18-5S-14W,"Campbell Energy, LLC",Kempf #5,"330'S line, 330'E line of SE SE",OIL,65813,1.21933E+11,Fort Payne,Dec-18
+298,Coles,25-12N-7E,Scott Oil Company,Daily #2-W,"330'S line, 990'W line of SW SW",WI,204711,1.2029E+11,Ste Genevi,Dec-19
+299,Edgar,35-15N-14W,"Pioneer Oil Co., Inc.",Keske #1-35,"990'N line, 330'E line of NE SW",OIL,66181,1.20452E+11,Clear Cree,Dec-19
+300,Edwards,18-3S-11E,"Keepes Petroleum, Inc.",Rahmoeller #SWD-1,"378'S line, 991'W line of SW NW",WI,204713,1.20472E+11,Caseyville,Dec-19
+301,Hamilton,21-3S-7E,"Pioneer Oil Co., Inc.",Morris #1-21,"331'S line, 430'E line of SW SE",OIL,66175,1.20653E+11,Fort Payne,Dec-19
+302,Jefferson,36-1S-4E,Resolve Exploration Corp.,Withrow #2,"330'N line, 330'E line of NW NE",OIL,66187,1.20813E+11,Ullin,Dec-19
+303,Jefferson,30-3S-2E,"Countrymark Energy Resources, LLC",Philp Estate #5-D DIR,"124'S line, 127'E line of NE SE",OIL,66178,1.20813E+11,Salem,Dec-19
+304,Macoupin,15-8N-6W,"Hardt, Edwin E.",Stoecker #37,"2310'S line, 330'W line of NW",OIL,66186,1.21172E+11,Spoon,Dec-19
+305,Macoupin,16-8N-6W,"Hardt, Edwin E.",Stoecker #36,"660'N line, 1319'W line of NE NE",OIL,66185,1.21172E+11,Spoon,Dec-19
+306,Madison,16-4N-6W,"Kiec, Inc","Mayer, Louis #3-HOR","330'S line, 330'E line of NE SE",OIL,66182,1.2119E+11,"Moccasin,Springs",Dec-19
+307,Marion,19-1N-1E,T.D. Energy Inc.,T. D. Energy #3,"70'S line, 353'E line of SE SW NW",OIL,66184,1.21213E+11,Mattoon,Dec-19
+308,Richland,30-2N-11E,"Woodcock Oil, LLC","Harrison, J. #1","338'S line, 340'W line of NE",WI,204710,1.21593E+11,Cypress,Dec-19
+309,St. Clair,34-1N-10W,"Columbia Oil Producers, LLC",Nolte Water Disposal #1,"105'S line, 'W line of NW SE",SWD,204714,1.21633E+11,Potosi,Dec-19
+310,Washington,31-3S-5W,Ameren Illinois Company,Franklin #3,"330'S line, 354'W line of NW SW",OBS,66179,1.2189E+11,Carbondale,Dec-19
+311,White,1-4S-10E,"ACF Resources, LLC",Hon #SWD-2,"122'N line, 468'E line of NE SW NW",SWD,204715,1.21933E+11,Caseyville,Dec-19
+312,White,17-4S-14W,"Campbell Energy, LLC","Hughes, C. C. #4-A","380'N line, 330'W line of SE SE",WI,204712,1.2193E+11,Ullin,Dec-19
+313,White,26-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #50","330'N line, 330'E line of NW NW",OIL,66183,1.21931E+11,Ullin,Dec-19
+314,White,19-5S-14W,"Campbell Energy, LLC",Kempf #14,"324'S line, 302'E line of SE SE",OIL,66180,1.2193E+11,Fort Payne,Dec-19
+315,White,12-7S-9E,"Pioneer Oil Co., Inc.",Chapman #12-1,"279'N line, 330'W line of NW NW NE",OIL,66177,1.21933E+11,Carbondale,Dec-19
+316,White,12-7S-9E,"Pioneer Oil Co., Inc.",Sauls #12-1,"306'S line, 588'E line of NE NE NW",OIL,66176,1.21933E+11,Carbondale,Dec-19
+317,White,8-7S-10E,"Campbell Energy, LLC",Tuley #2,"2310'S line, 990'E line of SW",WI,204716,1.21933E+11,Aux Vases,Dec-19
+318,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #2-MIC,"0'S line, 330'E line of NW NE NW",OIL,66338,1.20233E+11,St Louis,Dec-20
+319,Clark,8-11N-14W,"Ashley Oil, Inc.","Redman, Maxine #1-SC","330'N line, 330'W line of NW NE NW",OIL,66339,1.20233E+11,Borden,Dec-20
+320,Crawford,15-7N-13W,"IL Exploration & Production, Inc.","Stantz, Andrew Heirs #2-W","330'N line, 330'E line of NE",WI,204768,1.20333E+11,Spoon,Dec-20
+321,Edwards,34-2S-10E,"Dee Drilling Co., Inc.",Mobley #1-WIW,"330'N line, 330'E line of NE SE SE",WI,204767,1.20472E+11,Aux Vases,Dec-20
+322,Edwards,18-3S-11E,"Keepes Petroleum, Inc.",Lisa #1,"871'S line, 330'E line of NE",OIL,66337,1.20473E+11,Fort Payne,Dec-20
+323,Edwards,18-3S-11E,"Keepes Petroleum, Inc.",Rahmoeller #18-6,"330'N line, 330'E line of NE NW",OIL,66336,1.20473E+11,Fort Payne,Dec-20
+324,Franklin,25-5S-2E,Gesell's Pump Sales & Service,USX #8,"330'S line, 330'E line of NW SE",OIL,66332,1.20553E+11,Bailey,Dec-20
+325,Jefferson,25-1S-4E,"Darnell, Jeff","Withrow, D. #1","330'S line, 330'E line of SE SW SW",OIL,66324,1.20813E+11,Salem,Dec-20
+326,Jefferson,36-1S-4E,"Darnell, Jeff","Withrow, D. #1-A","330'S line, 330'E line of SE NW NW",OIL,66325,1.20813E+11,Salem,Dec-20
+327,Madison,4-4N-6W,"Kiec, Inc",Schreiber #10,"330'S line, 330'W line of SW SW",OIL,66323,1.21193E+11,Shakopee,Dec-20
+328,Madison,8-4N-6W,"Kiec, Inc",Appel #10,"330'N line, 990'E line of NE NE",OIL,66326,1.21193E+11,Shakopee,Dec-20
+329,Madison,8-4N-6W,"Kiec, Inc",Heuser #10,"797'S line, 330'E line of SE NE",OIL,66327,1.21193E+11,Shakopee,Dec-20
+330,Madison,10-4N-6W,"Kiec, Inc","Brooks, D. #10","330'N line, 380'E line of NE NE",OIL,66322,1.21193E+11,Shakopee,Dec-20
+331,Madison,16-4N-6W,"Kiec, Inc",Pense - Mayer #10,"990'S line, 330'E line of SE NE",OIL,66328,1.21193E+11,Shakopee,Dec-20
+332,Wabash,12-1S-13W,"Keepes Petroleum, Inc.",Sharp #7,"330'N line, 380'E line of NE SW",OIL,66333,1.21853E+11,Fort Payne,Dec-20
+333,Wabash,12-1S-13W,"Keepes Petroleum, Inc.",Sharp #8,"330'N line, 380'E line of NW SW",OIL,66334,1.21853E+11,Fort Payne,Dec-20
+334,Wabash,12-1S-13W,"Keepes Petroleum, Inc.",Sharp #9,"360'S line, 330'W line of NE SW",OIL,66335,1.21853E+11,Fort Payne,Dec-20
+335,Washington,23-1S-3W,"Woolsey Operating Co., LLC",Schuette #1,"330'S line, 330'W line of NE NW",OIL,66330,1.21892E+11,Spechts Fe,Dec-20
+336,Washington,24-1S-3W,"Woolsey Operating Co., LLC","Witte, Allen #1","330'N line, 330'E line of SE NW",OIL,66331,1.21892E+11,Spechts Fe,Dec-20
+337,White,31-3S-11E,"Campbell Energy, LLC",Green - Sturm #2-WI,"390'N line, 330'E line of NE SE",WI,204766,1.21933E+11,Ullin,Dec-20
+338,White,31-3S-14W,"Keepes Petroleum, Inc.",Glaze Five #31-3,"330'S line, 330'W line of NE NW",OIL,66321,1.21933E+11,Fort Payne,Dec-20
+339,White,34-5S-10E,Pamco Oil & Gas LLC,Hill #88X-34,"380'S line, 330'E line of SE SE",OIL,66329,1.21933E+11,Ullin,Dec-20
+340,Cumberland,13-10N-10E,"Cross Oil & Well Service, Inc.",Kiester #C-2,"360'N line, 380'W line of SE NE",OIL,65464,1.20352E+11,Salem,Feb-18
+341,Jefferson,17-4S-1E,"MKE Producing, Inc.",JL #05,"660'N line, 990'W line of NE NW",OIL,65474,1.20813E+11,Fort Payne,Feb-18
+342,Lawrence,25-3N-12W,"CDG Operations, LLC","Leighty, George #18-CDG","509'S line, 355'W line of NW NW",OIL,65475,1.21013E+11,Salem,Feb-18
+343,Macoupin,16-8N-6W,"Hardt, Edwin E.",Stoecker #30,"660'S line, 10'E line of NE",OIL,65462,1.21172E+11,Spoon,Feb-18
+344,Marion,29-1N-1E,"Schwartz Oil Properties, LLC","Kemnetz Community Unit,#1H-HOR","465'S line, 330'E line of NE NW",OIL,65463,1.21213E+11,Spoon,Feb-18
+345,Saline,5-8S-7E,"Stewart Producers, Inc.",Downen Enterprises #1,"330'N line, 330'W line of NW SE NW",OIL,65452,1.21653E+11,McClosky,Feb-18
+346,Wabash,5-2S-13W,"Universal Operating, Inc",Parmenter #7-WIW,"990'N line, 940'W line of NW SE",WI,204598,1.21853E+11,Benoist,Feb-18
+347,Wabash,22-3S-14W,"Pioneer Oil Co., Inc.",Helm #22-12,"338'S line, 659'W line of NW SW SE",OIL,65465,1.21853E+11,Warsaw,Feb-18
+348,Wabash,22-3S-14W,"Pioneer Oil Co., Inc.",Helm #22-13,"338'S line, 656'W line of SW SE",OIL,65473,1.21853E+11,Warsaw,Feb-18
+349,Wabash,23-3S-14W,"Pioneer Oil Co., Inc.",Helm #23-4,"337'N line, 693'W line of NW NE",OIL,65466,1.21853E+11,Warsaw,Feb-18
+350,Wabash,23-3S-14W,"Pioneer Oil Co., Inc.",Helm #23-8,"342'N line, 333'W line of SW NW",OIL,65467,1.21853E+11,Warsaw,Feb-18
+351,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-10,"334'N line, 345'W line of NW SE",OIL,65472,1.21853E+11,Warsaw,Feb-18
+352,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-2,"330'N line, 543'W line of NW NE",OIL,65468,1.21853E+11,Warsaw,Feb-18
+353,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-4,"331'S line, 585'W line of NW NE",OIL,65469,1.21853E+11,Warsaw,Feb-18
+354,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-6,"331'N line, 661'W line of SW NE",OIL,65471,1.21853E+11,Warsaw,Feb-18
+355,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-8,"331'S line, 663'W line of SW NE",OIL,65470,1.21853E+11,Warsaw,Feb-18
+356,White,32-3S-14W,Shawnee Exploration Partners LLC,Eagleson #1-A,"330'N line, 660'E line of NE",OIL,65454,1.21933E+11,Fort Payne,Feb-18
+357,White,5-4S-14W,"Campbell Energy, LLC",Willett #4,"334'S line, 476'E line of SW SW",OIL,65453,1.21933E+11,Fort Payne,Feb-18
+358,White,8-4S-14W,"Campbell Energy, LLC",DLH #1,"330'N line, 376'E line of NE NW",OIL,65455,1.21933E+11,Fort Payne,Feb-18
+359,White,8-4S-14W,"Campbell Energy, LLC",DLH #2,"329'S line, 380'E line of NE NW",OIL,65457,1.21933E+11,Fort Payne,Feb-18
+360,White,8-4S-14W,"Campbell Energy, LLC",DLH #3,"329'N line, 447'E line of SE NW",OIL,65456,1.21933E+11,Fort Payne,Feb-18
+361,White,8-4S-14W,"Campbell Energy, LLC",DLH #4,"465'S line, 485'E line of SE NW",OIL,65458,1.21933E+11,Fort Payne,Feb-18
+362,White,8-4S-14W,"Campbell Energy, LLC",DLH #5,"330'N line, 339'E line of NW NW",OIL,65459,1.21933E+11,Fort Payne,Feb-18
+363,White,8-4S-14W,"Campbell Energy, LLC",DLH #6,"329'S line, 340'E line of NW NW",OIL,65460,1.21933E+11,Fort Payne,Feb-18
+364,White,8-4S-14W,"Campbell Energy, LLC",DLH #7,"328'N line, 340'E line of SW NW",OIL,65461,1.21933E+11,Fort Payne,Feb-18
+365,White,9-4S-14W,"Campbell Energy, LLC","Potter, E. #WI-1","256'S line, 191'E line of SW NW",SWD,204597,1.21933E+11,Caseyville,Feb-18
+366,Christian,3-11N-1E,"Odis Petroleum, Inc.","Jones, Ralph T. #1-W","330'N line, 330'E line of NE",WI,204673,1.2021E+11,Benoist,Feb-19
+367,Fayette,15-8N-3E,Petco Petroleum Corp.,"Wood, Leander #30","947'S line, 430'E line of SW",OIL,65871,1.20513E+11,Borden,Feb-19
+368,Franklin,22-7S-3E,"Darnell, Jeff",Tomlinson #1,"330'N line, 370'W line of SE NE",OIL,65869,1.20553E+11,Warsaw,Feb-19
+369,Jefferson,29-3S-2E,"Countrymark Energy Resources, LLC",Padgett #2,"417'S line, 220'W line of NW NW",OIL,65873,1.20813E+11,Salem,Feb-19
+370,Jefferson,30-3S-2E,"Countrymark Energy Resources, LLC",Padgett #1,"225'N line, 354'E line of NE NW",OIL,65872,1.20813E+11,Grand Tow,Feb-19
+371,Jefferson,30-3S-2E,"Countrymark Energy Resources, LLC",Panzier #8,"225'S line, 319'E line of NE NW",OIL,65874,1.20813E+11,Grand Tow,Feb-19
+372,Lawrence,26-2N-12W,"R & S Operating, LLC",Walker etal Community #4,"330'S line, 330'E line of SW SW",WI,204672,1.21013E+11,Salem,Feb-19
+373,Madison,9-4N-6W,"Kiec, Inc",Kettler #3-R,"330'N line, 330'E line of NW SW",SWD,204676,1.21193E+11,St Peter,Feb-19
+374,Madison,28-6N-6W,"MB Oil Production, Inc.",Albrecht #3,"392'N line, 540'E line of NE NE NE",OIL,65867,1.21193E+11,Spoon,Feb-19
+375,Shelby,27-10N-5E,"P & M Oil, Inc.",Chaffee #11,"330'S line, 990'W line of NW NE",OIL,65861,1.21732E+11,Rosiclare,Feb-19
+376,Shelby,7-11N-2E,"Odis Petroleum, Inc.",Hunter #A-1W,"990'N line, 330'W line of NW",WI,204674,1.21732E+11,Benoist,Feb-19
+377,Washington,31-3S-5W,Ameren Illinois Company,Ameren IL Co. - Tilden #1-HOR,"841'S line, 597'W line of NW",GST,65883,1.21892E+11,Cypress,Feb-19
+378,Washington,31-3S-5W,Ameren Illinois Company,Ameren IL Co. - Tilden #2-HOR,"843'S line, 545'W line of NW",GST,65884,1.21892E+11,Cypress,Feb-19
+379,Washington,31-3S-5W,Ameren Illinois Company,Ameren IL Co. - Tilden #3-HOR,"845'S line, 494'W line of NW",GST,65885,1.21892E+11,Cypress,Feb-19
+380,Wayne,26-2S-8E,"Palomino Petrolium, Inc.",Dozier #1,"330'S line, 825'E line of SE NE",OIL,65870,1.21913E+11,Dutch Cree,Feb-19
+381,White,5-4S-14W,"Campbell Energy, LLC",Willett #4,"334'S line, 476'E line of SW SW",OIL,65875,1.21933E+11,Fort Payne,Feb-19
+382,White,6-4S-14W,"Campbell Energy, LLC",Willett #10,"333'N line, 659'E line of SE SE",OIL,65865,1.21933E+11,Fort Payne,Feb-19
+383,White,6-4S-14W,"Campbell Energy, LLC",Willett #11,"333'S line, 657'E line of SE SE",OIL,65866,1.21933E+11,Fort Payne,Feb-19
+384,White,6-4S-14W,"Campbell Energy, LLC",Willett #9,"333'S line, 661'E line of NE SE",OIL,65864,1.21933E+11,Fort Payne,Feb-19
+385,White,8-4S-14W,"Campbell Energy, LLC",DLH #2,"329'S line, 380'E line of NE NW",OIL,65876,1.21933E+11,Fort Payne,Feb-19
+386,White,8-4S-14W,"Campbell Energy, LLC",DLH #3,"329'N line, 447'E line of SE NW",OIL,65877,1.21933E+11,Fort Payne,Feb-19
+387,White,8-4S-14W,"Campbell Energy, LLC",DLH #4,"465'S line, 485'E line of SE NW",OIL,65878,1.21933E+11,Fort Payne,Feb-19
+388,White,8-4S-14W,"Campbell Energy, LLC",DLH #5,"330'N line, 339'E line of NW NW",OIL,65879,1.21933E+11,Fort Payne,Feb-19
+389,White,8-4S-14W,"Campbell Energy, LLC",DLH #6,"329'S line, 340'E line of NW NW",OIL,65880,1.21933E+11,Fort Payne,Feb-19
+390,White,"8-4S-14W,8-4S-14W","Campbell Energy, LLC",DLH #7,"328'N line, 340'E line of SW NW","OIL,OIL",65881,"121933353102.0,121933353202.0","Fort Payne,Fort Payne",Feb-19
+391,White,8-4S-14W,"Campbell Energy, LLC",Herndon #4,"657'S line, 330'E line of SW NE",OIL,65862,1.21933E+11,Fort Payne,Feb-19
+392,White,22-4S-14W,Citation Oil & Gas Corp.,"Ford, Harry C. #9","326'S line, 354'E line of NW SE",OIL,65882,1.2193E+11,Warsaw,Feb-19
+393,White,27-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #C-13","974'N line, 321'W line of SW",OIL,65868,1.2193E+11,Warsaw,Feb-19
+394,White,32-5S-10E,"Podolsky, Bernard Estate",McQueen #10,"660'N line, 330'E line of NW SW",WI,204675,1.21933E+11,Waltersbur,Feb-19
+395,Crawford,7-5N-12W,B & D Resources,"Crebs, Dorothy #1","330'N line, 330'E line of SE",OIL,66212,1.2033E+11,Spoon,Feb-20
+396,Crawford,4-6N-13W,"Got Oil, LLC",Buck #4,"630'S line, 660'E line of SE SW",OIL,66207,1.20334E+11,Salem,Feb-20
+397,Crawford,15-6N-13W,B & D Resources,Walker #W-2,"660'N line, 680'W line of NW NE",WI,204735,1.20334E+11,Spoon,Feb-20
+398,Crawford,15-6N-13W,B & D Resources,Walker #W-3,"1320'N line, 680'W line of NW NE",WI,204732,1.20334E+11,Spoon,Feb-20
+399,Crawford,15-6N-13W,B & D Resources,Walker #W-4,"1980'N line, 680'W line of NW NE",WI,204734,1.20334E+11,Spoon,Feb-20
+400,Crawford,2-7N-13W,B & D Resources,Robinson East #WI-5,"30'N line, 10'W line of NW SE SW",WI,204739,1.20334E+11,Spoon,Feb-20
+401,Crawford,18-7N-13W,"Dogwood Creek Oil, Inc.","Dart, Amanda #W-1","189'N line, 354'E line of SE NE SW",WI,204737,1.20334E+11,Spoon,Feb-20
+402,Crawford,30-7N-13W,"Dogwood Creek Oil, Inc.","Reedy, Emma #W-4","15'N line, 133'W line of NE NW NW",WI,204740,1.20334E+11,Spoon,Feb-20
+403,Franklin,25-5S-2E,Gesell's Pump Sales & Service,USX #5W,"330'N line, 990'W line of SW SE",WI,204731,1.20553E+11,Ullin,Feb-20
+404,Gallatin,5-8S-8E,"Countrymark Energy Resources, LLC",West Stella Robinson #13-W,"170'N line, 23'E line of NE NE",WI,204738,1.20593E+11,Tar Spring,Feb-20
+405,Hamilton,12-6S-5E,"Bi-Petro, Inc.",Ventress #3-B,"330'N line, 330'W line of NW SW SE",OIL,66217,1.20653E+11,Ullin,Feb-20
+406,Hamilton,13-6S-5E,"Bi-Petro, Inc.",Anderson #2-B,"330'N line, 370'E line of NE NE NW",OIL,66216,1.20653E+11,Ullin,Feb-20
+407,Hamilton,13-6S-5E,"Bi-Petro, Inc.","Lockwood, J. K. #1-B","370'N line, 330'E line of NE NW NW",OIL,66215,1.20653E+11,Ullin,Feb-20
+408,Montgomery,27-10N-4W,Tinski L.L.C.,Ketchum #1,"990'N line, 330'E line of NW NW",OIL,66219,1.21352E+11,Spoon,Feb-20
+409,Montgomery,27-10N-4W,Tinski L.L.C.,Ketchum #2,"330'N line, 330'E line of NW NW",OIL,66220,1.21352E+11,Spoon,Feb-20
+410,Saline,7-8S-5E,Keyrock Energy LLC,Fletcher #1,"881'N line, 441'W line of NW",CMM,66210,1.21653E+11,Herrin Coa,Feb-20
+411,Wabash,17-1N-12W,"Seaton, Gregory S.","King, Ettie #3-TWIN","355'S line, 330'E line of NE SE",OIL,66221,1.21853E+11,Caseyville,Feb-20
+412,White,34-4S-8E,"Brookston Resources, Inc.",Gray - Daughters #57-34,"330'N line, 330'W line of SW SE",WI,204733,1.21933E+11,Aux Vases,Feb-20
+413,White,8-4S-14W,"Campbell Energy, LLC","Glaze, Mary #A-8","330'N line, 660'E line of SE SE",WI,204736,1.21933E+11,Ullin,Feb-20
+414,White,22-4S-14W,Citation Oil & Gas Corp.,"Ford, Harry C. #14","380'N line, 330'W line of NE",OIL,66205,1.21931E+11,Ullin,Feb-20
+415,White,22-4S-14W,Citation Oil & Gas Corp.,"Ford, Harry C. #17","330'N line, 990'W line of SE",OIL,66209,1.21933E+11,Ullin,Feb-20
+416,White,23-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #51","330'S line, 330'W line of SE SW",OIL,66206,1.21931E+11,Ullin,Feb-20
+417,White,28-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #B-5","950'S line, 1760'E line of SE",OIL,66213,1.2193E+11,Ullin,Feb-20
+418,White,28-4S-14W,Citation Oil & Gas Corp.,"Ford, Helen M. #4","1690'S line, 330'E line of SE",OIL,66214,1.2193E+11,Ullin,Feb-20
+419,White,25-5S-8E,"Pioneer Oil Co., Inc.",Gunter #1,"330'N line, 330'W line of SE SW",OIL,66208,1.21933E+11,Chouteau,Feb-20
+420,White,22-5S-9E,"Campbell Energy, LLC",Baptist #1,"330'S line, 10'E line of NW SE",OIL,66211,1.21933E+11,Fort Payne,Feb-20
+421,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #20","330'S line, 330'E line of NE",OIL,66204,1.21931E+11,Ullin,Feb-20
+422,White,13-6S-10E,"Brookston Resources, Inc.",Fechter #1,"330'N line, 330'E line of SW SW",WI,204741,1.21933E+11,Cypress,Feb-20
+423,Christian,24-15N-3W,"Lockwood, Ronald G.",McDermith Trust #2-L,"330'S line, 330'E line of NW",OIL,66360,1.20213E+11,Edgewood,Feb-21
+424,Clay,10-4N-7E,"Basnett, John R.","Crouse, John #2","330'N line, 495'W line of SE NE",WI,204769,1.2025E+11,Aux Vases,Feb-21
+425,Franklin,31-5S-3E,Gesell's Pump Sales & Service,Bowman #2,"139'S line, 330'E line of NE NW NE",OIL,66357,1.20553E+11,Bailey,Feb-21
+426,Hamilton,31-6S-7E,"Pioneer Oil Co., Inc.",Rice #1,"250'N line, 330'E line of SE NW",OIL,66359,1.20653E+11,Fort Payne,Feb-21
+427,Marion,19-4N-1E,Penn Energy Corp.,Carter #4,"990'S line, 330'E line of NE",OIL,66354,1.21213E+11,Yankeetow,Feb-21
+428,Marion,19-4N-1E,Penn Energy Corp.,Carter #5,"1650'S line, 330'E line of NE",OIL,66355,1.21213E+11,Yankeetow,Feb-21
+429,Wabash,6-1N-11W,Edward L. Bailey,Bailey #5-A SWD,"990'N line, 330'W line of SE",SWD,204771,1.21853E+11,Caseyville,Feb-21
+430,Wabash,20-1N-12W,"Nichols Operating, LLC",Johnson #6-20,"333'N line, 340'E line of NW SW",OIL,66356,1.21853E+11,Yankeetow,Feb-21
+431,Wabash,33-2N-12W,"Thompson, Travis Oil Corporation","Talley - Casburn,Community #1","50'N line, 330'W line of NW NE SE",OIL,66358,1.21853E+11,Ste Genevi,Feb-21
+432,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-11,"335'S line, 660'E line of NE SW",OIL,66361,1.21853E+11,Ullin,Feb-21
+433,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-13,"666'N line, 55'E line of SW NW",OIL,66362,1.21853E+11,Ullin,Feb-21
+434,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-9,"335'N line, 660'E line of NE SW",OIL,66363,1.21853E+11,Ullin,Feb-21
+435,Crawford,11-8N-14W,"Shull, Rodney Oil Producer",Shull #7-A,"330'N line, 337'W line of NW NW NE",OIL,65435,1.20334E+11,Aux Vases,Jan-18
+436,Franklin,35-5S-1E,"Pioneer Oil Co., Inc.",Sesser Unit POC #35-1,"630'N line, 350'E line of SW SE",OIL,65434,1.20553E+11,Platteville,Jan-18
+437,Franklin,19-5S-3E,Gesell's Pump Sales & Service,"Hinman, E. B. #1-W","324'S line, 1007'W line of NE",WI,204595,1.2055E+11,St Louis,Jan-18
+438,Lawrence,26-3N-12W,"CDG Operations, LLC","Gray, George a/c 2 #37-CDG","335'N line, 422'W line of SW NE",OIL,65450,1.21013E+11,Salem,Jan-18
+439,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #115-CDG","332'S line, 411'E line of NE SW",OIL,65442,1.21013E+11,Salem,Jan-18
+440,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #116-CDG","432'N line, 419'E line of SE SW",OIL,65441,1.21013E+11,Salem,Jan-18
+441,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #117-CDG","480'S line, 570'E line of SE SW",OIL,65440,1.21013E+11,Salem,Jan-18
+442,Lawrence,34-3N-12W,"CDG Operations, LLC","Vandermark, L. A. #34-CDG","125'N line, 71'E line of NE NE",OIL,65438,1.21013E+11,Salem,Jan-18
+443,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c 1 (80A),#101-CDG","319'S line, 330'E line of NE NW",OIL,65437,1.21013E+11,Salem,Jan-18
+444,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c 1 (80A),#102-CDG","337'N line, 330'E line of NE NW",OIL,65436,1.21013E+11,Salem,Jan-18
+445,Lawrence,35-3N-12W,"CDG Operations, LLC","Ryan, G. L. a/c 3 #54-CDG","375'N line, 330'W line of NE NE",OIL,65449,1.21013E+11,Salem,Jan-18
+446,Randolph,25-6S-6W,Ebers Drilling Co.,Ebers #1,"330'N line, 330'W line of NW",GAS,65451,1.21573E+11,Aux Vases,Jan-18
+447,Wabash,8-1S-12W,"Keepes Petroleum, Inc.",Wabash - Newton #4-WI,"296'S line, 828'W line of NW NW",SWD,204596,1.21853E+11,McClosky,Jan-18
+448,White,6-4S-14W,"Campbell Energy, LLC",Willett #10,"333'N line, 659'E line of SE SE",OIL,65446,1.21933E+11,Fort Payne,Jan-18
+449,White,6-4S-14W,"Campbell Energy, LLC",Willett #11,"333'S line, 657'E line of SE SE",OIL,65445,1.21933E+11,Fort Payne,Jan-18
+450,White,6-4S-14W,"Campbell Energy, LLC",Willett #9,"333'S line, 661'E line of NE SE",OIL,65444,1.21933E+11,Fort Payne,Jan-18
+451,White,7-4S-14W,"Campbell Energy, LLC",Copperhead #WI-1,"330'N line, 558'W line of SW SE",WI,204594,1.21933E+11,Fort Payne,Jan-18
+452,White,7-4S-14W,"Campbell Energy, LLC",Knight #1,"330'N line, 330'E line of SE NE",OIL,65443,1.21933E+11,Fort Payne,Jan-18
+453,White,7-4S-14W,"Campbell Energy, LLC",Treadway #1,"330'S line, 330'E line of NE NE",OIL,65439,1.21933E+11,Fort Payne,Jan-18
+454,White,8-4S-14W,"Campbell Energy, LLC",Stone #1,"657'N line, 330'E line of NW NE",OIL,65448,1.21933E+11,Fort Payne,Jan-18
+455,White,8-4S-14W,"Campbell Energy, LLC",Stone #2,"657'S line, 330'E line of SW NE",OIL,65447,1.21933E+11,Fort Payne,Jan-18
+456,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #1","220'N line, 220'W line of NE NE NE",OIL,65836,1.20233E+11,St Louis,Jan-19
+457,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #12","220'N line, 220'W line of SW NE NE",OIL,65838,1.20233E+11,St Louis,Jan-19
+458,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #13","220'S line, 220'W line of SE NE NE",OIL,65839,1.20233E+11,St Louis,Jan-19
+459,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #19","220'N line, 220'W line of NE SE NE",OIL,65840,1.20233E+11,St Louis,Jan-19
+460,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #2","220'N line, 220'E line of NW NE NE",OIL,65837,1.20233E+11,St Louis,Jan-19
+461,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #24","220'S line, 220'W line of NW SE NE",OIL,65841,1.20233E+11,St Louis,Jan-19
+462,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #31","220'S line, 220'W line of SE SE NE",OIL,65842,1.20233E+11,St Louis,Jan-19
+463,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #32","220'S line, 220'E line of SW SE NE",OIL,65843,1.20233E+11,St Louis,Jan-19
+464,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #2-MI,"0'S line, 330'E line of NW NE NW",WI,204670,1.20233E+11,St Louis,Jan-19
+465,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #3-MI,"0'S line, 330'W line of NE NE NW",WI,204669,1.20233E+11,St Louis,Jan-19
+466,Clinton,21-1N-1W,"Stewart Producers, Inc.","Coe, Lester etal #6-WI","330'N line, 330'W line of SW NW",WI,204667,1.2027E+11,Cypress,Jan-19
+467,Crawford,29-7N-12W,"Maus's Well Service, Inc.",Kirk #KW-11,"640'N line, 60'W line of NE SW SW",WI,204266,1.20334E+11,Robinson,Jan-19
+468,Crawford,2-8N-14W,"Fain Oil, Inc.",Geffs #3-1W,"660'S line, 660'W line of NE NE",WI,204663,1.20334E+11,Borden,Jan-19
+469,Fayette,6-7N-3E,Petco Petroleum Corp.,"Hobbs, Irvin #20-SWD","785'N line, 890'E line of NE",SWD,204662,1.20513E+11,Tar Spring,Jan-19
+470,Gallatin,13-8S-9E,"T & B Production Co., LLC",Lawler #7,"330'S line, 330'W line of NE",OIL,65834,1.2059E+11,St Louis,Jan-19
+471,Hamilton,36-6S-5E,"Brehm Oil Company, Inc.","Moore, M. C. #5-36","330'S line, 330'W line of SW NW SE",OIL,65833,1.20653E+11,Aux Vases,Jan-19
+472,Jefferson,31-1S-1E,"Wood Energy, Inc.",Wacker #8,"430'N line, 990'E line of NW",OIL,65835,1.20813E+11,Trenton,Jan-19
+473,Lawrence,8-2N-11W,Padgett Family Trust U/T/D,"Garvey, William #3-WI","990'N line, 1110'E line of NE",WI,204666,1.21013E+11,Cypress,Jan-19
+474,Lawrence,8-2N-12W,"Woodcock Oil, LLC",Ruark #2,"674'S line, 330'E line of SE NW",OIL,65850,1.21013E+11,Salem,Jan-19
+475,Lawrence,8-2N-12W,"Woodcock Oil, LLC",Ruark #2-A,"337'S line, 331'W line of NW NE",OIL,65851,1.21013E+11,Salem,Jan-19
+476,Madison,9-4N-6W,"Kiec, Inc",Kettler #3-R,"330'N line, 330'E line of NW SW",WI,204671,1.21193E+11,"Moccasin,Springs",Jan-19
+477,Marion,33-4N-4E,Deep Rock Energy Corp.,Warren #12-WI DIR,"435'S line, 216'E line of SE NW SW",WI,204665,1.21213E+11,Benoist,Jan-19
+478,Richland,30-2N-11E,"Woodcock Oil, LLC",Koertge - Harrison #2,"335'S line, 335'W line of SE NE",OIL,65852,1.21593E+11,Cypress,Jan-19
+479,Saline,21-8S-6E,Bufay Oil Company,Elder #1,"330'S line, 330'W line of SE NE",WI,204668,1.21652E+11,Aux Vases,Jan-19
+480,Sangamon,27-15N-6W,Landgas Exploration & Prod. LLC,Theilen #1,"330'N line, 552'E line of NE NE NW",OIL,65854,1.21673E+11,Trenton,Jan-19
+481,Sangamon,27-15N-6W,Landgas Exploration & Prod. LLC,Theilen #2,"29'N line, 427'E line of SE NE NW",OIL,65855,1.21673E+11,Trenton,Jan-19
+482,Wabash,19-2S-13W,"Countrymark Energy Resources, LLC","Schmidt, Clarence #6","50'N line, 336'E line of SW NE",OIL,65849,1.21853E+11,Bridgeport,Jan-19
+483,White,21-4S-14W,"Loeb, Herman L. LLC","Donald, Mary #1-21","1300'S line, 2310'W line of SW",OIL,65848,1.21933E+11,Fort Payne,Jan-19
+484,White,21-4S-14W,"Loeb, Herman L. LLC",Ford #1-21,"560'N line, 430'E line of NW NW",OIL,65847,1.21933E+11,Fort Payne,Jan-19
+485,White,21-4S-14W,"Loeb, Herman L. LLC",W. G. C. #1-21,"330'S line, 770'W line of SW SW",OIL,65846,1.21933E+11,Fort Payne,Jan-19
+486,White,22-4S-14W,"Loeb, Herman L. LLC",Ford #1-22,"330'S line, 330'E line of NE NW",OIL,65844,1.21933E+11,Fort Payne,Jan-19
+487,White,22-4S-14W,"Loeb, Herman L. LLC",Ford #2-22,"430'N line, 330'E line of NE SW",OIL,65845,1.21933E+11,Fort Payne,Jan-19
+488,White,18-5S-11E,"Campbell Energy, LLC",Kempf #14,"330'N line, 330'W line of NW NW",OIL,65859,1.21933E+11,Fort Payne,Jan-19
+489,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #1","343'S line, 324'W line of NE",OIL,65853,1.21931E+11,Warsaw,Jan-19
+490,White,18-5S-14W,"Campbell Energy, LLC",Kempf #15,"332'S line, 40'E line of SW SW",OIL,65860,1.21933E+11,Fort Payne,Jan-19
+491,White,19-5S-14W,"Campbell Energy, LLC",Kempf #11,"333'S line, 375'E line of NE SE",OIL,65857,1.21933E+11,Fort Payne,Jan-19
+492,White,19-5S-14W,"Campbell Energy, LLC",Kempf #12,"333'N line, 425'E line of SE SE",OIL,65856,1.21933E+11,Fort Payne,Jan-19
+493,White,19-5S-14W,"Campbell Energy, LLC",Kempf #13,"158'N line, 144'E line of SW SE",OIL,65858,1.21933E+11,Fort Payne,Jan-19
+494,White,29-6S-9E,Strata Oil Corp.,"O'Neal, J. R. #2","480'S line, 990'W line of SW SW",OIL,65832,1.21933E+11,McClosky,Jan-19
+495,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #IJW-1","220'S line, 220'W line of NE NE NE",WI,204722,1.20233E+11,St Louis,Jan-20
+496,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #IJW-15","220'N line, 0'W line of SW SE NE",WI,204723,1.20233E+11,St Louis,Jan-20
+497,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #IJW-2","220'S line, 220'E line of NW NE NE",WI,204721,1.20233E+11,St Louis,Jan-20
+498,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #IJW-4","220'N line, 220'W line of SE NE NE",WI,204719,1.20233E+11,St Louis,Jan-20
+499,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #IJW-7","60'N line, 220'W line of NE SE NE",WI,204720,1.20233E+11,St Louis,Jan-20
+500,Crawford,20-6N-11W,"Pioneer Oil Co., Inc.","Tohill, H. #2","330'S line, 330'E line of SW",GAS,66199,1.20333E+11,Spoon,Jan-20
+501,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #WI-4","30'N line, 10'E line of SE NW SW",WI,204729,1.20334E+11,Spoon,Jan-20
+502,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #WI-6","30'N line, 10'E line of SE SW SW",WI,204728,1.20334E+11,Spoon,Jan-20
+503,Crawford,26-8N-14W,"Faithful Oil, LLC",Wiman #1-B,"330'N line, 330'E line of NW SE",OIL,66194,1.20334E+11,Yankeetow,Jan-20
+504,Crawford,26-8N-14W,"Faithful Oil, LLC",Wiman #3-B,"670'N line, 670'W line of NW SE",OIL,66196,1.20334E+11,Gunter San,Jan-20
+505,Crawford,26-8N-14W,"Faithful Oil, LLC",Wiman #4-B,"330'S line, 330'W line of NW SE",OIL,66195,1.20334E+11,Yankeetow,Jan-20
+506,Franklin,30-5S-2E,"Stewart Producers, Inc.",Illinois Minerals #30-4 WI,"501'S line, 275'E line of NW NE SW",WI,204726,1.20553E+11,Aux Vases,Jan-20
+507,Gallatin,33-7S-8E,"Countrymark Energy Resources, LLC",Bradley #1,"337'S line, 337'W line of SE SW",OIL,66198,1.20593E+11,Caseyville,Jan-20
+508,Lawrence,4-2N-11W,"Padgett, W. Thomas",Haase #1-B,"330'S line, 343'E line of NW NW",OIL,66191,1.21013E+11,Salem,Jan-20
+509,Lawrence,29-4N-12W,"CDG Operations, LLC","Lewis, J. B. #SWD-3","435'S line, 841'W line of SW",SWD,204725,1.21013E+11,Shakopee,Jan-20
+510,Madison,10-4N-6W,"Kiec, Inc","Pence, William H. #2 HOR","330'S line, 330'E line of SW",OIL,66202,1.2119E+11,"Moccasin,Springs",Jan-20
+511,Madison,15-4N-6W,"Kiec, Inc","Dietz, F. H. #3 HOR","330'N line, 330'E line of SE SW NW",OIL,66200,1.2119E+11,"Moccasin,Springs",Jan-20
+512,Madison,15-4N-6W,"Kiec, Inc","Dietz, F. H. #4 HOR","330'N line, 330'E line of SW",OIL,66201,1.2119E+11,"Moccasin,Springs",Jan-20
+513,Madison,15-4N-6W,"Kiec, Inc","Kauhl, C. Community #1,HOR","330'S line, 330'W line of NE NE",OIL,66203,1.2119E+11,"Moccasin,Springs",Jan-20
+514,Marion,33-4N-4E,Deep Rock Energy Corp.,Miselbrook #3 DIR,"425'S line, 179'E line of NW SW",WI,204730,1.21213E+11,Grand Tow,Jan-20
+515,Wabash,24-1N-12W,"Woodcock Oil, LLC",Marcotte #3,"330'N line, 340'E line of SW NE",WI,204724,1.21853E+11,Yankeetow,Jan-20
+516,Washington,24-1S-1W,Resolve Exploration Corp.,Brink #1,"330'N line, 520'E line of SE NE",WI,204727,1.21892E+11,Yankeetow,Jan-20
+517,White,32-3S-14W,"Campbell Energy, LLC","Hon, C. #3-PO","673'S line, 330'W line of SE SE",OIL,66193,1.21933E+11,Fort Payne,Jan-20
+518,White,33-3S-14W,"Campbell Energy, LLC",Bump #16,"675'S line, 330'W line of NW NW",OIL,66192,1.21933E+11,Ullin,Jan-20
+519,White,17-4S-14W,"Campbell Energy, LLC",Bramlet #12,"660'S line, 330'W line of SW SE",WI,204718,1.2193E+11,Fort Payne,Jan-20
+520,White,27-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #C-11","1005'S line, 330'W line of SW",OIL,66190,1.2193E+11,Ullin,Jan-20
+521,White,34-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #D-24","1880'N line, 330'E line of NW",OIL,66189,1.21933E+11,Ullin,Jan-20
+522,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #10","990'N line, 990'E line of NE",OIL,66197,1.21931E+11,Ullin,Jan-20
+523,White,9-7S-9E,"Campbell Energy, LLC",Miller #1-A,"330'S line, 370'W line of NW",SWD,204717,1.21933E+11,Caseyville,Jan-20
+524,Crawford,15-5N-11W,"LA Custom Plugging, Inc.",Maxwell #1-B,"423'N line, 430'E line of SE SW NE",OIL,66352,1.20334E+11,Spoon,Jan-21
+525,Crawford,22-5N-11W,"LA Custom Plugging, Inc.","Miller, James #3-A","330'N line, 330'E line of NE NE SW",OIL,66353,1.20334E+11,Spoon,Jan-21
+526,Crawford,29-7N-12W,"Maus's Well Service, Inc.",Kirk #15-A,"331'N line, 326'E line of SW SW SW",OIL,66351,1.20334E+11,Spoon,Jan-21
+527,DeWitt,33-21N-3E,Kaufman Oil Co.,Ritchie - Musch Trust #1,"990'S line, 990'E line of SE SE",OIL,66343,1.20392E+11,Guttenburg,Jan-21
+528,DeWitt,34-21N-4E,Kaufman Oil Co.,"McKinley, James #1-D","330'N line, 330'W line of NW NW",OIL,66344,1.20392E+11,Guttenburg,Jan-21
+529,White,31-3S-11E,"Campbell Energy, LLC",Davis #1,"660'N line, 330'W line of SE NW",OIL,66346,1.21933E+11,Fort Payne,Jan-21
+530,White,31-3S-11E,"Campbell Energy, LLC",Davis #3,"664'S line, 330'W line of NE SW",OIL,66345,1.21933E+11,Fort Payne,Jan-21
+531,White,31-3S-11E,"Campbell Energy, LLC",Davis #5,"289'N line, 468'E line of NE SW",OIL,66349,1.21933E+11,Ullin,Jan-21
+532,White,31-3S-11E,"Campbell Energy, LLC",Davis #6,"330'S line, 327'E line of SE NW",OIL,66348,1.21933E+11,Ullin,Jan-21
+533,White,31-3S-11E,"Campbell Energy, LLC",Davis #7,"10'N line, 330'W line of NE SW",OIL,66347,1.21933E+11,Ullin,Jan-21
+534,White,20-4S-14W,"Campbell Energy, LLC",Booth #1,"330'N line, 372'E line of NE NW",OIL,66340,1.21933E+11,Fort Payne,Jan-21
+535,White,20-4S-14W,"Campbell Energy, LLC",Booth #2,"330'S line, 345'E line of NE NW",OIL,66341,1.21933E+11,Fort Payne,Jan-21
+536,White,20-4S-14W,"Campbell Energy, LLC",Crossville Lease #2,"360'N line, 10'E line of NW NW NE",OIL,66342,1.21933E+11,Fort Payne,Jan-21
+537,White,28-6S-10E,"Basnett, John R.",Ackerman #5,"390'N line, 330'W line of SW SE",OIL,66350,1.21933E+11,Ullin,Jan-21
+538,Clinton,35-1N-4W,"Lockwood, Ronald G.",Kuhlengel #1-L,"550'N line, 330'W line of NW",OIL,65637,1.20273E+11,Edgewood,Jul-18
+539,Clinton,35-1N-4W,"Lockwood, Ronald G.",Kuhlengel #2-L,"330'N line, 330'E line of NW NW",OIL,65636,1.20273E+11,Edgewood,Jul-18
+540,Fayette,18-6N-3E,"Belden, W. L.","Reece, Edna #5-C","280'S line, 330'E line of SE SW NW",OIL,65630,1.20513E+11,Aux Vases,Jul-18
+541,Franklin,12-7S-2E,"Lampley Oil, Inc.","Orient ""E"" #9-WI","330'S line, 330'W line of NW NE",WI,204631,1.2055E+11,Aux Vases,Jul-18
+542,Hamilton,34-5S-7E,"Pioneer Oil Co., Inc.",Atteberry #1,"275'N line, 330'E line of NE NE",OIL,65641,1.20653E+11,Grand Tow,Jul-18
+543,Hamilton,14-6S-5E,"Bi-Petro, Inc.",Culpepper #1-B,"330'S line, 500'W line of SW SE",OIL,65633,1.20653E+11,Warsaw,Jul-18
+544,Jasper,8-5N-10E,Citation Oil & Gas Corp.,"Rotramel, W. S. #6","980'N line, 910'E line of SE SE",OIL,65650,1.20792E+11,Salem,Jul-18
+545,Jefferson,31-4S-3E,Gesell's Pump Sales & Service,Karber Trust #1,"330'S line, 330'E line of SE NE",OIL,65646,1.20813E+11,Platteville,Jul-18
+546,Lawrence,16-3N-12W,"CDG Operations, LLC","Gillespie, Walter #14-CDG","330'S line, 330'W line of NE NW",OIL,65638,1.21013E+11,Salem,Jul-18
+547,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #124-CDG","563'N line, 541'E line of SW SW",OIL,65640,1.21013E+11,Salem,Jul-18
+548,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #126-CDG","35'S line, 464'E line of NE SW",OIL,65639,1.21013E+11,Salem,Jul-18
+549,Lawrence,34-3N-12W,"CDG Operations, LLC","Gee, S. J. a/c 1 #67-CDG","401'N line, 74'E line of SE NE",OIL,65647,1.21013E+11,Salem,Jul-18
+550,Lawrence,34-3N-12W,"CDG Operations, LLC","Vandermark, L. A. #38-CDG","141'S line, 459'W line of NE NE",OIL,65648,1.21013E+11,Salem,Jul-18
+551,Macon,24-17N-2E,Podolsky Oil Co.,Schwarze Community #7,"990'N line, 330'W line of NW SW",OIL,65649,1.21152E+11,Pre-Cambr,Jul-18
+552,Marion,33-4N-4E,Deep Rock Energy Corp.,Warren #3A-DIR,"50'S line, 132'E line of NW SW",OIL,65645,1.21213E+11,Salem,Jul-18
+553,Richland,30-3N-9E,"Countrymark Energy Resources, LLC",Hout #3,"332'S line, 330'W line of SW SW",OIL,65632,1.21593E+11,Salem,Jul-18
+554,Wabash,1-2S-14W,"Dee Drilling Co., Inc.",Pfeister #1,"330'S line, 24'W line of SE SW",OIL,65644,1.21853E+11,Cypress,Jul-18
+555,Wayne,25-1N-6E,"Countrymark Energy Resources, LLC","Ellison, V. #2","333'N line, 367'E line of SW SE",OIL,65634,1.21913E+11,Salem,Jul-18
+556,White,36-3S-10E,Shawnee Exploration Partners LLC,"Hanks, Hubert #1-WIW","330'S line, 660'W line of NE NW",WI,204630,1.21933E+11,Salem,Jul-18
+557,White,15-4S-10E,"ACF Resources, LLC",Higg #2,"330'N line, 330'W line of SE SE",OIL,65642,1.2193E+11,Fort Payne,Jul-18
+558,White,22-4S-10E,"ACF Resources, LLC","David, Doc #1","330'N line, 330'E line of NW NE",OIL,65643,1.2193E+11,Fort Payne,Jul-18
+559,White,27-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #C-7","1650'N line, 1662'W line of SE",OIL,65635,1.2193E+11,Warsaw,Jul-18
+560,White,4-5S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #72","430'N line, 330'W line of SW",OIL,65631,1.21933E+11,Warsaw,Jul-18
+561,Clark,7-11N-14W,Partlow Enterprises,"Gibson, Florence #1","330'N line, 660'W line of SW SE",OIL,66045,1.20232E+11,Lingle,Jul-19
+562,Clark,17-11N-14W,Partlow Enterprises,C Unit #11,"330'S line, 220'W line of NE SW",OIL,66029,1.20233E+11,Carper,Jul-19
+563,Clark,17-11N-14W,Partlow Enterprises,C Unit #6,"990'S line, 220'W line of SE SW",OIL,66028,1.20233E+11,Carper,Jul-19
+564,Clay,19-5N-7E,Dillon Energy,Specht #3,"330'N line, 330'E line of SE NE NE",OIL,66052,1.20253E+11,St Louis,Jul-19
+565,Crawford,30-6N-12W,Rinsch Oil,Alumbaugh #5-A,"115'N line, 656'E line of NE SW",OIL,66044,1.20334E+11,Robinson,Jul-19
+566,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #DW-2","0'S line, 650'W line of SW SW",WI,204620,1.20334E+11,Robinson,Jul-19
+567,Crawford,2-7N-13W,B & D Resources,Robinson East #19,"660'S line, 330'E line of SE SW SE",OIL,66054,1.20334E+11,Robinson,Jul-19
+568,Crawford,11-7N-13W,B & D Resources,Dart #4,"200'N line, 330'E line of NE NW SE",OIL,66053,1.20334E+11,Robinson,Jul-19
+569,Effingham,19-8N-4E,"Kuebler Ultra Oil, Inc.",Taylor - Johann #1-WI,"40'N line, 852'W line of SW SW",WI,204686,1.20492E+11,Cypress,Jul-19
+570,Franklin,30-5S-2E,"Stewart Producers, Inc.",Illinois Minerals #30-4,"501'S line, 275'E line of NW NE SW",OIL,66032,1.20553E+11,Aux Vases,Jul-19
+571,Franklin,1-6S-2E,"Budmark Oil Co., Inc.",Budmark Old Ben #2-2B,"330'N line, 330'W line of SW SW",OIL,66055,1.20552E+11,Warsaw,Jul-19
+572,Franklin,36-6S-2E,Gesell's Pump Sales & Service,"Finite Crown ""B"" #23-W","581'S line, 334'W line of SW SW",WI,204688,1.20552E+11,Tar Spring,Jul-19
+573,Hamilton,7-6S-6E,"Wood Energy, Inc.",Dial #2,"660'N line, 330'W line of NE NW",OIL,66025,1.20653E+11,Warsaw,Jul-19
+574,Jasper,4-6N-10E,St. Pierre Oil Company,Dhom #5,"2310'N line, 330'W line of NW",OIL,66050,1.2079E+11,McClosky,Jul-19
+575,Jefferson,11-4S-2E,"MKE Producing, Inc.",D - Frick #13,"330'S line, 990'W line of SW SE",OIL,66051,1.20812E+11,Ohara,Jul-19
+576,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #116-CDG","432'N line, 419'E line of SE SW",OIL,66043,1.21013E+11,Salem,Jul-19
+577,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #117-CDG","480'S line, 570'E line of SE SW",OIL,66042,1.21013E+11,Salem,Jul-19
+578,Lawrence,35-3N-12W,"CDG Operations, LLC","Gould, T. I. a/c 2 #57-CDG","150'S line, 194'W line of SW SW",OIL,66041,1.21013E+11,Salem,Jul-19
+579,Lawrence,35-3N-12W,"CDG Operations, LLC","Gould, T. I. a/c 2 #57-CDG","150'S line, 294'W line of SW SW",OIL,66048,1.21013E+11,Salem,Jul-19
+580,Lawrence,35-3N-12W,"CDG Operations, LLC","Gould, W. A. #73-CDG","165'N line, 64'E line of NE SW",OIL,66027,1.21013E+11,Salem,Jul-19
+581,Madison,15-4N-6W,"Kiec, Inc",Dietz #6,"330'S line, 330'E line of SW NE",OIL,66031,1.21193E+11,"Moccasin,Springs",Jul-19
+582,Madison,27-6N-6W,"Grossmann, R. L. Drilling Co.",Kerin #4-N,"330'N line, 660'E line of SW SE",OIL,66057,1.21193E+11,McClosky,Jul-19
+583,Madison,27-6N-6W,"Grossmann, R. L. Drilling Co.",Kerin #5-N,"600'N line, 330'W line of SE SE",OIL,66058,1.21193E+11,McClosky,Jul-19
+584,Marion,33-4N-4E,Deep Rock Energy Corp.,Miselbrook #5,"330'S line, 371'W line of NE SW",OIL,66056,1.21213E+11,Trenton,Jul-19
+585,Wabash,17-1N-12W,"Seaton, Gregory S.","King, Ettie #3","330'S line, 330'E line of NE SE",OIL,66026,1.21853E+11,Salem,Jul-19
+586,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-13,"666'N line, 55'E line of SW NW",OIL,66030,1.21853E+11,Warsaw,Jul-19
+587,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC","Fansler, Van #2","330'S line, 330'E line of NW SE",OIL,66049,1.21913E+11,Salem,Jul-19
+588,White,31-3S-14W,"Keepes Petroleum, Inc.",Glaze Five #31-2,"330'N line, 317'E line of NE NW",OIL,66039,1.21933E+11,Fort Payne,Jul-19
+589,White,27-4S-14W,Citation Oil & Gas Corp.,"Cox, W. E. #7","330'S line, 330'E line of NE SE",OIL,66037,1.2193E+11,Warsaw,Jul-19
+590,White,27-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #28","330'S line, 330'W line of NW NW",OIL,66034,1.2193E+11,Warsaw,Jul-19
+591,White,28-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #17","330'S line, 998'E line of NE NE",OIL,66035,1.2193E+11,Warsaw,Jul-19
+592,White,28-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #30","330'N line, 330'E line of NE",OIL,66036,1.2193E+11,Warsaw,Jul-19
+593,White,33-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #103","330'S line, 365'W line of SW",OIL,66033,1.21933E+11,Warsaw,Jul-19
+594,White,34-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #D-5","1006'N line, 1025'W line of NW",OIL,66038,1.2193E+11,Warsaw,Jul-19
+595,White,26-5S-8E,"Pioneer Oil Co., Inc.","Simmons, Lynn #1-26","330'S line, 335'W line of SE SE",OIL,66047,1.21933E+11,Chouteau,Jul-19
+596,White,35-5S-8E,"Pioneer Oil Co., Inc.","Simmons, Judie #1-35","0'N line, 10'E line of SW NE NE",OIL,66046,1.21933E+11,Chouteau,Jul-19
+597,White,36-5S-8E,"Pioneer Oil Co., Inc.",Ackerman Trust #1-36,"10'S line, 0'E line of NW NW NW",OIL,66040,1.21933E+11,Chouteau,Jul-19
+598,Clinton,2-1N-1W,"Gett Oil Co., Inc.",Schmitz #4-SWD,"745'N line, 335'E line of SE NE",SWD,204757,1.2027E+11,Grand Tow,Jul-20
+599,Adams,10-2S-5W,"Western Kentucky Petroleum, Inc.",Walton #3,"307'N line, 352'E line of SE NE NW",OIL,66440,1.20012E+11,Edgewood,Jul-21
+600,Clay,33-4N-6E,Deep Rock Energy Corp.,Kincaid #1-33,"557'S line, 188'E line of SE SW NE",OIL,66447,1.20253E+11,Grand Tow,Jul-21
+601,Crawford,2-7N-13W,B & D Resources,Ridgeway #WI-1,"60'S line, 600'W line of SW SW NW",WI,204787,1.20334E+11,Spoon,Jul-21
+602,Edgar,9-13N-13W,"Pioneer Oil Co., Inc.",Bussart #W-1,"0'S line, 0'E line of SW NE NE",WI,204790,1.20452E+11,Carbondale,Jul-21
+603,Franklin,34-5S-3E,Gesell's Pump Sales & Service,U. S. Coal and Coke #2-B,"350'S line, 210'W line of SE SW",OIL,66451,1.20553E+11,Spechts Fe,Jul-21
+604,Franklin,34-5S-3E,Gesell's Pump Sales & Service,U. S. Coal and Coke #4-B,"330'N line, 330'E line of SE SW",OIL,66452,1.20553E+11,Bailey,Jul-21
+605,Franklin,34-5S-3E,Gesell's Pump Sales & Service,U. S. Coal and Coke #5-B,"330'S line, 330'W line of SW SW",OIL,66450,1.20553E+11,Spechts Fe,Jul-21
+606,Franklin,34-5S-3E,Gesell's Pump Sales & Service,U.S. Coal & Coke #3-B,"330'N line, 330'E line of SW SW",OIL,66449,1.2055E+11,Bailey,Jul-21
+607,Franklin,3-6S-3E,Gesell's Pump Sales & Service,U. S. Coal and Coke #6-B,"344'N line, 454'E line of NE NW",OIL,66448,1.20553E+11,Spechts Fe,Jul-21
+608,Jackson,24-7S-5W,Ebers Drilling Co.,"Lueher, Marilyn #3-24A","450'S line, 470'W line of SE",OIL,66443,1.20773E+11,Salem,Jul-21
+609,Jasper,21-6N-10E,"Benchmark Properties, Ltd.",Sear - Houser #1-B,"380'S line, 990'E line of SE NW",OIL,66446,1.20793E+11,Salem,Jul-21
+610,Jefferson,30-3S-2E,"Countrymark Energy Resources, LLC",Philp Estate #5-D DIR,"124'S line, 127'E line of NE SE",OIL,66445,1.20813E+11,Salem,Jul-21
+611,Jefferson,9-4S-2E,"MKE Producing, Inc.",Dent #2,"660'S line, 330'W line of SE SE",OIL,66480,1.20813E+11,Fort Payne,Jul-21
+612,Marion,35-4N-1E,Gesell's Pump Sales & Service,Thalman Heirs #4,"330'S line, 330'W line of NE SW NW",OIL,66444,1.2121E+11,Yankeetow,Jul-21
+613,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-11,"535'S line, 660'E line of NE SW",OIL,66441,1.21853E+11,Ullin,Jul-21
+614,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-9,"175'N line, 330'W line of NE SW",OIL,66442,1.21853E+11,Ullin,Jul-21
+615,Wayne,24-2N-7E,"Bateman's Bay Exploration, Inc",Manda #2A-WI,"330'S line, 330'W line of SE NE",WI,204789,1.21911E+11,Ste Genevi,Jul-21
+616,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC",Hilliard Community #4,"71'N line, 330'W line of NE NW",OIL,66479,1.21913E+11,Ullin,Jul-21
+617,White,16-4S-14W,"Loeb, Herman L. LLC",Ford #1-A-2,"407'N line, 400'W line of SW SW",WI,204788,1.2193E+11,Ste Genevi,Jul-21
+618,White,23-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #92","306'N line, 333'E line of SW NW",OIL,66453,1.21933E+11,Ullin,Jul-21
+619,White,27-4S-14W,Citation Oil & Gas Corp.,"Cox, W. E. #11","388'N line, 330'W line of NW SE",OIL,66454,1.21933E+11,Ullin,Jul-21
+620,White,27-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. etal #C-28","330'N line, 330'W line of NE SW",WI,204786,1.21933E+11,Ullin,Jul-21
+621,Edwards,11-1S-10E,Moore Engineering & Production Co.,Hocking #2,"520'S line, 330'E line of SW NW",WI,204626,1.20472E+11,Ohara,Jun-18
+622,Effingham,18-6N-5E,"Dee Drilling Co., Inc.",McCloy #1,"207'N line, 375'E line of SW NE",OIL,65604,1.20493E+11,Ste Genevi,Jun-18
+623,Effingham,25-8N-5E,Deep Rock Energy Corp.,Pike Root Community #3,"390'N line, 340'W line of NE NE",OIL,65608,1.20493E+11,Aux Vases,Jun-18
+624,Fayette,33-8N-3E,Petco Petroleum Corp.,"McClain-Tucker (HOR) #H,3","- 684'N line, 360'W line of SW",OIL,65629,1.20513E+11,Bethel,Jun-18
+625,Franklin,1-7S-2E,"Lampley Oil, Inc.",Orient F #13-WI,"342'S line, 342'E line of NW NE",WI,204629,1.20552E+11,Salem,Jun-18
+626,Franklin,1-7S-2E,"Lampley Oil, Inc.",Orient F #4-WI,"330'N line, 510'E line of SE NW",WI,204628,1.20552E+11,Aux Vases,Jun-18
+627,Hamilton,11-6S-5E,"Bi-Petro, Inc.","Clark, Otto #3-B","380'N line, 330'E line of SW SW",OIL,65622,1.20653E+11,Fort Payne,Jun-18
+628,Hamilton,13-6S-5E,"Bi-Petro, Inc.",Sloan #2-B,"660'S line, 330'W line of SE NW",OIL,65625,1.20653E+11,Warsaw,Jun-18
+629,Hamilton,14-6S-5E,"Bi-Petro, Inc.",Sands #6-B,"380'N line, 330'E line of NW SW",OIL,65624,1.20653E+11,Warsaw,Jun-18
+630,Hamilton,23-6S-5E,"Bi-Petro, Inc.",Jewell - Lockwood #1-B,"330'N line, 360'E line of NE NW",OIL,65621,1.20653E+11,Warsaw,Jun-18
+631,Hamilton,23-6S-5E,"Bi-Petro, Inc.","Lockwood, J. D. #1-B","380'N line, 330'E line of NW NW",OIL,65623,1.20653E+11,Warsaw,Jun-18
+632,Wabash,1-2S-14W,"Dee Drilling Co., Inc.","Pfeister, Stanley #2","334'N line, 10'E line of SW SW",OIL,65620,1.21853E+11,Cypress,Jun-18
+633,Wabash,12-2S-14W,"Dee Drilling Co., Inc.","Griess, Ernest #10","336'S line, 336'W line of SE NW",OIL,65605,1.21853E+11,Benoist,Jun-18
+634,Wayne,10-3S-9E,"Nichols Operating, LLC",Vaught #1-10,"660'N line, 330'E line of NE SE",OIL,65619,1.21913E+11,Trenton,Jun-18
+635,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hocking #36-1,"337'N line, 461'W line of SW",OIL,65626,1.21933E+11,Fort Payne,Jun-18
+636,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-3,"338'N line, 329'W line of SE SW",OIL,65628,1.21933E+11,Fort Payne,Jun-18
+637,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Sturm - Davis #36-6,"330'N line, 631'W line of NE",OIL,65616,1.21933E+11,Fort Payne,Jun-18
+638,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Sturm - Davis #36-7,"330'N line, 20'W line of NE NE",OIL,65627,1.21933E+11,Fort Payne,Jun-18
+639,White,34-4S-8E,"Brookston Resources, Inc.",Gray - Daughters #57-34,"330'N line, 330'W line of SW SE",WI,204627,1.21933E+11,Aux Vases,Jun-18
+640,White,27-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #52","330'S line, 330'E line of NE NE",OIL,65606,1.21931E+11,Warsaw,Jun-18
+641,White,27-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #C-21","330'S line, 330'E line of SE",OIL,65607,1.2193E+11,Warsaw,Jun-18
+642,White,3-5S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #49","330'S line, 330'W line of SW",OIL,65609,1.21931E+11,Warsaw,Jun-18
+643,White,4-5S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #33","330'N line, 285'W line of SE SW",OIL,65610,1.21931E+11,Warsaw,Jun-18
+644,White,4-5S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #34","330'N line, 330'W line of SW SE",OIL,65614,1.2193E+11,Warsaw,Jun-18
+645,White,4-5S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #39","280'S line, 330'E line of SW SE",OIL,65613,1.21931E+11,Warsaw,Jun-18
+646,White,4-5S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #45","330'S line, 990'E line of SE",OIL,65611,1.21931E+11,Warsaw,Jun-18
+647,White,5-5S-14W,Citation Oil & Gas Corp.,"Bacon, B. S. #19","639'S line, 655'E line of SE NE",OIL,65615,1.21933E+11,Warsaw,Jun-18
+648,White,24-7S-10E,"Campbell Energy, LLC","Fuhrer - Curtis Community,#2","330'S line, 330'E line of NE NE",OIL,65617,1.21933E+11,Fort Payne,Jun-18
+649,White,20-7S-11E,"Campbell Energy, LLC",Reese #1,"330'N line, 330'W line of NW SW",OIL,65618,1.21933E+11,Fort Payne,Jun-18
+650,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #IJW-3","220'S line, 0'W line of NW NE NE",WI,204684,1.20233E+11,St Louis,Jun-19
+651,Clay,11-2N-6E,Deep Rock Energy Corp.,"Valbert, Steven #1","330'N line, 330'W line of NE",OIL,66009,1.20253E+11,McClosky,Jun-19
+652,Clay,7-5N-7E,"Pioneer Oil Co., Inc.",Czyzewski Community #1,"330'S line, 710'W line of NW",OIL,66008,1.20253E+11,Warsaw,Jun-19
+653,Clinton,24-1N-5W,Keyrock Energy LLC,Innes #1,"100'N line, 920'E line of NW",CMM,65988,1.20273E+11,Herrin Coa,Jun-19
+654,Clinton,24-1N-5W,Keyrock Energy LLC,Innes #2,"629'N line, 933'E line of NW",CMM,65987,1.20273E+11,Herrin Coa,Jun-19
+655,Crawford,18-7N-11W,"Pioneer Oil Co., Inc.",Schaefer #1-18,"47'N line, 605'E line of NE NW",SER,66014,1.20334E+11,Seelyville,Jun-19
+656,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #4","360'N line, 330'W line of NW SW",OIL,65979,1.20334E+11,Robinson,Jun-19
+657,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #5","360'N line, 330'W line of SW SW",OIL,65981,1.20334E+11,Robinson,Jun-19
+658,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #7","330'S line, 330'W line of SW SW",OIL,65980,1.20334E+11,Robinson,Jun-19
+659,Effingham,33-6N-7E,"Loeb, Herman L. LLC","Kluthe ""A"" #9","330'S line, 330'W line of SW SE SE",WSU,66013,1.20492E+11,Aux Vases,Jun-19
+660,Hamilton,13-6S-5E,"Bi-Petro, Inc.",Sloan #2-B,"660'S line, 330'W line of SE NW",OIL,66012,1.20653E+11,Warsaw,Jun-19
+661,Hamilton,14-6S-5E,"Bi-Petro, Inc.",Culpepper #1-B,"330'S line, 500'W line of SW SE",OIL,66011,1.20653E+11,Warsaw,Jun-19
+662,Hamilton,14-6S-5E,"Bi-Petro, Inc.",Sands #6-B,"380'N line, 330'E line of NW SW",OIL,66010,1.20653E+11,Warsaw,Jun-19
+663,Jefferson,36-1S-4E,Resolve Exploration Corp.,Withrow #1,"990'N line, 330'W line of NE",OIL,65994,1.20813E+11,Warsaw,Jun-19
+664,Jefferson,10-4S-2E,"MKE Producing, Inc.",Kash #2,"330'S line, 330'E line of SW SW",OIL,65989,1.20813E+11,Fort Payne,Jun-19
+665,Lawrence,14-3N-12W,"Zanetis Oil Company, LLC",Rogers #5-D,"330'N line, 380'E line of SE NW",OIL,65982,1.21013E+11,Warsaw,Jun-19
+666,Lawrence,14-3N-12W,"Zanetis Oil Company, LLC",Rogers #6-D,"330'S line, 330'W line of SE NW",OIL,65983,1.21013E+11,Warsaw,Jun-19
+667,Lawrence,35-3N-12W,"CDG Operations, LLC","Ryan, G. L. a/c 3 #54-CDG","375'N line, 330'W line of NE NE",OIL,66007,1.21013E+11,Salem,Jun-19
+668,Lawrence,32-4N-12W,"CDG Operations, LLC","Middagh, Robert ASP BCF,#1-CDG","1444'N line, 193'W line of NE NW",OIL,65999,1.21013E+11,Bridgeport,Jun-19
+669,Lawrence,32-4N-12W,"CDG Operations, LLC","Middagh, Robert ASP BCF,#2-CDG","1374'N line, 503'W line of NE NW",OIL,65998,1.21013E+11,Bridgeport,Jun-19
+670,Lawrence,32-4N-12W,"CDG Operations, LLC","Middagh, Robert ASP BCF,#3-CDG","1304'N line, 813'W line of NE NW",OIL,65997,1.21013E+11,Bridgeport,Jun-19
+671,Lawrence,32-4N-12W,"CDG Operations, LLC","Middagh, Robert ASP BCF,#4-CDG","1231'N line, 1129'W line of NE NW",OIL,65996,1.21013E+11,Bridgeport,Jun-19
+672,Lawrence,32-4N-12W,"CDG Operations, LLC","Middagh, Robert ASP BCF,#9-CDG","2074'N line, 318'W line of NE NW",OIL,65984,1.21013E+11,Bridgeport,Jun-19
+673,Macon,1-16N-1E,"Countrymark Energy Resources, LLC",Gulick Estate #6,"941'S line, 832'W line of SW NE",OIL,65992,1.21152E+11,Moccasin,Jun-19
+674,Marion,19-1N-1E,T.D. Energy Inc.,T. D. Energy #2,"72'S line, 328'E line of SE SW NW",OIL,65993,1.21213E+11,Clear Cree,Jun-19
+675,Marion,29-2N-2E,Citation Oil & Gas Corp.,"Brooks, E. C. Tract 72 #8","330'S line, 282'E line of SW NE SW",WI,204682,1.2121E+11,Lingle,Jun-19
+676,Marion,29-2N-2E,Citation Oil & Gas Corp.,"Young, M. J.  Tr. #59-20","230'N line, 335'E line of NW",WI,204683,1.2121E+11,Lingle,Jun-19
+677,Saline,24-7S-6E,"Campbell Energy, LLC",Longbranch #1,"330'N line, 332'W line of SE SW",OIL,65986,1.21653E+11,Backbone,Jun-19
+678,Saline,24-7S-6E,"Campbell Energy, LLC",Tison Heirs #24-1,"330'N line, 332'E line of SW SW",OIL,65985,1.21653E+11,Backbone,Jun-19
+679,Wabash,22-3S-14W,"Pioneer Oil Co., Inc.",Helm #22-14,"336'S line, 658'E line of SE SW",OIL,66000,1.21853E+11,Warsaw,Jun-19
+680,Wabash,22-3S-14W,"Pioneer Oil Co., Inc.",Helm #22-15,"336'N line, 659'E line of SE SW",OIL,66001,1.21853E+11,Warsaw,Jun-19
+681,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-1,"332'N line, 659'E line of NE NW",OIL,66002,1.21853E+11,Warsaw,Jun-19
+682,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-3,"332'S line, 659'E line of NE NW",OIL,66003,1.21853E+11,Warsaw,Jun-19
+683,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-5,"332'N line, 659'E line of SE NW",OIL,66004,1.21853E+11,Warsaw,Jun-19
+684,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-7,"332'S line, 660'E line of SE NW",OIL,66005,1.21853E+11,Warsaw,Jun-19
+685,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-9,"335'N line, 660'E line of NE SW",OIL,66006,1.21853E+11,Warsaw,Jun-19
+686,Wayne,36-1N-6E,"Countrymark Energy Resources, LLC",Ellison #1-T,"491'N line, 10'E line of NE NW",OIL,65991,1.21913E+11,Salem,Jun-19
+687,Wayne,36-1N-6E,"Countrymark Energy Resources, LLC",Ellison #3,"777'S line, 10'E line of SE NW",OIL,65990,1.21913E+11,Salem,Jun-19
+688,White,20-3S-14W,"Fischer & Fischer Oil, LLC",Hammell #1,"890'N line, 990'W line of NW SE",OIL,66015,1.21933E+11,Aux Vases,Jun-19
+689,White,2-4S-10E,"ACF Resources, LLC",Hon #1,"330'N line, 330'E line of SE NE",OIL,66020,1.2193E+11,Fort Payne,Jun-19
+690,White,11-4S-10E,"ACF Resources, LLC",Ridenour #1,"330'N line, 660'W line of NE SW",OIL,66021,1.2193E+11,Fort Payne,Jun-19
+691,White,14-4S-10E,"ACF Resources, LLC",Healy #1,"330'N line, 330'W line of SW NW",OIL,66024,1.21933E+11,Fort Payne,Jun-19
+692,White,14-4S-10E,"ACF Resources, LLC",Lamont #1,"330'S line, 330'W line of NE NW",OIL,66023,1.21933E+11,Fort Payne,Jun-19
+693,White,14-4S-10E,"ACF Resources, LLC",Lanco #1,"330'S line, 330'W line of NW",OIL,66022,1.2193E+11,Fort Payne,Jun-19
+694,White,22-4S-14W,Citation Oil & Gas Corp.,"Ford, Harry C. #8","330'S line, 330'E line of NE SE",WI,204685,1.2193E+11,Cypress,Jun-19
+695,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #104","380'N line, 330'W line of NE NW",OIL,66019,1.21933E+11,Warsaw,Jun-19
+696,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #25","330'S line, 990'W line of NE",OIL,66018,1.2193E+11,Warsaw,Jun-19
+697,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #41","990'N line, 1600'E line of NE",OIL,66017,1.21933E+11,Warsaw,Jun-19
+698,White,5-5S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #21","330'N line, 330'W line of SE SE",OIL,66016,1.21931E+11,Warsaw,Jun-19
+699,White,17-7S-8E,"Webb, Patrick Oil L.L.C.",Webb - Lewis #1,"330'N line, 380'W line of SW SE",OIL,65995,1.21933E+11,Fort Payne,Jun-19
+700,Clark,9-11N-14W,"Ryan, Tim/Ryan Oil Production","Biggs, Doit #32","0'S line, 330'W line of NW SE NW",OIL,66273,1.2023E+11,St Louis,Jun-20
+701,Franklin,29-5S-3E,Gesell's Pump Sales & Service,"Jones, A. #3","330'N line, 330'E line of NW",OIL,66269,1.2055E+11,Ullin,Jun-20
+702,Gallatin,24-8S-9E,"T & B Production Co., LLC",Lawler #1-24,"330'S line, 330'W line of NW SE",OIL,66267,1.20593E+11,St Louis,Jun-20
+703,Gallatin,16-8S-10E,"Smiley Oil, LLC",Leach #5,"330'N line, 330'E line of NW NW",WI,204754,1.20592E+11,Aux Vases,Jun-20
+704,Hamilton,12-6S-5E,"Bi-Petro, Inc.",Ventress #2-B,"330'N line, 370'W line of SW SE SW",OIL,66270,1.20653E+11,Ullin,Jun-20
+705,Hamilton,13-6S-5E,"Bi-Petro, Inc.",Sloan #3-B,"330'S line, 370'W line of SW NE NW",OIL,66271,1.20653E+11,Ullin,Jun-20
+706,McDonough,31-7N-3W,Ameren Illinois Company,Cathodic Protection #2,"1144'N line, 2173'E line of SE",SER,66268,1.21092E+11,Grassy Cre,Jun-20
+707,White,33-3S-14W,"Campbell Energy, LLC",Bump #10-WI,"636'N line, 334'W line of SE NW",WI,204756,1.2193E+11,Aux Vases,Jun-20
+708,White,9-4S-14W,"Campbell Energy, LLC",Cantrell Potter E #SWD-2,"50'S line, 330'E line of NE SW SW",SWD,204755,1.21933E+11,St Peter,Jun-20
+709,White,17-7S-8E,"Webb, Patrick Oil L.L.C.",Webb - Douglas Heirs #7,"330'S line, 330'E line of NE SW",OIL,66272,1.21933E+11,Fort Payne,Jun-20
+710,Crawford,15-6N-13W,B & D Resources,Walker #W-2,"660'N line, 680'W line of NW NE",WI,204798,1.20334E+11,Spoon,Jun-21
+711,Crawford,15-6N-13W,B & D Resources,Walker #W-3,"1320'N line, 680'W line of NW NE",WI,204799,1.20334E+11,Spoon,Jun-21
+712,Crawford,15-6N-13W,B & D Resources,Walker #W-4,"1980'N line, 680'W line of NW NE",WI,204800,1.20334E+11,Spoon,Jun-21
+713,Crawford,18-7N-12W,"IL Exploration & Production, Inc.",Price Heirs #1-A,"330'N line, 330'E line of SW NW",WI,204784,1.20333E+11,Spoon,Jun-21
+714,Edgar,9-13N-13W,"Pioneer Oil Co., Inc.",Baber #15-J,"330'N line, 330'W line of SW SE",OIL,66427,1.20452E+11,Spoon,Jun-21
+715,Edgar,9-13N-13W,"Pioneer Oil Co., Inc.",Bussart #P-10,"10'N line, 330'E line of NE SE NE",OIL,66420,1.20452E+11,Spoon,Jun-21
+716,Edgar,9-13N-13W,"Pioneer Oil Co., Inc.",Bussart #P-11,"330'N line, 10'E line of NW SE NE",OIL,66421,1.20452E+11,Spoon,Jun-21
+717,Edgar,9-13N-13W,"Pioneer Oil Co., Inc.",Bussart #P-8,"330'S line, 10'W line of SE NE NE",OIL,66418,1.20452E+11,Spoon,Jun-21
+718,Edgar,9-13N-13W,"Pioneer Oil Co., Inc.",Bussart #P-9,"10'S line, 330'W line of SW NE NE",OIL,66419,1.20452E+11,Spoon,Jun-21
+719,Edwards,19-2S-10E,"Pioneer Oil Co., Inc.",Beadles Community #1,"900'N line, 390'W line of NW NW",OIL,66428,1.20473E+11,Grand Tow,Jun-21
+720,Franklin,30-5S-2E,"Stewart Producers, Inc.",Illinois Minerals #30-5,"266'N line, 557'W line of NW SW NW",OIL,66433,1.20553E+11,Aux Vases,Jun-21
+721,Franklin,18-6S-2E,"Lampley Oil, Inc.",Illinois Minerals #18-1A,"330'S line, 990'W line of SE SW",OIL,66431,1.20553E+11,Ullin,Jun-21
+722,Gallatin,13-8S-9E,"T & B Production Co., LLC",Lawler #7,"330'S line, 330'W line of NE",OIL,66414,1.2059E+11,St Louis,Jun-21
+723,Jefferson,8-2S-1E,"Wood Energy, Inc.","Kasban, E. #13","330'N line, 660'E line of NE NE SW",OIL,66432,1.20813E+11,"Dunleith,Dolomite",Jun-21
+724,Lawrence,36-3N-12W,"Tussey, Brian K.",Dining Heirs #4,"3688'N line, 532'E line of section",OIL,66416,1.21011E+11,Bethel,Jun-21
+725,Wabash,24-1S-14W,"Fischer & Fischer Oil, LLC",Irwin #2-WI,"330'N line, 695'E line of NE SE",WI,204783,1.21853E+11,Cypress,Jun-21
+726,Wabash,19-2S-13W,"R & S Operating, LLC","Hocking, Keith #4","990'S line, 990'E line of SE NE",OIL,66437,1.21853E+11,Fort Payne,Jun-21
+727,Wabash,19-2S-13W,"R & S Operating, LLC","Hocking, Keith #5","990'N line, 990'E line of NE",OIL,66438,1.21853E+11,Fort Payne,Jun-21
+728,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-7,"492'S line, 660'E line of SE NW",OIL,66430,1.21853E+11,Ullin,Jun-21
+729,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm State of Indiana #27-10,"434'N line, 345'W line of NW SE",OIL,66429,1.21853E+11,Ullin,Jun-21
+730,White,1-4S-10E,"ACF Resources, LLC",Hon #2,"330'S line, 98'E line of SW SW NW",OIL,66417,1.21933E+11,Fort Payne,Jun-21
+731,White,2-4S-10E,"ACF Resources, LLC",Cora #1,"330'S line, 330'E line of NE NE",OIL,66415,1.21933E+11,Fort Payne,Jun-21
+732,White,33-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #1-H","222'S line, 216'E line of SW SE",WI,204785,1.21933E+11,Salem,Jun-21
+733,White,32-5S-10E,Podolsky Oil Co.,McQueen #13,"1419'S line, 2036'E line of SW",OIL,66422,1.21933E+11,Ullin,Jun-21
+734,White,32-5S-10E,Podolsky Oil Co.,McQueen #14,"836'S line, 1813'E line of SW",OIL,66423,1.21933E+11,Ullin,Jun-21
+735,White,32-5S-10E,Podolsky Oil Co.,McQueen #15,"437'S line, 349'E line of SW",OIL,66424,1.21933E+11,Ullin,Jun-21
+736,White,32-5S-10E,Podolsky Oil Co.,McQueen #17,"1677'S line, 1608'E line of SW",OIL,66426,1.21933E+11,Ullin,Jun-21
+737,White,7-6S-10E,"Campbell Energy, LLC",Funkhouser #18-4,"345'S line, 332'W line of SW SW",OIL,66435,1.21933E+11,Fort Payne,Jun-21
+738,White,18-6S-10E,"Campbell Energy, LLC",Funkhouser #18-2,"330'N line, 330'W line of NW NW",OIL,66434,1.21933E+11,Fort Payne,Jun-21
+739,White,18-6S-10E,"Campbell Energy, LLC",Funkhouser #18-3,"330'N line, 330'E line of NW NW",OIL,66436,1.21933E+11,Ullin,Jun-21
+740,White,2-7S-9E,"Davis, Jim Oil Trust Revocable","Jones, Tom #3","376'S line, 577'W line of SE SW",OIL,66439,1.21933E+11,Caseyville,Jun-21
+741,Christian,17-14N-2W,"ITB Oil, LLC",Greffe #1,"330'S line, 420'W line of NE SW",OIL,65504,1.20213E+11,Grand Tow,Mar-18
+742,Clark,30-10N-13W,"Reynolds, Steven L.",Auld #3-T,"660'S line, 330'W line of SW NW",OIL,65503,1.20233E+11,Trenton,Mar-18
+743,Franklin,25-5S-2E,Gesell's Pump Sales & Service,USX #7,"330'N line, 330'W line of SW SE",OIL,65482,1.20553E+11,Platteville,Mar-18
+744,Franklin,25-6S-2E,Gesell's Pump Sales & Service,Finite Crown B #18-W,"153'S line, 330'W line of SW SW",WI,204602,1.20552E+11,St Louis,Mar-18
+745,Hamilton,26-5S-6E,"Wood Energy, Inc.","Wilson, P. #1","330'N line, 330'W line of SE NW",WI,204599,1.20653E+11,Salem,Mar-18
+746,Hamilton,14-6S-5E,"Bi-Petro, Inc.",Sands #5-B,"330'S line, 380'E line of SE SE NW",OIL,65505,1.20653E+11,Fort Payne,Mar-18
+747,Hamilton,14-6S-5E,"Bi-Petro, Inc.",Warren #3-B,"330'S line, 330'E line of SE SE SW",OIL,65507,1.20653E+11,Warsaw,Mar-18
+748,Hamilton,14-6S-5E,"Bi-Petro, Inc.",Williams Heirs #3-B,"330'S line, 330'E line of SE NE SW",OIL,65506,1.20653E+11,Warsaw,Mar-18
+749,Jasper,6-5N-10E,Pinnacle Exploration Corp.,Payne Heirs #9,"330'N line, 530'E line of NE NE",OIL,65520,1.20793E+11,Salem,Mar-18
+750,Jefferson,30-3S-2E,"Countrymark Energy Resources, LLC",Panzier #4,"539'S line, 255'W line of NE SE",OIL,65509,1.20813E+11,Clear Cree,Mar-18
+751,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #118-CDG","193'S line, 66'W line of NW SW",OIL,65523,1.21013E+11,Salem,Mar-18
+752,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #119-CDG","537'S line, 330'W line of NW SW",OIL,65522,1.21013E+11,Salem,Mar-18
+753,Lawrence,26-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 1 #120-CDG","260'S line, 490'W line of SW SW",OIL,65524,1.21013E+11,Salem,Mar-18
+754,Lawrence,27-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 3 #86-CDG","202'S line, 830'E line of SE SE",OIL,65527,1.21013E+11,Salem,Mar-18
+755,Lawrence,27-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 3 #87-CDG","507'S line, 762'E line of SE SE",OIL,65525,1.21013E+11,Salem,Mar-18
+756,Lawrence,27-3N-12W,"CDG Operations, LLC","Leighty, E. a/c 3 #88-CDG","871'S line, 660'E line of SE SE",OIL,65526,1.21013E+11,Salem,Mar-18
+757,Lawrence,34-3N-12W,"CDG Operations, LLC","Gee, S. J. a/c 1 #65-CDG","142'N line, 620'E line of SE NE",OIL,65528,1.21013E+11,Salem,Mar-18
+758,Lawrence,34-3N-12W,"CDG Operations, LLC","Vandermark, L. A. #35-CDG","585'S line, 239'E line of NW NE",OIL,65483,1.21013E+11,Salem,Mar-18
+759,Lawrence,34-3N-12W,"CDG Operations, LLC","Vandermark, L. A. #36-CDG","228'N line, 231'E line of NW NE",OIL,65484,1.21013E+11,Salem,Mar-18
+760,Lawrence,34-3N-12W,"CDG Operations, LLC","Vandermark, L. A. #37-CDG","507'N line, 109'W line of NE NE",OIL,65529,1.21013E+11,Salem,Mar-18
+761,Lawrence,35-3N-12W,"CDG Operations, LLC","Leighty, L. K. a/c 1 (80A),#103-CDG","450'N line, 100'W line of NW NW",OIL,65485,1.21013E+11,Salem,Mar-18
+762,Wabash,2-1N-12W,Fossil Fueled Resources,Cusick #1,"330'N line, 330'W line of SW SW",SWD,204600,1.21853E+11,Tar Spring,Mar-18
+763,Wabash,20-1N-12W,"Nichols Operating, LLC",Johnson #3-20,"333'S line, 340'E line of NW SW",OIL,65510,1.21853E+11,Benoist,Mar-18
+764,Wabash,9-1S-12W,Southern Triangle Oil Co.,Zimmerman #G-2,"990'S line, 1320'W line of SE",WI,204603,1.21853E+11,Biehl,Mar-18
+765,Wabash,23-2S-14W,Quantum XL LLC,Lovellette #2-WI,"338'N line, 334'W line of NW SW",SWD,204601,1.21853E+11,Tar Spring,Mar-18
+766,Wayne,36-1N-6E,"Countrymark Energy Resources, LLC",Cisne State Bank #2,"332'N line, 336'E line of NW NE",OIL,65511,1.21913E+11,Salem,Mar-18
+767,Wayne,36-1N-6E,"Countrymark Energy Resources, LLC",Cisne State Bank #3,"332'N line, 336'E line of SW NE",OIL,65512,1.21913E+11,Salem,Mar-18
+768,White,25-3S-10E,"Shawnee Exploration Partners, LLC",Blackford #25-2,"654'N line, 330'E line of SW SE",OIL,65539,1.21933E+11,Fort Payne,Mar-18
+769,White,25-3S-10E,"Shawnee Exploration Partners, LLC",Blackford #25-3,"330'S line, 25'W line of SE SE",OIL,65540,1.21933E+11,Fort Payne,Mar-18
+770,White,25-3S-10E,"Shawnee Exploration Partners, LLC",Eagleson #25-2,"430'S line, 330'W line of SE SW",OIL,65532,1.21933E+11,Fort Payne,Mar-18
+771,White,25-3S-10E,"Shawnee Exploration Partners, LLC",Seifried #5,"640'N line, 330'W line of NE",OIL,65531,1.21933E+11,Fort Payne,Mar-18
+772,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Groff #36-01,"330'N line, 890'W line of NW",OIL,65521,1.21933E+11,Fort Payne,Mar-18
+773,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-1,"660'N line, 10'W line of NE SW",OIL,65533,1.21933E+11,Fort Payne,Mar-18
+774,White,30-3S-11E,"Shawnee Exploration Partners, LLC","Seifried, Clarence #A-2","330'N line, 640'E line of SE SW",OIL,65530,1.21933E+11,Fort Payne,Mar-18
+775,White,28-3S-14W,"Campbell Energy, LLC",Reeves #1,"10'N line, 405'E line of SW NE",OIL,65486,1.21933E+11,Warsaw,Mar-18
+776,White,28-3S-14W,"Campbell Energy, LLC",Reeves #10,"11'N line, 558'E line of SE NW",OIL,65495,1.21933E+11,Warsaw,Mar-18
+777,White,28-3S-14W,"Campbell Energy, LLC",Reeves #11,"341'N line, 356'W line of SE NW",OIL,65496,1.21933E+11,Warsaw,Mar-18
+778,White,28-3S-14W,"Campbell Energy, LLC",Reeves #12,"667'S line, 236'W line of SE NW",OIL,65497,1.21933E+11,Warsaw,Mar-18
+779,White,28-3S-14W,"Campbell Energy, LLC",Reeves #13,"337'S line, 189'W line of SE NW",OIL,65498,1.21933E+11,Warsaw,Mar-18
+780,White,28-3S-14W,"Campbell Energy, LLC",Reeves #14,"7'S line, 356'W line of SE NW",OIL,65499,1.21933E+11,Warsaw,Mar-18
+781,White,28-3S-14W,"Campbell Energy, LLC",Reeves #15,"323'N line, 596'W line of NE SW",OIL,65500,1.21933E+11,Warsaw,Mar-18
+782,White,28-3S-14W,"Campbell Energy, LLC",Reeves #16,"653'N line, 531'W line of NE SW",OIL,65501,1.21933E+11,Warsaw,Mar-18
+783,White,28-3S-14W,"Campbell Energy, LLC",Reeves #17,"503'S line, 129'E line of SE",OIL,65502,1.21933E+11,Warsaw,Mar-18
+784,White,28-3S-14W,"Campbell Energy, LLC",Reeves #2,"340'N line, 298'E line of SW NE",OIL,65487,1.21933E+11,Warsaw,Mar-18
+785,White,28-3S-14W,"Campbell Energy, LLC",Reeves #3,"670'N line, 273'E line of SW NE",OIL,65488,1.21933E+11,Warsaw,Mar-18
+786,White,28-3S-14W,"Campbell Energy, LLC",Reeves #4,"339'S line, 250'E line of SW NE",OIL,65489,1.21933E+11,Warsaw,Mar-18
+787,White,28-3S-14W,"Campbell Energy, LLC",Reeves #5,"9'S line, 360'E line of SW NE",OIL,65490,1.21933E+11,Warsaw,Mar-18
+788,White,28-3S-14W,"Campbell Energy, LLC",Reeves #6,"175'N line, 244'W line of SW NE",OIL,65491,1.21933E+11,Warsaw,Mar-18
+789,White,28-3S-14W,"Campbell Energy, LLC",Reeves #7,"505'N line, 186'W line of SW NE",OIL,65492,1.21933E+11,Warsaw,Mar-18
+790,White,28-3S-14W,"Campbell Energy, LLC",Reeves #8,"173'S line, 131'W line of SW NE",OIL,65493,1.21933E+11,Warsaw,Mar-18
+791,White,28-3S-14W,"Campbell Energy, LLC",Reeves #9,"157'N line, 84'W line of NW SE",OIL,65494,1.21933E+11,Warsaw,Mar-18
+792,White,32-3S-14W,"Campbell Energy, LLC",Crawford #1,"336'N line, 668'E line of SE NE",OIL,65518,1.21933E+11,Fort Payne,Mar-18
+793,White,32-3S-14W,"Campbell Energy, LLC",Crawford #2,"336'S line, 668'E line of SE NE",OIL,65519,1.21933E+11,Fort Payne,Mar-18
+794,White,9-4S-14W,"Campbell Energy, LLC","Cantrell Calvin - Hon Unit,#2","330'N line, 477'W line of SW NE",OIL,65477,1.21933E+11,Fort Payne,Mar-18
+795,White,9-4S-14W,"Campbell Energy, LLC","Cantrell Calvin - Hon Unit,#3","332'N line, 388'E line of NW SE",OIL,65478,1.21933E+11,Fort Payne,Mar-18
+796,White,9-4S-14W,"Campbell Energy, LLC","Cantrell Calvin - Hon Unit,#4","332'S line, 390'E line of NW SE",OIL,65479,1.21933E+11,Fort Payne,Mar-18
+797,White,9-4S-14W,"Campbell Energy, LLC","Cantrell Calvin - Hon Unit,#5","332'N line, 381'E line of SW SE",OIL,65480,1.21933E+11,Fort Payne,Mar-18
+798,White,9-4S-14W,"Campbell Energy, LLC","Cantrell Calvin - Hon Unit,#6","330'S line, 387'E line of SW SE",OIL,65481,1.21933E+11,Fort Payne,Mar-18
+799,White,9-4S-14W,"Campbell Energy, LLC",Cantrell Calvin Hon Unit #7,"330'N line, 669'E line of NE SW",OIL,65513,1.21933E+11,Fort Payne,Mar-18
+800,White,9-4S-14W,"Campbell Energy, LLC",Cantrell Calvin Hon Unit #8,"330'S line, 619'E line of NE SW",OIL,65514,1.21933E+11,Fort Payne,Mar-18
+801,White,9-4S-14W,"Campbell Energy, LLC",Cantrell Calvin Hon Unit #9,"330'N line, 669'E line of SE SW",OIL,65515,1.21933E+11,Fort Payne,Mar-18
+802,White,9-4S-14W,"Campbell Energy, LLC",Cantrell Potter E #2,"329'N line, 380'E line of SW NW",OIL,65517,1.21933E+11,Fort Payne,Mar-18
+803,White,9-4S-14W,"Campbell Energy, LLC",Cantrell Potter E #3,"329'S line, 379'E line of SW NW",OIL,65516,1.21933E+11,Fort Payne,Mar-18
+804,White,15-4S-14W,"Campbell Energy, LLC",Jones #1,"330'N line, 678'E line of NW SW",OIL,65534,1.21933E+11,Fort Payne,Mar-18
+805,White,15-4S-14W,"Campbell Energy, LLC",Jones #2,"328'S line, 674'E line of NW SW",OIL,65535,1.21933E+11,Fort Payne,Mar-18
+806,White,15-4S-14W,"Campbell Energy, LLC",Jones #3,"329'N line, 330'E line of SW SW",OIL,65536,1.21933E+11,Fort Payne,Mar-18
+807,White,15-4S-14W,"Campbell Energy, LLC",Jones #4,"330'S line, 330'E line of SW SW",OIL,65537,1.21933E+11,Fort Payne,Mar-18
+808,White,34-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #E-6","345'S line, 330'E line of NE",OIL,65476,1.21933E+11,Warsaw,Mar-18
+809,White,19-5S-14W,"Campbell Energy, LLC",Kempf #10,"330'N line, 330'E line of NE SE",OIL,65508,1.21933E+11,Fort Payne,Mar-18
+810,Franklin,5-7S-4E,"Prairie Resources, Inc.",Midyett Heirs #1,"1284'S line, 793'W line of SW",OIL,65886,1.20553E+11,Fort Payne,Mar-19
+811,Richland,31-5N-10E,"Tri-State Prod. & Dev., Inc.",Kermicle - Pottorff Unit #17,"330'N line, 260'E line of SE SE",OIL,65892,1.21593E+11,Salem,Mar-19
+812,Wabash,5-2S-13W,"Universal Operating, Inc",Alka #4,"520'N line, 330'E line of SW SE",OIL,65899,1.21853E+11,Salem,Mar-19
+813,Wabash,22-3S-14W,"Pioneer Oil Co., Inc.",Helm #22-12,"338'S line, 659'W line of NW SW SE",OIL,65902,1.21853E+11,Warsaw,Mar-19
+814,Wabash,23-3S-14W,"Pioneer Oil Co., Inc.",Helm #23-4,"337'N line, 693'W line of NW NE",OIL,65901,1.21853E+11,Warsaw,Mar-19
+815,Wabash,23-3S-14W,"Pioneer Oil Co., Inc.",Helm #23-8,"342'N line, 333'W line of SW NW",OIL,65903,1.21853E+11,Warsaw,Mar-19
+816,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-10,"334'N line, 345'W line of NW SE",OIL,65906,1.21853E+11,Warsaw,Mar-19
+817,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-2,"330'N line, 543'W line of NW NE",OIL,65904,1.21853E+11,Warsaw,Mar-19
+818,Wabash,27-3S-14W,"Pioneer Oil Co., Inc.",Helm #27-6,"331'N line, 661'W line of SW NE",OIL,65905,1.21853E+11,Warsaw,Mar-19
+819,White,8-4S-14W,"Campbell Energy, LLC","Barger - Cox, L. P. #1","356'N line, 340'W line of NE NE",OIL,65907,1.21933E+11,Fort Payne,Mar-19
+820,White,8-4S-14W,"Campbell Energy, LLC","Barger - Cox, L. P. #2","353'S line, 340'W line of SE NE",OIL,65908,1.21933E+11,Fort Payne,Mar-19
+821,White,9-4S-14W,"Campbell Energy, LLC",Barger - Potter #1,"330'N line, 373'E line of NE NW",OIL,65909,1.21933E+11,Fort Payne,Mar-19
+822,White,9-4S-14W,"Campbell Energy, LLC","Cantrell - Boultinghouse #9,1","- 665'N line, 335'W line of SE SE",OIL,65893,1.21933E+11,Fort Payne,Mar-19
+823,White,9-4S-14W,"Campbell Energy, LLC","Cantrell - Boultinghouse #9,2","- 330'N line, 330'E line of SE SE",OIL,65894,1.21933E+11,Fort Payne,Mar-19
+824,White,9-4S-14W,"Campbell Energy, LLC",Cantrell - Potter #E-4,"420'N line, 334'E line of NW NW",OIL,65897,1.21933E+11,Fort Payne,Mar-19
+825,White,9-4S-14W,"Campbell Energy, LLC",Cantrell - Potter #E-5,"10'S line, 334'E line of NW SW",OIL,65898,1.21933E+11,Fort Payne,Mar-19
+826,White,9-4S-14W,"Campbell Energy, LLC","Cantrell Calvin Hon Unit,#10","344'S line, 334'E line of SE SW",OIL,65910,1.21933E+11,Fort Payne,Mar-19
+827,White,15-4S-14W,"Campbell Energy, LLC",Cantrell - Smith #C-1,"330'N line, 10'E line of NW SW NW",OIL,65895,1.21933E+11,Fort Payne,Mar-19
+828,White,15-4S-14W,"Campbell Energy, LLC",Cantrell - Smith #C-2,"660'N line, 340'E line of SW NW",OIL,65896,1.21933E+11,Fort Payne,Mar-19
+829,White,15-4S-14W,"Campbell Energy, LLC","Cox, L. P. #3","420'S line, 339'W line of NW SE",OIL,65900,1.21933E+11,Fort Payne,Mar-19
+830,White,16-4S-14W,"Campbell Energy, LLC",Barger - Skiles #4,"665'N line, 680'W line of NE SW",OIL,65888,1.21933E+11,Fort Payne,Mar-19
+831,White,16-4S-14W,"Campbell Energy, LLC",Barger - Skiles #5,"332'N line, 336'W line of NW SE",OIL,65889,1.21933E+11,Fort Payne,Mar-19
+832,White,16-4S-14W,"Campbell Energy, LLC",Barger - Skiles #6,"332'S line, 335'W line of NW SE",OIL,65890,1.21933E+11,Fort Payne,Mar-19
+833,White,16-4S-14W,"Campbell Energy, LLC",Barger - Skiles #7,"660'N line, 336'E line of NW SE",OIL,65891,1.21933E+11,Ullin,Mar-19
+834,White,"30-5S-9E,25-5S-10E",Wabash Prod. & Dev. Corp.,"Williams,Clara #WI-1","330'N line, 330'E line of SW SE","WI,CMM",204677,"121930212705.0,121933372000.0","Cypress,Herrin Coa",Mar-19
+835,Clinton,24-1N-1W,"Stewart Producers, Inc.",Knostman #2-WI,"1485'N line, 850'W line of NE SE",WI,204744,1.2027E+11,Caseyville,Mar-20
+836,Clinton,3-1S-5W,"Oelze Equipment Co., L.L.C.","Harpstrite, A. H. #2","330'N line, 330'W line of SW NE",OIL,66243,1.2027E+11,"Moccasin,Springs",Mar-20
+837,Franklin,29-5S-3E,Gesell's Pump Sales & Service,Bauer #1-W,"330'N line, 330'E line of SW NE",WI,204742,1.20553E+11,Ullin,Mar-20
+838,Gallatin,21-8S-9E,"Hudson, Larry A.",Schiff #1-WIW,"330'N line, 330'E line of SE NE",WI,204747,1.2059E+11,Palestine,Mar-20
+839,Gallatin,15-9S-9E,"Dee Drilling Co., Inc.",Howard Bros. #A-18WIW,"313'S line, 314'E line of SE SE",WI,204748,1.20593E+11,Aux Vases,Mar-20
+840,Jasper,10-8N-10E,Geier Oil Inc.,"Cummins, C. R. #1-A","330'N line, 330'W line of SW SE",OIL,66234,1.20792E+11,Ste Genevi,Mar-20
+841,Madison,15-4N-6W,"Kiec, Inc",Dietz #1-R HOR,"330'S line, 330'W line of NE SW",OIL,66241,1.21193E+11,"Moccasin,Springs",Mar-20
+842,Saline,21-8S-5E,"Campbell Energy, LLC","Garner, Wayman #1","330'N line, 330'W line of SW NW",WI,204745,1.2165E+11,Cypress,Mar-20
+843,Wabash,9-1S-12W,Keron Oil Development,Peach etal Unit #2-SWD,"960'N line, 1375'W line of SW",WI,204743,1.21853E+11,Salem,Mar-20
+844,Wabash,29-2S-13W,"B & H Producing, Inc.","Mussett, S. NCT-2 (Tr. 11),#4-C","347'S line, 314'E line of SW NW",OIL,66222,1.2185E+11,Cypress,Mar-20
+845,White,20-3S-8E,"Wood Energy, Inc.",Miller - Andrews #23,"330'S line, 330'E line of SE SW SW",OIL,66227,1.21933E+11,Bailey,Mar-20
+846,White,25-3S-10E,Shawnee Exploration Partners LLC,Blackford #25-4,"20'S line, 20'W line of NW SE SE",OIL,66242,1.21933E+11,Fort Payne,Mar-20
+847,White,8-4S-14W,"Campbell Energy, LLC",Cantrell Potter #K-5,"593'S line, 330'W line of NE SE",OIL,66223,1.21933E+11,Fort Payne,Mar-20
+848,White,8-4S-14W,"Campbell Energy, LLC",Cantrell Potter #K-6,"383'S line, 358'E line of NE SE",OIL,66224,1.21933E+11,Fort Payne,Mar-20
+849,White,8-4S-14W,"Campbell Energy, LLC",DLH #2,"329'S line, 380'E line of NE NW",OIL,66228,1.21933E+11,Fort Payne,Mar-20
+850,White,8-4S-14W,"Campbell Energy, LLC",DLH #3,"329'N line, 447'E line of SE NW",OIL,66229,1.21933E+11,Fort Payne,Mar-20
+851,White,8-4S-14W,"Campbell Energy, LLC",DLH #4,"465'S line, 485'E line of SE NW",OIL,66230,1.21933E+11,Fort Payne,Mar-20
+852,White,8-4S-14W,"Campbell Energy, LLC",DLH #5,"330'N line, 339'E line of NW NW",OIL,66231,1.21933E+11,Fort Payne,Mar-20
+853,White,8-4S-14W,"Campbell Energy, LLC",DLH #6,"329'S line, 340'E line of NW NW",OIL,66232,1.21933E+11,Fort Payne,Mar-20
+854,White,8-4S-14W,"Campbell Energy, LLC",DLH #7,"328'N line, 340'E line of SW NW",OIL,66233,1.21933E+11,Fort Payne,Mar-20
+855,White,8-4S-14W,"Campbell Energy, LLC",Herndon #3,"657'N line, 330'E line of NW NE",OIL,66226,1.21933E+11,Fort Payne,Mar-20
+856,White,8-4S-14W,"Campbell Energy, LLC",Herndon #4,"657'S line, 330'E line of SW NE",OIL,66225,1.21933E+11,Fort Payne,Mar-20
+857,White,16-4S-14W,"Loeb, Herman L. LLC",Ford #1-16,"330'N line, 330'E line of SE SW",OIL,66235,1.21933E+11,Fort Payne,Mar-20
+858,White,16-4S-14W,"Loeb, Herman L. LLC",Ford #2-16,"345'S line, 330'E line of SE SW",OIL,66236,1.21933E+11,Fort Payne,Mar-20
+859,White,20-4S-14W,"Loeb, Herman L. LLC",Gray #3-20,"430'N line, 500'W line of SW NE",OIL,66239,1.21933E+11,Fort Payne,Mar-20
+860,White,20-4S-14W,"Loeb, Herman L. LLC",Gray #4-20,"440'S line, 400'W line of SW NE",OIL,66240,1.21933E+11,Fort Payne,Mar-20
+861,White,22-4S-14W,"Loeb, Herman L. LLC",Ford #4-22,"420'S line, 330'E line of NE SW",OIL,66238,1.21933E+11,Fort Payne,Mar-20
+862,White,13-6S-10E,"Brookston Resources, Inc.","Karch, H. J. ""A"" #10","360'S line, 330'W line of SE SW",WI,204746,1.21933E+11,Cypress,Mar-20
+863,Franklin,25-5S-2E,Gesell's Pump Sales & Service,USX #10,"360'S line, 330'E line of SW NE",OIL,66370,1.20553E+11,Bailey,Mar-21
+864,Hamilton,12-6S-7E,"Webb, Patrick Oil L.L.C.",Webb - Mitchell #1-INJ,"660'N line, 330'E line of SE",WI,204774,1.20653E+11,Ullin,Mar-21
+865,Marion,6-1N-2E,Citation Oil & Gas Corp.,Salem Unit #179-20,"660'N line, 330'E line of NW SE",GI,204772,1.2121E+11,Grand Tow,Mar-21
+866,Wabash,12-1S-13W,"Keepes Petroleum, Inc.","Sharp, Alvin #1-SWD","990'N line, 330'E line of NW SW",SWD,204773,1.21853E+11,Bethel,Mar-21
+867,Washington,31-3S-5W,Ameren Illinois Company,Tilden #7-HOR,"316'N line, 953'W line of NW",GST,66371,1.21892E+11,Cypress,Mar-21
+868,Washington,31-3S-5W,Ameren Illinois Company,Tilden #8-HOR,"317'N line, 903'W line of NW",GST,66373,1.21892E+11,Cypress,Mar-21
+869,Washington,31-3S-5W,Ameren Illinois Company,Tilden #9-HOR,"318'N line, 854'W line of NW",GST,66372,1.21892E+11,Cypress,Mar-21
+870,Wayne,12-3S-7E,"Mid-States Oil, LLC",Ricketts #83-12,"990'S line, 330'E line of SE NE",OIL,66364,1.21913E+11,Ullin,Mar-21
+871,White,25-3S-10E,"Shawnee Exploration Partners, LLC",Eagleson #25-3,"245'S line, 455'E line of NE SW",OIL,66368,1.21933E+11,Fort Payne,Mar-21
+872,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-6,"330'N line, 21'E line of SW SW",OIL,66369,1.21933E+11,Fort Payne,Mar-21
+873,White,22-4S-14W,Citation Oil & Gas Corp.,"Ford, Harry C. #14","380'N line, 330'W line of NE",OIL,66366,1.21931E+11,Ullin,Mar-21
+874,White,22-4S-14W,Citation Oil & Gas Corp.,"Ford, Harry C. #17","330'N line, 990'W line of SE",OIL,66367,1.21933E+11,Ullin,Mar-21
+875,White,26-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #50","330'N line, 330'E line of NW NW",OIL,66376,1.21931E+11,Ullin,Mar-21
+876,White,27-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #C-11","1005'S line, 330'W line of SW",OIL,66365,1.2193E+11,Ullin,Mar-21
+877,White,34-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. ""D"" #14","330'S line, 330'E line of NE NW",OIL,66375,1.2193E+11,Ullin,Mar-21
+878,White,34-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #D-24","1880'N line, 330'E line of NW",OIL,66374,1.21933E+11,Ullin,Mar-21
+879,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #10","990'N line, 990'E line of NE",OIL,66378,1.21931E+11,Ullin,Mar-21
+880,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #20","330'S line, 330'E line of NE",OIL,66377,1.21931E+11,Ullin,Mar-21
+881,Bond,21-5N-4W,"Middleton, Robert Jr.",Stone #7,"330'S line, 660'W line of SE NE",OIL,65567,1.20052E+11,Spoon,May-18
+882,Bond,22-5N-4W,"Countrymark Energy Resources, LLC",Zobrist #4-T,"333'N line, 333'W line of SW SW",OIL,65579,1.20052E+11,Trenton,May-18
+883,Bond,22-5N-4W,"Countrymark Energy Resources, LLC",Zobrist #5-T,"333'S line, 370'W line of NW SW",OIL,65580,1.20052E+11,Trenton,May-18
+884,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #4","360'N line, 330'W line of NW SW",OIL,65586,1.20334E+11,Robinson,May-18
+885,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #5","360'N line, 330'W line of SW SW",OIL,65587,1.20334E+11,Robinson,May-18
+886,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #6","360'N line, 330'E line of SW SW",OIL,65588,1.20334E+11,Robinson,May-18
+887,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #7","330'S line, 330'W line of SW SW",OIL,65589,1.20334E+11,Robinson,May-18
+888,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. #8","360'S line, 330'E line of SW SW",OIL,65590,1.20334E+11,Robinson,May-18
+889,Franklin,35-5S-1E,"Countrymark Energy Resources, LLC",Bartolotti #4,"490'N line, 405'E line of SW SE",OIL,65572,1.20553E+11,Ste Genevi,May-18
+890,Franklin,35-5S-1E,"Countrymark Energy Resources, LLC",Bartolotti #5,"376'N line, 252'W line of SW SE",OIL,65573,1.20553E+11,Ste Genevi,May-18
+891,Franklin,30-5S-2E,"Stewart Producers, Inc.",Illinois Minerals #30-3,"338'S line, 236'E line of SE NW",OIL,65581,1.20553E+11,Aux Vases,May-18
+892,Gallatin,21-8S-9E,"Hudson, Larry A.",Schiff #1-WIW,"330'N line, 330'E line of SE NE",WI,204624,1.2059E+11,Palestine,May-18
+893,Hamilton,21-6S-5E,"Webb, Patrick Oil L.L.C.",Webb - Johnson #6,"330'N line, 330'E line of NW SW",OIL,65597,1.2065E+11,Fort Payne,May-18
+894,Jefferson,32-3S-2E,"Countrymark Energy Resources, LLC",Soaper #4,"428'N line, 600'E line of SW NW",OIL,65574,1.20813E+11,Warsaw,May-18
+895,Jefferson,11-4S-2E,"Heck Dalby Buckles', LLC",Heck - Dalby #3-WIW,"330'N line, 330'E line of SW SW",WI,204623,1.20812E+11,Rosiclare,May-18
+896,Lawrence,5-3N-12W,"CDG Operations, LLC","Robins, W. E. a/c 1 #94-CDG","827'S line, 992'E line of SE SE",OIL,65565,1.21013E+11,Salem,May-18
+897,Lawrence,14-3N-12W,"Zanetis Oil Company, LLC",Rogers #3-D,"330'N line, 380'E line of SW NW",OIL,65591,1.21013E+11,Warsaw,May-18
+898,Lawrence,26-3N-12W,"CDG Operations, LLC",Hulfachor #1-CDG,"330'N line, 360'E line of NW SE",OIL,65568,1.21013E+11,Salem,May-18
+899,Lawrence,26-3N-12W,"CDG Operations, LLC",Hulfachor #2-CDG,"501'S line, 330'E line of NW SE",OIL,65569,1.21013E+11,Salem,May-18
+900,Lawrence,26-3N-12W,"CDG Operations, LLC",Hulfachor #3-CDG,"239'N line, 330'E line of SW SE",OIL,65570,1.21013E+11,Salem,May-18
+901,Lawrence,26-3N-12W,"CDG Operations, LLC",Hulfachor #4-CDG,"437'S line, 330'E line of SW SE",OIL,65571,1.21013E+11,Salem,May-18
+902,Lawrence,27-3N-12W,"Zanetis Oil Company, LLC",Buchanan #1,"400'S line, 330'E line of SW SW",OIL,65566,1.21013E+11,Fort Payne,May-18
+903,Lawrence,34-3N-12W,"CDG Operations, LLC","Gee, S. J. a/c 1 #66-CDG","1076'N line, 1965'E line of NE",OIL,65578,1.21013E+11,Salem,May-18
+904,Lawrence,34-3N-12W,"CDG Operations, LLC","Vandermark, G. L. #SWD-1,CDG","70'N line, 330'W line of NE NW",SWD,204625,1.21013E+11,Fort Payne,May-18
+905,Macon,1-16N-1E,"Countrymark Energy Resources, LLC",Gulick Estate #6,"941'S line, 832'W line of SW NE",OIL,65601,1.21152E+11,"Moccasin,Springs",May-18
+906,Madison,28-6N-6W,"MB Oil Production, Inc.",Albrecht #2,"330'N line, 368'E line of NE NW NE",OIL,65577,1.21193E+11,Spoon,May-18
+907,Wayne,36-1N-6E,"Countrymark Energy Resources, LLC",Ellison #1-T,"491'N line, 10'E line of NE NW",OIL,65584,1.21913E+11,Warsaw,May-18
+908,Wayne,36-1N-6E,"Countrymark Energy Resources, LLC",Ellison #3,"777'S line, 10'E line of SE NW",OIL,65585,1.21913E+11,Warsaw,May-18
+909,Wayne,3-2S-7E,"Paragon Oil Company, Inc.","Webster, David #23-3","330'S line, 330'W line of NE NW",OIL,65582,1.21913E+11,Salem,May-18
+910,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-2,"990'N line, 990'W line of SW",OIL,65583,1.21933E+11,Fort Payne,May-18
+911,White,20-4S-14W,"Loeb, Herman L. LLC",Gray #1-20,"1460'S line, 675'E line of NE",OIL,65602,1.21933E+11,Fort Payne,May-18
+912,White,20-4S-14W,"Loeb, Herman L. LLC",Gray #2-20,"815'S line, 490'E line of NE",OIL,65603,1.21933E+11,Fort Payne,May-18
+913,White,22-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #61","330'N line, 330'W line of NE NE",OIL,65592,1.21931E+11,Warsaw,May-18
+914,White,23-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #68","330'N line, 330'W line of NW",OIL,65593,1.21933E+11,Warsaw,May-18
+915,White,34-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #E-3","330'N line, 330'W line of NE NE",OIL,65594,1.21931E+11,Warsaw,May-18
+916,White,6-5S-11E,"Cantrell, James R.","Bennett, Anna #5","337'N line, 940'W line of SW",OIL,65575,1.21933E+11,Tar Spring,May-18
+917,White,4-7S-8E,"Brookston Resources, Inc.",Roland West Unit #4-1A,"50'N line, 330'E line of SE SW",OIL,65595,1.21933E+11,Aux Vases,May-18
+918,White,16-7S-8E,"Webb, Patrick Oil L.L.C.",Webb - Dillsworth #1,"330'N line, 330'E line of SW NE",OIL,65598,1.2193E+11,Fort Payne,May-18
+919,White,16-7S-8E,"Webb, Patrick Oil L.L.C.",Webb - Phipps #3,"330'N line, 330'W line of SW NW",OIL,65596,1.21933E+11,Fort Payne,May-18
+920,White,17-7S-8E,"Webb, Patrick Oil L.L.C.",Webb #2,"405'N line, 330'E line of NW SE",OIL,65600,1.21933E+11,Fort Payne,May-18
+921,White,17-7S-8E,"Webb, Patrick Oil L.L.C.",Webb #3,"330'S line, 330'E line of SW NE",OIL,65599,1.2193E+11,Aux Vases,May-18
+922,Crawford,19-6N-12W,"Maus's Well Service, Inc.","Smith, C. etal #3-WI","400'N line, 330'E line of NE",WI,204680,1.20334E+11,Robinson,May-19
+923,Crawford,8-6N-13W,"Epoch Energy, LLC","Shilts, M. #WS-1-SWD","500'N line, 1100'W line of SW",SWD,204679,1.20331E+11,Buchanan,May-19
+924,Franklin,29-5S-3E,Gesell's Pump Sales & Service,Bauer #2,"330'S line, 330'W line of SW NE",OIL,65971,1.20553E+11,Warsaw,May-19
+925,Franklin,35-6S-2E,Gesell's Pump Sales & Service,Finite Crown #B-30,"55'S line, 278'E line of SE NE SE",OIL,65978,1.20553E+11,Warsaw,May-19
+926,Franklin,34-7S-1E,"Pioneer Oil Co., Inc.",Royalton #1-34,"333'N line, 335'E line of SE SE",OIL,65973,1.20553E+11,Platteville,May-19
+927,Franklin,16-7S-3E,"Lampley Oil, Inc.",Lampley CNX #16-1A,"330'N line, 330'E line of NE NE",OIL,65965,1.20553E+11,Warsaw,May-19
+928,Franklin,16-7S-3E,"Lampley Oil, Inc.",Lampley CNX #9-5B,"415'N line, 2296'W line of NW",OIL,65966,1.20553E+11,Warsaw,May-19
+929,Franklin,17-7S-3E,"Lampley Oil, Inc.",Lampley CNX #8-2A,"340'N line, 90'E line of NE NE",OIL,65967,1.20553E+11,Warsaw,May-19
+930,Gallatin,2-8S-9E,"Dee Drilling Co., Inc.","Moye, Ben #1","331'N line, 361'E line of SE SE",OIL,65977,1.20593E+11,Ste Genevi,May-19
+931,Gallatin,16-8S-9E,"Dee Drilling Co., Inc.",Hish - Cox #1,"337'S line, 439'W line of NE SW",OIL,65970,1.20593E+11,Cypress,May-19
+932,Gallatin,24-8S-9E,"T & B Production Co., LLC",Lawler #1-24,"330'S line, 330'W line of NW SE",OIL,65956,1.20593E+11,McClosky,May-19
+933,Jasper,6-6N-11E,"Urfer, Stan","Eubank, Arthur #1","330'S line, 5'E line of NW SW NE",OIL,65972,1.20793E+11,Warsaw,May-19
+934,Lawrence,32-4N-12W,"CDG Operations, LLC","Middagh, Robert ASP BCF,#10-CDG","2003'N line, 627'W line of NE NW",OIL,65976,1.21013E+11,Bridgeport,May-19
+935,Lawrence,32-4N-12W,"CDG Operations, LLC","Middagh, Robert ASP BCF,#11-CDG","1933'N line, 938'W line of NE NW",OIL,65975,1.21013E+11,Bridgeport,May-19
+936,Richland,21-4N-10E,"Got Oil, LLC",Schnepper #2,"660'S line, 1300'W line of SW NW",OIL,65968,1.21593E+11,Warsaw,May-19
+937,Sangamon,27-15N-6W,Landgas Exploration & Prod. LLC,Theillen #2,"29'N line, 295'E line of SE NE NW",OIL,65969,1.21673E+11,Trenton,May-19
+938,Wabash,20-1N-12W,"Nichols Operating, LLC",Johnson #5-20,"332'S line, 63'E line of SW SW",OIL,65959,1.21853E+11,Yankeetow,May-19
+939,Wabash,20-1N-12W,"Keepes, Randy R.","Wood, Clifton #AA-1","330'S line, 2052'W line of SW",OIL,65974,1.21853E+11,Biehl,May-19
+940,Wabash,8-1S-12W,Keron Oil Development,Harris etal Unit #5,"380'S line, 248'E line of NE",OIL,65958,1.21853E+11,Benoist,May-19
+941,White,25-3S-10E,Shawnee Exploration Partners LLC,Blackford #25-3,"352'S line, 1092'E line of section",OIL,65961,1.21933E+11,Fort Payne,May-19
+942,White,36-3S-10E,Shawnee Exploration Partners LLC,Hon #36-4,"660'S line, 327'W line of NE",OIL,65960,1.21933E+11,Fort Payne,May-19
+943,White,8-4S-14W,Quantum XL LLC,Bond #8-2 DEEP,"330'N line, 365'E line of NE SW",OIL,65962,1.21933E+11,Warsaw,May-19
+944,White,8-4S-14W,Quantum XL LLC,Bond #8-3 DEEP,"360'N line, 330'E line of SE SW",OIL,65963,1.21933E+11,Warsaw,May-19
+945,White,8-4S-14W,Quantum XL LLC,Bond #8-4 DEEP,"302'S line, 341'W line of NE SW",OIL,65964,1.21933E+11,Warsaw,May-19
+946,White,23-6S-8E,"Countrymark Energy Resources, LLC",Bolerjack #10,"332'S line, 389'W line of NE NE",OIL,65957,1.21933E+11,Dutch Cree,May-19
+947,White,7-7S-10E,"Campbell Energy, LLC",Upchurch #3,"329'N line, 329'W line of SW NE",WI,204681,1.21933E+11,Tar Spring,May-19
+948,Crawford,15-5N-12W,Great Southwest Oil & Gas,Ford #2,"659'S line, 470'W line of SW SW",OIL,66265,1.20334E+11,Spoon,May-20
+949,Crawford,2-7N-13W,"Maus's Well Service, Inc.","Dart, H. DW #1-B","674'N line, 573'W line of NW SW",WI,204751,1.20334E+11,Spoon,May-20
+950,Hamilton,8-6S-6E,"Bi-Petro, Inc.",NRHU #1-SWD,"330'N line, 500'E line of NE NW NW",SWD,204752,1.20653E+11,Ullin,May-20
+951,Hardin,30-11S-8E,"Schofield, John O. Inc.",Schofield - Hicks Dome #1,"337'N line, 765'W line of NW SW",OIL,66266,1.20692E+11,Granite W,May-20
+952,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Bernard #1,"589'S line, 330'W line of NW SE",OIL,66264,1.21933E+11,Fort Payne,May-20
+953,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Georgia #1,"94'N line, 330'E line of SW NE",OIL,66263,1.21933E+11,Fort Payne,May-20
+954,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Georgia #2,"255'N line, 313'W line of SE NE",OIL,66262,1.21933E+11,Fort Payne,May-20
+955,White,21-6S-10E,"Campbell Energy, LLC","Reiling, Florence #2","330'S line, 660'W line of SE",WI,204753,1.21933E+11,Tar Spring,May-20
+956,Clay,10-2N-7E,"Tri-State Prod. & Dev., Inc.",Mix #6C-W,"330'N line, 330'W line of NW NE NE",WI,204781,1.20253E+11,Aux Vases,May-21
+957,Crawford,5-5N-12W,"Siler, C. L. Inc.",Midgett #1,"330'S line, 330'W line of NW SE",GAS,66400,1.20333E+11,Spoon,May-21
+958,Crawford,33-6N-12W,"Miller, Orlin H.",Miller #1,"330'N line, 330'E line of NE",GAS,66407,1.20333E+11,Aux Vases,May-21
+959,Edgar,9-13N-13W,"Pioneer Oil Co., Inc.",Baber #2-A,"1320'N line, 660'W line of NW NE",WI,204779,1.2045E+11,Spoon,May-21
+960,Franklin,16-7S-3E,"Lampley Oil, Inc.",Lampley - CNX #9-6B,"368'N line, 1402'W line of NW",OIL,66403,1.20553E+11,Ullin,May-21
+961,Franklin,21-7S-3E,"Lampley Oil, Inc.",Blacktop #21-2,"330'N line, 330'E line of SE SE",OIL,66398,1.20553E+11,Ullin,May-21
+962,Franklin,27-7S-3E,"Wenwood Developments, LLC",Woods #1,"420'S line, 62'E line of NE SE",OIL,66401,1.20553E+11,Cypress,May-21
+963,Hamilton,13-6S-5E,"Bi-Petro, Inc.",Sloan #4-B,"670'N line, 330'E line of SE NE NW",OIL,66404,1.20653E+11,Ullin,May-21
+964,Hamilton,31-6S-7E,"Pioneer Oil Co., Inc.",Rice #1,"250'N line, 330'E line of SE NW",OIL,66413,1.20653E+11,Platteville,May-21
+965,Lawrence,11-3N-12W,"CDG Operations, LLC","McPherson, Ray #WI-2,CDG","330'S line, 330'E line of SE",WI,204782,1.2101E+11,Cypress,May-21
+966,Montgomery,3-7N-5W,"Eggemeyer, Ronald D.",Niehaus #1,"400'N line, 450'W line of SW NW",OIL,66405,1.21352E+11,Spoon,May-21
+967,White,20-3S-14W,"Fischer & Fischer Oil, LLC",Cunningham #2,"330'N line, 330'W line of NE SW",OIL,66406,1.21933E+11,Aux Vases,May-21
+968,White,31-3S-14W,"Keepes Petroleum, Inc.",Glaze Five #31-4,"264'N line, 360'E line of SE NW",OIL,66396,1.21933E+11,Fort Payne,May-21
+969,White,1-4S-9E,"Limecreek Energy, LLC","Brown, Johnny #3","335'S line, 551'E line of NW NW",OIL,66402,1.21933E+11,Fort Payne,May-21
+970,White,25-4S-9E,Southern Triangle Oil Co.,Barbre #1,"330'N line, 330'E line of SW NE",WI,204780,1.21933E+11,Tar Spring,May-21
+971,White,16-4S-14W,"Loeb, Herman L. LLC",Ford #1-16,"330'N line, 330'E line of SE SW",OIL,66408,1.21933E+11,Fort Payne,May-21
+972,White,20-4S-14W,"Loeb, Herman L. LLC","Cox, Larry #1-20","330'S line, 430'W line of SE SE",OIL,66412,1.21933E+11,Fort Payne,May-21
+973,White,21-4S-14W,"Loeb, Herman L. LLC",Ford #3-21,"330'N line, 550'W line of SE",OIL,66411,1.21933E+11,Fort Payne,May-21
+974,White,22-4S-14W,"Loeb, Herman L. LLC",Ford #5-22,"380'S line, 330'E line of SW SW",OIL,66409,1.21933E+11,Fort Payne,May-21
+975,White,22-4S-14W,"Loeb, Herman L. LLC",Ford #6-22,"430'N line, 330'E line of SW SW",OIL,66410,1.21933E+11,Fort Payne,May-21
+976,White,28-4S-14W,Citation Oil & Gas Corp.,"Ford, H. M. #2","1396'S line, 1012'W line of SE",OIL,66397,1.2193E+11,Ullin,May-21
+977,White,33-4S-14W,Citation Oil & Gas Corp.,"Dennis, E. S. #A-10","330'S line, 330'E line of NE NE",OIL,66394,1.2193E+11,Ullin,May-21
+978,White,34-4S-14W,Citation Oil & Gas Corp.,"Given, H. E. #8","1012'N line, 330'W line of SW",OIL,66395,1.2193E+11,Ullin,May-21
+979,White,22-5S-9E,"Campbell Energy, LLC",Baptist #1,"330'S line, 10'E line of NW SE",OIL,66399,1.21933E+11,Fort Payne,May-21
+980,Christian,19-14N-1W,"ITB Oil, LLC",Solliday #2,"682'S line, 188'E line of SW NE",OIL,65777,1.20213E+11,Racine,Nov-18
+981,Christian,19-14N-1W,"ITB Oil, LLC",Solliday #3,"597'S line, 672'W line of SE NE",OIL,65776,1.20213E+11,Racine,Nov-18
+982,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #10-M,"220'S line, 220'E line of NW NE NW",OIL,65785,1.20233E+11,St Louis,Nov-18
+983,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #11-M,"220'S line, 220'W line of NE NE NW",OIL,65784,1.20233E+11,St Louis,Nov-18
+984,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #12-M,"220'S line, 440'W line of NE NE NW",OIL,65783,1.20233E+11,St Louis,Nov-18
+985,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #13-M,"220'N line, 220'E line of SW NE NW",OIL,65782,1.20233E+11,St Louis,Nov-18
+986,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #14-M,"220'N line, 220'W line of SE NE NW",OIL,65781,1.20233E+11,St Louis,Nov-18
+987,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #15-M,"440'N line, 220'E line of SW NE NW",OIL,65787,1.20233E+11,St Louis,Nov-18
+988,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #9-M,"440'S line, 425'W line of NE NE NW",OIL,65786,1.20233E+11,St Louis,Nov-18
+989,Edgar,2-14N-14W,"Pioneer Oil Co., Inc.",Bosch Farms #1,"330'N line, 530'E line of NE NE",OIL,65775,1.20452E+11,Trenton,Nov-18
+990,Edwards,5-2S-14W,"Bully Oil, Inc.",Woods #1,"591'N line, 340'E line of NW NW",OIL,65774,1.20472E+11,Fort Payne,Nov-18
+991,Hamilton,14-6S-5E,"Bi-Petro, Inc.",Culpepper #5-SWD,"660'N line, 330'W line of SW SE",SWD,204653,1.20653E+11,Warsaw,Nov-18
+992,Jasper,2-6N-10E,Bergbower Oil,Dhom #2,"990'N line, 330'W line of SW NW",OIL,65772,1.20793E+11,Salem,Nov-18
+993,Jasper,10-8N-10E,Geier Oil Inc.,"Cummins, C. R. #1-W","330'N line, 330'W line of SW SE",WI,204656,1.20792E+11,McClosky,Nov-18
+994,Macon,1-16N-1E,"Countrymark Energy Resources, LLC",Gulick Estate #7,"331'N line, 337'E line of SW SE",OIL,65773,1.21152E+11,"Moccasin,Springs",Nov-18
+995,Richland,31-5N-10E,"Tri-State Prod. & Dev., Inc.",Kermicle - Pottorff #17,"330'N line, 370'E line of SE SE",OIL,65789,1.21593E+11,Salem,Nov-18
+996,Saline,26-7S-6E,"KWR Ventures, L.L.C.",Anderson - Rhine #1-26,"330'N line, 330'W line of SW SE",OIL,65779,1.21653E+11,St Louis,Nov-18
+997,Saline,26-7S-6E,"KWR Ventures, L.L.C.",Massey #1-26,"330'N line, 330'E line of SE SW",OIL,65780,1.21653E+11,St Louis,Nov-18
+998,Wabash,8-1S-13W,"Hudson, Larry A.",MAK Energy #4,"330'S line, 990'W line of SW SE SE",OIL,65778,1.21853E+11,Salem,Nov-18
+999,Wayne,24-1N-8E,"Bateman's Bay Exploration, Inc",Fishel #2,"330'S line, 330'W line of SW NW SE",OIL,65788,1.21913E+11,Warsaw,Nov-18
+1000,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Groff #36-98 SWD,"998'N line, 326'W line of NW",SWD,204654,1.21933E+11,Tar Spring,Nov-18
+1001,White,9-4S-14W,"Campbell Energy, LLC","Cantrell - Calvin - Hon SWD,#1","170'S line, 75'W line of SE SW",SWD,204657,1.21933E+11,Caseyville,Nov-18
+1002,White,28-4S-14W,Citation Oil & Gas Corp.,"Dennis, E. S. #A-18","496'S line, 330'W line of SE SW",OIL,65793,1.2193E+11,Warsaw,Nov-18
+1003,White,28-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #A-2","330'S line, 1012'W line of SE",OIL,65792,1.2193E+11,Warsaw,Nov-18
+1004,White,28-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #A-9","330'N line, 330'E line of SW SW",OIL,65791,1.2193E+11,Warsaw,Nov-18
+1005,White,28-4S-14W,Citation Oil & Gas Corp.,"Ford, Helen M. #5","1665'S line, 1006'E line of SE",OIL,65794,1.2193E+11,Warsaw,Nov-18
+1006,White,32-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #B-5","330'S line, 330'E line of SE",OIL,65796,1.21933E+11,Warsaw,Nov-18
+1007,White,33-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #A-10","499'N line, 990'E line of NW",OIL,65795,1.2193E+11,Warsaw,Nov-18
+1008,White,11-7S-8E,"Countrymark Energy Resources, LLC",RUA #80-W,"380'S line, 380'W line of NE SW",WI,204655,1.21933E+11,Biehl,Nov-18
+1009,Clark,30-10N-13W,"Reynolds, Steven L.",Auld #2-W,"660'N line, 660'E line of SE NW",WI,204701,1.20233E+11,Borden,Nov-19
+1010,Clark,30-10N-13W,"Reynolds, Steven L.",Auld #3-T,"330'N line, 330'W line of SW NW",OIL,66158,1.20233E+11,Joachim,Nov-19
+1011,Clay,10-3N-6E,"Nuxoll, Tara",McDaniel #1,"990'N line, 330'W line of NW NE",OIL,66156,1.20253E+11,St Louis,Nov-19
+1012,Clay,10-3N-6E,"Nuxoll, Tara",McDaniel #2,"990'N line, 330'E line of NE NW",OIL,66157,1.20253E+11,St Louis,Nov-19
+1013,Effingham,33-6N-7E,"Loeb, Herman L. LLC",Habbe #3-B,"990'S line, 330'E line of SE SW",WI,204704,1.20492E+11,Cypress,Nov-19
+1014,Franklin,26-5S-1E,"Pioneer Oil Co., Inc.",Sesser Unit POC #26-1,"330'S line, 660'W line of SW SE",OIL,66173,1.20553E+11,Joachim,Nov-19
+1015,Franklin,35-5S-1E,"Pioneer Oil Co., Inc.",Sesser Unit POC #35-3,"330'N line, 774'E line of NE NE",OIL,66174,1.20553E+11,Joachim,Nov-19
+1016,Franklin,25-5S-2E,Gesell's Pump Sales & Service,USX #8,"330'S line, 330'E line of NW SE",OIL,66170,1.20553E+11,Bailey,Nov-19
+1017,Franklin,36-6S-2E,Gesell's Pump Sales & Service,"Finite Crown ""B"" #11-W","380'S line, 330'E line of NW SW",WI,204703,1.20552E+11,Salem,Nov-19
+1018,Gallatin,35-7S-8E,"Dee Drilling Co., Inc.","Moye, Charles #3","333'S line, 330'W line of SW NW SW",OIL,66165,1.20593E+11,Aux Vases,Nov-19
+1019,Jasper,32-8N-14W,"Reynolds, Steven L.",Spencer #1-W,"660'S line, 660'W line of NW SW",WI,204700,1.20793E+11,Ste Genevi,Nov-19
+1020,LaSalle,5-34N-1E,Northern Illinois Gas Company,"Troy Grove Rectifier Grnd.,Bed #2-East","26'N line, 332'E line of NW NE NE",SER,66172,1.20993E+11,New Rich,Nov-19
+1021,LaSalle,32-35N-1E,Northern Illinois Gas Company,"Troy Grove Rectifier Grnd.,Bed #1-West","242'S line, 34'W line of SE SW SE",SER,66171,1.20993E+11,New Rich,Nov-19
+1022,Lawrence,18-4N-12W,"CDG Operations, LLC","Ridgley, M. E. a/c 2 #SWD-2-CDG","826'N line, 1253'E line of SE",SWD,204709,1.21013E+11,Shakopee,Nov-19
+1023,Macon,1-16N-1E,"Countrymark Energy Resources, LLC",Gulick Estate #7,"331'N line, 337'E line of SW SE",OIL,66166,1.21152E+11,"Moccasin,Springs",Nov-19
+1024,Madison,9-4N-6W,"Kiec, Inc",Kettler #4-K SWD,"1892'S line, 92'W line of SW",SWD,204705,1.21193E+11,St Peter,Nov-19
+1025,Madison,16-4N-6W,"Kiec, Inc",Goodman #1-SWD,"1679'N line, 141'E line of NE",SWD,204706,1.21193E+11,St Peter,Nov-19
+1026,Monroe,3-4S-9W,Ebers Drilling Co.,"Frees, R. #1-3","330'S line, 330'E line of SE",OIL,66169,1.21332E+11,Grand Det,Nov-19
+1027,Richland,8-3N-9E,"Kincaid Oil Producers, Inc.",Coen Injection #7,"330'N line, 660'E line of SE NE",WI,204707,1.21593E+11,Cypress,Nov-19
+1028,Saline,26-7S-6E,"KWR Ventures, L.L.C.",Massey #1-26,"330'N line, 330'E line of SE SW",OIL,66167,1.21653E+11,St Louis,Nov-19
+1029,Wabash,20-1N-12W,"Nichols Operating, LLC",Johnson #4W-20,"333'N line, 340'W line of NW SW",WI,204702,1.21853E+11,Cypress,Nov-19
+1030,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC","Bass, Dewey #1-A","660'S line, 330'E line of NW",OIL,66168,1.21913E+11,Salem,Nov-19
+1031,White,19-3S-14W,"Keepes Petroleum, Inc.",Woodham SWD #1,"341'S line, 334'W line of SW NW",WI,204708,1.21933E+11,Degonia,Nov-19
+1032,White,28-3S-14W,"Campbell Energy, LLC",Reeves #1,"10'N line, 405'E line of SW NE",OIL,66161,1.21933E+11,Ullin,Nov-19
+1033,White,28-3S-14W,"Campbell Energy, LLC",Reeves #2,"340'N line, 298'E line of SW NE",OIL,66160,1.21933E+11,Ullin,Nov-19
+1034,White,28-3S-14W,"Campbell Energy, LLC",Reeves #4,"339'S line, 250'E line of SW NE",OIL,66164,1.21933E+11,Ullin,Nov-19
+1035,White,28-3S-14W,"Campbell Energy, LLC",Reeves #5,"9'S line, 360'E line of SW NE",OIL,66163,1.21933E+11,Ullin,Nov-19
+1036,White,1-4S-10E,"ACF Resources, LLC","Hon, Don #1","330'N line, 330'W line of NW NE NW",OIL,66159,1.21933E+11,Fort Payne,Nov-19
+1037,Christian,24-15N-3W,"Lockwood, Ronald G.",McDermith Trust #1-L,"590'S line, 330'W line of SW SE NE",OIL,66315,1.20213E+11,Edgewood,Nov-20
+1038,Clark,8-11N-14W,"Ashley Oil, Inc.",Redman #3-MIC,"0'S line, 330'W line of NE NE NW",OIL,66319,1.20233E+11,St Louis,Nov-20
+1039,Crawford,4-6N-13W,"Got Oil, LLC",Buck #5-S,"330'S line, 430'W line of SE SW",OIL,66320,1.20334E+11,Salem,Nov-20
+1040,Effingham,33-6N-7E,"Loeb, Herman L. LLC","Kluthe ""A"" #9","330'S line, 330'W line of SW SE SE",WSU,66317,1.20492E+11,Aux Vases,Nov-20
+1041,Jackson,28-8S-1W,"Pioneer Oil Co., Inc.",Simonds #1,"130'N line, 325'W line of NW SW",OIL,66314,1.20773E+11,Clear Cree,Nov-20
+1042,Lawrence,31-3N-11W,"Tussey, Brian K.","Leighty, Oscar #W-17","2337'S line, 330'E line of NW",OIL,66316,1.21011E+11,Cypress,Nov-20
+1043,Saline,1-9S-7E,Keyrock Energy LLC,WL #M-1,"1427'S line, 910'W line of SW",CMM,66318,1.21653E+11,"Springfield,Coal",Nov-20
+1044,White,7-6S-10E,"Campbell Energy, LLC","Funkhouser, Kenneth W.,#A-4 WI","330'S line, 330'E line of SW SW",WI,204765,1.21933E+11,Waltersbur,Nov-20
+1045,Clay,36-4N-7E,"Fuehne Oil, Inc.",Gill #1-WI,"330'N line, 330'W line of NW SE",WI,204651,1.20253E+11,McClosky,Oct-18
+1046,Crawford,12-5N-11W,Decker's Well Service & Producing,Kent #2-A,"330'S line, 330'W line of SW SW SE",OIL,65743,1.20334E+11,Robinson,Oct-18
+1047,Crawford,12-5N-11W,Decker's Well Service & Producing,Kent #3-A,"330'S line, 330'W line of SW SE SW",OIL,65744,1.20334E+11,Robinson,Oct-18
+1048,Crawford,13-5N-11W,Decker's Well Service & Producing,Kent #4-A,"330'N line, 330'W line of NW NW NE",OIL,65745,1.20334E+11,Robinson,Oct-18
+1049,Crawford,26-6N-13W,"Maus's Well Service, Inc.","Smith, A. R. #17","330'N line, 380'E line of SW NW",OIL,65755,1.20334E+11,Robinson,Oct-18
+1050,Crawford,27-6N-13W,"Maus's Well Service, Inc.","Thompson, G. L. #16","330'N line, 345'E line of SE NE",OIL,65757,1.20334E+11,Robinson,Oct-18
+1051,Crawford,25-7N-12W,"Pioneer Oil Co., Inc.",Brown - Ivers #2-17,"100'S line, 330'W line of SW NE",SER,65759,1.20334E+11,Seelyville,Oct-18
+1052,Crawford,25-7N-12W,"Pioneer Oil Co., Inc.",Brown - Ivers #CH-2 HOR,"100'S line, 888'W line of SE NW",CBM,65765,1.20334E+11,Seelyville,Oct-18
+1053,Crawford,29-7N-12W,"Maus's Well Service, Inc.",Kirk #14,"300'N line, 160'E line of NW SW SW",OIL,65752,1.20334E+11,Buchanan,Oct-18
+1054,Crawford,29-7N-12W,"Maus's Well Service, Inc.",Kirk #15,"330'N line, 330'E line of SW SW SW",OIL,65754,1.20334E+11,Buchanan,Oct-18
+1055,Crawford,29-7N-12W,"Maus's Well Service, Inc.",Kirk #16,"330'N line, 160'W line of SE SW SW",OIL,65753,1.20334E+11,Buchanan,Oct-18
+1056,Crawford,10-7N-13W,"Maus's Well Service, Inc.","Stantz, C. #13","400'S line, 260'W line of SW SE",OIL,65756,1.20334E+11,Robinson,Oct-18
+1057,Crawford,11-7N-13W,B & D Resources,Glenn #WI-1,"0'N line, 0'E line of NE SE NE",WI,204650,1.20334E+11,Robinson,Oct-18
+1058,Crawford,21-7N-13W,"Maus's Well Service, Inc.","Stentz, M. C. #6","666'N line, 330'W line of NE SW",OIL,65766,1.20334E+11,Robinson,Oct-18
+1059,Edwards,34-2S-14W,"Nichols Operating, LLC","Johnson, R. M. #4","330'N line, 330'W line of NE",OIL,65760,1.20472E+11,Benoist,Oct-18
+1060,Franklin,26-5S-1E,"Pioneer Oil Co., Inc.",Sesser Unit POC #26-1,"330'S line, 660'W line of SW SE",OIL,65770,1.20553E+11,Platteville,Oct-18
+1061,Franklin,35-5S-1E,"Pioneer Oil Co., Inc.",Sesser Unit POC #35-3,"330'N line, 774'E line of NE NE",OIL,65771,1.20553E+11,Platteville,Oct-18
+1062,Franklin,25-5S-2E,Gesell's Pump Sales & Service,Pickens - Chenault #2,"330'S line, 330'W line of SE SE",OIL,65750,1.20553E+11,Platteville,Oct-18
+1063,Franklin,8-7S-3E,"Lampley Oil, Inc.",Lampley - CNX #8-1AA,"330'S line, 1870'E line of SE",OIL,65767,1.20553E+11,Warsaw,Oct-18
+1064,Franklin,3-7S-4E,"Mid-States Oil, LLC",Franklin County Mining #1,"330'S line, 330'W line of SW SW",OIL,65751,1.20553E+11,Warsaw,Oct-18
+1065,Gallatin,33-7S-8E,"Countrymark Energy Resources, LLC",Kuder #11-B,"339'N line, 431'W line of SW SE",WI,204646,1.20593E+11,Biehl,Oct-18
+1066,Gallatin,5-8S-8E,"Campbell Energy, LLC",Knop #5-WI,"990'N line, 2310'W line of NW",WI,204652,1.20593E+11,Ohara,Oct-18
+1067,Gallatin,21-8S-9E,"Hudson, Larry A.",Schiff #4,"423'N line, 398'E line of NE SE NE",OIL,65764,1.20593E+11,Aux Vases,Oct-18
+1068,Hamilton,36-6S-5E,"Brehm Oil Company, Inc.","Moore, M. C. #36-SWD","330'N line, 330'E line of SW",SWD,204645,1.2065E+11,Cypress,Oct-18
+1069,Jasper,20-5N-10E,Citation Oil & Gas Corp.,"Dickerson, I. W. ""B"" #7","290'S line, 330'W line of NW NW",OIL,65740,1.20792E+11,Salem,Oct-18
+1070,Jasper,2-6N-10E,Bergbower Oil,Dhom #1,"990'N line, 660'W line of NW",OIL,65768,1.20793E+11,Salem,Oct-18
+1071,Lawrence,5-2N-11W,"Campbell Energy, LLC",Akin Heirs #1,"330'N line, 335'W line of SW NW",OIL,65748,1.21013E+11,Warsaw,Oct-18
+1072,Lawrence,11-3N-12W,"Zanetis Oil Company, LLC","Baldwin, D. H. #1-A","330'S line, 330'E line of NW SW",OIL,65749,1.21013E+11,Warsaw,Oct-18
+1073,Wabash,30-2S-13W,"Hwy 3 Oil, LLC",Schauf #3WI-SWD,"276'S line, 361'E line of NE SW",SWD,204647,1.21853E+11,Palestine,Oct-18
+1074,Wayne,36-1N-6E,"Countrymark Energy Resources, LLC",Porter #4-D,"334'S line, 338'W line of SW SE",OIL,65763,1.21913E+11,Salem,Oct-18
+1075,Wayne,36-1N-6E,"Countrymark Energy Resources, LLC","States, Henry #2-D","618'S line, 332'E line of SE SW",OIL,65762,1.21913E+11,Salem,Oct-18
+1076,Wayne,7-3S-5E,"Pioneer Oil Co., Inc.",Espey #1-ALT,"513'S line, 499'W line of SW NE",OIL,65769,1.21913E+11,Platteville,Oct-18
+1077,White,36-3S-10E,"Shawnee Exploration Partners, LLC","Hanks, Hubert #36-98 SWD","330'S line, 660'W line of NE NW",SWD,204649,1.21933E+11,Tar Spring,Oct-18
+1078,White,31-3S-14W,"Keepes Petroleum, Inc.",Glaze Five #31-1,"496'S line, 392'W line of NW NW",OIL,65742,1.21933E+11,Fort Payne,Oct-18
+1079,White,28-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #16","1095'N line, 998'W line of NE NW",OIL,65746,1.2193E+11,Fort Payne,Oct-18
+1080,White,28-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #22","330'N line, 1666'E line of NE",OIL,65747,1.2193E+11,Fort Payne,Oct-18
+1081,White,32-4S-14W,Citation Oil & Gas Corp.,"Greathouse, E. R. #B-4","330'S line, 330'W line of NE SE",OIL,65761,1.21933E+11,Warsaw,Oct-18
+1082,White,33-6S-9E,"Wood Energy, Inc.","Wilson, E. #3-WI","330'S line, 330'E line of NW NW",WI,204648,1.21931E+11,Ohara,Oct-18
+1083,White,28-6S-10E,"Basnett, John R.",Ackerman #57-28,"330'N line, 330'W line of SW SE",OIL,65741,1.21933E+11,Warsaw,Oct-18
+1084,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #15","220'S line, 0'W line of SW NE NE",OIL,66154,1.20233E+11,St Louis,Oct-19
+1085,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #20","220'N line, 220'E line of NW SE NE",OIL,66155,1.20233E+11,St Louis,Oct-19
+1086,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #21","220'N line, 0'W line of NW SE NE",OIL,66152,1.20233E+11,St Louis,Oct-19
+1087,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #22","220'S line, 220'E line of NE SE NE",OIL,66145,1.20233E+11,St Louis,Oct-19
+1088,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #23","220'S line, 0'W line of NE SE NE",OIL,66151,1.20233E+11,St Louis,Oct-19
+1089,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #25","0'S line, 220'W line of NE SE NE",OIL,66150,1.20233E+11,St Louis,Oct-19
+1090,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #26","0'S line, 220'E line of NW SE NE",OIL,66149,1.20233E+11,St Louis,Oct-19
+1091,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #27","0'N line, 0'W line of NW SE NE",OIL,66148,1.20233E+11,St Louis,Oct-19
+1092,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #28","220'N line, 220'E line of SE SE NE",OIL,66143,1.20233E+11,St Louis,Oct-19
+1093,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #29","220'N line, 0'W line of SE SE NE",OIL,66147,1.20233E+11,St Louis,Oct-19
+1094,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #30","220'N line, 220'W line of SW SE NE",OIL,66146,1.20233E+11,St Louis,Oct-19
+1095,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #33","220'S line, 0'W line of SW SE NE",OIL,66144,1.20233E+11,St Louis,Oct-19
+1096,Clark,8-11N-14W,"ITB Oil, LLC","Rauwolf, K. #9","0'S line, 0'W line of NW NE NE",OIL,66153,1.20233E+11,St Louis,Oct-19
+1097,Crawford,1-5N-13W,"Doral Energy, Inc",Hille #WI-1,"660'N line, 660'W line of NW SE",WI,204696,1.20334E+11,Aux Vases,Oct-19
+1098,Effingham,24-6N-6E,Deep Rock Energy Corp.,Sperry #1-WI,"430'S line, 330'W line of NE SW",WI,204695,1.20493E+11,Cypress,Oct-19
+1099,Effingham,33-6N-7E,"Loeb, Herman L. LLC","Habbe, John #1","330'S line, 330'E line of SW",OIL,66140,1.2049E+11,Cypress,Oct-19
+1100,Fayette,8-7N-3E,Petco Petroleum Corp.,"Durbin, Harvey #23-W","330'S line, 330'W line of NE NE",WI,204694,1.2051E+11,Paint Cree,Oct-19
+1101,Franklin,36-6S-2E,Gesell's Pump Sales & Service,Finite Crown #B-34,"423'N line, 342'E line of NW NE",OIL,66139,1.20553E+11,Ste Genevi,Oct-19
+1102,Gallatin,35-7S-8E,"Dee Drilling Co., Inc.",Brockschmidt #1,"338'S line, 331'E line of NE NW",OIL,66136,1.20593E+11,Aux Vases,Oct-19
+1103,Gallatin,35-7S-8E,"Dee Drilling Co., Inc.",Brockschmidt #3,"333'S line, 330'W line of NE SW",OIL,66133,1.20593E+11,Aux Vases,Oct-19
+1104,Gallatin,35-7S-8E,"Dee Drilling Co., Inc.","Edwards, Bruce #1","336'S line, 332'W line of SE NW",OIL,66132,1.20593E+11,Aux Vases,Oct-19
+1105,Gallatin,35-7S-8E,"Dee Drilling Co., Inc.","Moye, Charles #2","333'S line, 330'E line of NE SW SW",OIL,66134,1.20593E+11,Aux Vases,Oct-19
+1106,Hamilton,21-3S-7E,"Pioneer Oil Co., Inc.",Morris #1-21,"331'S line, 430'E line of SW SE",OIL,66135,1.20653E+11,Salem,Oct-19
+1107,Jasper,7-6N-14W,"Urfer, Stan","Urfer, N. #4","334'N line, 330'E line of NE NE SW",OIL,66141,1.20793E+11,St Louis,Oct-19
+1108,Madison,9-4N-6W,"Kiec, Inc","Becker, Herbert #2","430'N line, 330'E line of SE NW",WI,204697,1.2119E+11,"Moccasin,Springs",Oct-19
+1109,Wabash,19-2S-13W,"R & S Operating, LLC","Hocking, Keith #1","990'N line, 330'E line of NE NE",WI,204698,1.21853E+11,Ste Genevi,Oct-19
+1110,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Sturm - Davis #36-8,"100'S line, 12'W line of NE NE",OIL,66128,1.21933E+11,Fort Payne,Oct-19
+1111,White,28-3S-14W,"Campbell Energy, LLC",Reeves #14,"7'S line, 356'W line of SE NW",OIL,66138,1.21933E+11,Ullin,Oct-19
+1112,White,1-4S-10E,"ACF Resources, LLC",Hon #SWD-1,"430'N line, 330'W line of SW NW",SWD,204699,1.21933E+11,Caseyville,Oct-19
+1113,White,1-4S-10E,"Campbell Energy, LLC",Willard #1,"341'S line, 330'W line of NW NE",OIL,66129,1.21933E+11,Fort Payne,Oct-19
+1114,White,1-4S-10E,"Campbell Energy, LLC",Willard #2,"280'N line, 330'W line of NE SW NE",OIL,66131,1.21933E+11,Fort Payne,Oct-19
+1115,White,1-4S-10E,"Campbell Energy, LLC",Willard #3,"20'N line, 330'E line of SE NE",OIL,66130,1.21933E+11,Fort Payne,Oct-19
+1116,White,28-6S-10E,"Basnett, John R.",Ackerman #5,"390'N line, 330'W line of SW SE",OIL,66142,1.21933E+11,Ullin,Oct-19
+1117,Crawford,29-6N-11W,"Schuette, Timothy D.",Creswell #9,"635'S line, 660'W line of SW NE",OIL,66304,1.20334E+11,Ste Genevi,Oct-20
+1118,Jackson,24-7S-5W,Ebers Drilling Co.,"Luehr, Marilyn #3-24","350'S line, 500'W line of SE",OIL,66305,1.20773E+11,Salem,Oct-20
+1119,Jefferson,19-3S-2E,"Countrymark Energy Resources, LLC",Panzier #9,"1020'S line, 330'W line of SW SW",OIL,66309,1.20813E+11,Backbone,Oct-20
+1120,Livingston,28-30N-3E,Northern Illinois Gas Company,Hooper #5,"974'S line, 771'W line of SW",SER,66310,1.2105E+11,Guttenburg,Oct-20
+1121,Livingston,34-30N-3E,Northern Illinois Gas Company,Gilman #203,"268'N line, 85'W line of NW NW NW",SER,66311,1.21052E+11,St Peter,Oct-20
+1122,Marion,33-1N-2E,"Graham, Danny",Van Gilder #1-SWD,"330'S line, 452'W line of SE SE",SWD,204764,1.2121E+11,Cypress,Oct-20
+1123,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC","Fansler, Bass #2-D","330'S line, 650'W line of NE SW",OIL,66308,1.21913E+11,Bailey,Oct-20
+1124,Wayne,14-1S-6E,"Countrymark Energy Resources, LLC","Fansler, Bass #3","343'N line, 650'W line of NE SW",OIL,66306,1.21913E+11,Ullin,Oct-20
+1125,Wayne,8-2S-9E,Pamco Oil & Gas LLC,Fearn #65X-8,"380'N line, 430'E line of NW SE",OIL,66312,1.21913E+11,Ullin,Oct-20
+1126,White,19-3S-8E,"Countrymark Energy Resources, LLC",Poorman #37,"330'S line, 315'W line of NE SW",OIL,66307,1.21933E+11,Ullin,Oct-20
+1127,White,20-3S-14W,"Fischer & Fischer Oil, LLC",Cunningham #1,"330'S line, 330'W line of NE SW",OIL,66313,1.21933E+11,Fort Payne,Oct-20
+1128,Clinton,26-1N-4W,Ceja Corporation,Glennon #1,"330'S line, 330'E line of SE SE NE",OIL,65709,1.20273E+11,Trenton,Sep-18
+1129,Crawford,1-6N-12W,"Pioneer Oil Co., Inc.",Patton #4-1,"100'S line, 212'E line of SE SW",SER,65718,1.20334E+11,Seelyville,Sep-18
+1130,Crawford,1-6N-12W,"Pioneer Oil Co., Inc.",Patton #CH-1 HOR,"100'S line, 812'E line of SE SW",CBM,65717,1.20334E+11,Seelyville,Sep-18
+1131,Crawford,22-6N-12W,B & D Resources,Lorance #5,"330'S line, 330'E line of SE SW SE",OIL,65729,1.20334E+11,Robinson,Sep-18
+1132,Crawford,15-6N-13W,B & D Resources,Walker #5,"1650'N line, 330'W line of NW NE",OIL,65738,1.20334E+11,Robinson,Sep-18
+1133,Crawford,15-6N-13W,B & D Resources,Walker #6,"1650'N line, 990'W line of NW NE",OIL,65737,1.20334E+11,Robinson,Sep-18
+1134,Crawford,17-7N-11W,"Pioneer Oil Co., Inc.",Debatin #1-17,"773'N line, 182'E line of NE NW",SER,65720,1.20334E+11,Seelyville,Sep-18
+1135,Crawford,17-7N-11W,"Pioneer Oil Co., Inc.",Debatin #CH-1 HOR,"73'N line, 182'E line of NE NW",CBM,65719,1.20334E+11,Seelyville,Sep-18
+1136,Crawford,19-7N-11W,"Pioneer Oil Co., Inc.",Titsworth #3-19,"667'N line, 183'E line of NE NE",SER,65721,1.20334E+11,Seelyville,Sep-18
+1137,Crawford,19-7N-11W,"Pioneer Oil Co., Inc.",Titsworth #CH-1 HOR,"73'N line, 183'E line of NE NE",CBM,65722,1.20334E+11,Seelyville,Sep-18
+1138,Crawford,25-7N-12W,"Pioneer Oil Co., Inc.",Brown - Ivers #1-17A,"330'S line, 288'W line of SE NW",SER,65710,1.20334E+11,Seelyville,Sep-18
+1139,Crawford,25-7N-12W,"Pioneer Oil Co., Inc.",Brown - Ivers #CH-1 HOR,"150'S line, 888'W line of SE NW",CBM,65711,1.20334E+11,Seelyville,Sep-18
+1140,Crawford,11-7N-13W,B & D Resources,Glenn #4,"335'N line, 330'E line of NE SE NE",OIL,65727,1.20334E+11,Robinson,Sep-18
+1141,Crawford,11-7N-13W,B & D Resources,Glenn #5,"250'S line, 330'E line of SE NE NE",OIL,65726,1.20334E+11,Robinson,Sep-18
+1142,Edwards,12-3S-10E,"Got Oil, LLC",Fieber #W-2,"330'N line, 330'W line of SE NE",WI,204639,1.20472E+11,Cypress,Sep-18
+1143,Franklin,16-7S-3E,"Lampley Oil, Inc.",Lampley - CNX #9-4B,"330'S line, 330'W line of NW NE",OIL,65731,1.20553E+11,Warsaw,Sep-18
+1144,Franklin,34-7S-3E,"Stewart Producers, Inc.",Illinois Minerals #34-1,"164'S line, 203'W line of NE NW SE",OIL,65730,1.20553E+11,Aux Vases,Sep-18
+1145,Franklin,34-7S-3E,"Stewart Producers, Inc.",Illinois Minerals #34-3,"218'S line, 330'W line of NW NW SE",OIL,65728,1.20553E+11,Aux Vases,Sep-18
+1146,Gallatin,29-7S-8E,"Campbell Energy, LLC",Omaha SWD #1,"639'N line, 84'W line of NE NE",SWD,204640,1.20593E+11,Caseyville,Sep-18
+1147,Jasper,8-5N-10E,Citation Oil & Gas Corp.,"Fahrenbacher, J. W. #3","139'N line, 620'W line of SW SW",OIL,65725,1.20793E+11,Salem,Sep-18
+1148,Jasper,18-5N-10E,Citation Oil & Gas Corp.,"Beaver, S. A. #6","58'S line, 355'E line of NE NE",OIL,65712,1.20793E+11,Salem,Sep-18
+1149,Jasper,18-5N-10E,Citation Oil & Gas Corp.,"Spraul, J. #4","44'S line, 315'W line of NE SE",OIL,65713,1.20793E+11,Salem,Sep-18
+1150,Jasper,20-8N-14W,"Knierim Company, Inc.",Boyd #1,"330'S line, 330'E line of SE SE NE",OIL,65697,1.20793E+11,Rosiclare,Sep-18
+1151,Jefferson,32-3S-2E,"Countrymark Energy Resources, LLC",Soaper #2H-WSW,"120'S line, 330'E line of SW SW",WSU,65715,1.20813E+11,Warsaw,Sep-18
+1152,Lawrence,15-2N-11W,"Ivy Illinois Operating Company, LLC","All States Life Insurance,Co. #20","330'S line, 330'W line of NW SW",OIL,65716,1.21011E+11,McClosky,Sep-18
+1153,Lawrence,36-3N-12W,"CDG Operations, LLC","Gould, J. J. a/c 2 #SWD-1,CDG","429'S line, 330'E line of SW NW",SWD,204641,1.21013E+11,Fort Payne,Sep-18
+1154,Macoupin,15-8N-6W,"Hardt, Edwin E.",Stoecker #33,"660'S line, 330'W line of NW",OIL,65699,1.21172E+11,Spoon,Sep-18
+1155,Macoupin,16-8N-6W,"Hardt, Edwin E.",Stoecker #32,"990'S line, 10'E line of NE",OIL,65698,1.21172E+11,Spoon,Sep-18
+1156,Marion,7-3N-1E,Penn Energy Corp.,"Adams, Warren #1","990'N line, 330'W line of NE NE",OIL,65734,1.21213E+11,Benoist,Sep-18
+1157,Wabash,20-1N-12W,"Nichols Operating, LLC",Johnson #4-20,"333'N line, 340'W line of NW SW",OIL,65736,1.21853E+11,Benoist,Sep-18
+1158,Wabash,33-1N-13W,"Seaton, Gregory S.","Baumgart, Christopher E.,Trust #1","330'N line, 330'E line of NW SE",OIL,65733,1.21853E+11,McClosky,Sep-18
+1159,Wabash,17-1S-13W,"Dee Drilling Co., Inc.","Tennis, Anthony #5","10'N line, 10'E line of SW NW NW",OIL,65705,1.21853E+11,Tar Spring,Sep-18
+1160,Wayne,36-1N-6E,"Countrymark Energy Resources, LLC",Porter #1D-SWD,"330'S line, 330'W line of NW SE",WI,204642,1.21913E+11,Grand Tow,Sep-18
+1161,White,25-3S-10E,"Shawnee Exploration Partners, LLC",Eagleson #25-3,"245'S line, 455'E line of NE SW",OIL,65735,1.21933E+11,Fort Payne,Sep-18
+1162,White,6-4S-14W,"Campbell Energy, LLC",Willett #8,"333'N line, 662'E line of NE SE",OIL,65706,1.21933E+11,Fort Payne,Sep-18
+1163,White,20-4S-14W,"Campbell Energy, LLC",Dennis #3,"330'N line, 673'W line of NW NW",OIL,65708,1.21933E+11,Fort Payne,Sep-18
+1164,White,20-4S-14W,"Campbell Energy, LLC",Dennis #4,"416'S line, 681'W line of NW NW",OIL,65707,1.21933E+11,Fort Payne,Sep-18
+1165,White,23-4S-14W,Citation Oil & Gas Corp.,"Fitton, E. M. #23","1016'N line, 330'E line of NW NW",OIL,65723,1.2193E+11,Fort Payne,Sep-18
+1166,White,27-4S-14W,Citation Oil & Gas Corp.,"Cox, E. #6","330'S line, 347'W line of NE SE",OIL,65704,1.2193E+11,Fort Payne,Sep-18
+1167,White,27-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #C-1","1650'N line, 990'W line of SE",OIL,65703,1.2193E+11,Fort Payne,Sep-18
+1168,White,27-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #C-6","990'N line, 330'E line of SW",OIL,65702,1.2193E+11,Fort Payne,Sep-18
+1169,White,28-4S-14W,Citation Oil & Gas Corp.,"Ford, Helen M. #14","330'N line, 1007'W line of SE",OIL,65732,1.2193E+11,Fort Payne,Sep-18
+1170,White,29-4S-14W,"Campbell Energy, LLC",Westfall - Fitton Unit #3-W,"I 330'N line, 330'W line of SW NE",WI,204643,1.2193E+11,Warsaw,Sep-18
+1171,White,34-4S-14W,Citation Oil & Gas Corp.,"Ford, H. C. #D-6","405'N line, 330'W line of NW",OIL,65700,1.2193E+11,Fort Payne,Sep-18
+1172,White,25-5S-8E,"Pioneer Oil Co., Inc.","Simmons, James #1","330'S line, 330'E line of SW SW",OIL,65724,1.21933E+11,Chouteau,Sep-18
+1173,White,4-5S-14W,Citation Oil & Gas Corp.,"Greathouse, E. S. #17","330'N line, 330'W line of SE NE",OIL,65701,1.21931E+11,Fort Payne,Sep-18
+1174,White,15-6S-10E,"Campbell Energy, LLC",ACK #SWD-1,"330'N line, 600'W line of SW",SWD,204644,1.21933E+11,Caseyville,Sep-18
+1175,White,24-7S-10E,"Campbell Energy, LLC",Wasem #12,"10'N line, 298'W line of SE SE",OIL,65739,1.21933E+11,Grassy Kn,Sep-18
+1176,Crawford,12-8N-14W,Scott Oil Company,"Payne, Melville #78","330'S line, 990'W line of NW SW",OIL,66109,1.20334E+11,Yankeetow,Sep-19
+1177,Edwards,18-3S-11E,"Keepes Petroleum, Inc.",Rahmoeller #18-1,"532'S line, 330'W line of SW NW",OIL,66099,1.20472E+11,Fort Payne,Sep-19
+1178,Franklin,24-5S-3E,Gesell's Pump Sales & Service,Webb #1,"763'N line, 330'W line of NE NE",OIL,66124,1.20553E+11,Platteville,Sep-19
+1179,Franklin,36-6S-2E,Gesell's Pump Sales & Service,Finite Crown #B-33,"1115'N line, 943'W line of NE",OIL,66101,1.20553E+11,Ste Genevi,Sep-19
+1180,Franklin,17-7S-3E,"Lampley Oil, Inc.",Lampley - CNX #8-3A,"2260'N line, 1620'E line of NE",OIL,66126,1.20553E+11,Ullin,Sep-19
+1181,Franklin,21-7S-3E,"Lampley Oil, Inc.",Blacktop #21-2,"330'N line, 330'E line of SE SE",OIL,66125,1.20553E+11,Ullin,Sep-19
+1182,Hamilton,10-7S-5E,"Bi-Petro, Inc.",Letsinger #1,"990'N line, 330'W line of NE NW",OIL,66089,1.20653E+11,Warsaw,Sep-19
+1183,Hamilton,10-7S-5E,"Bi-Petro, Inc.",Letsinger #2,"844'N line, 330'E line of NE NW",OIL,66091,1.20653E+11,Warsaw,Sep-19
+1184,Hamilton,10-7S-5E,"Bi-Petro, Inc.",Letsinger #3,"990'S line, 330'W line of SE NW",OIL,66090,1.20653E+11,Warsaw,Sep-19
+1185,Lawrence,9-2N-11W,"Padgett, W. Thomas",Haase #6,"330'N line, 990'W line of NW NE",OIL,66116,1.21013E+11,Ullin,Sep-19
+1186,Lawrence,23-3N-12W,"CDG Operations, LLC","Ryan, G. L. a/c 1 #34-CDG","330'N line, 330'E line of NE NE",OIL,66117,1.21013E+11,Salem,Sep-19
+1187,Lawrence,26-3N-12W,"CDG Operations, LLC","Ryan, G. L. a/c 3 #58-CDG","334'S line, 330'E line of SE SE",OIL,66112,1.21013E+11,Salem,Sep-19
+1188,Lawrence,34-3N-12W,"CDG Operations, LLC","Gee, S. J. a/c 1 #68-CDG","392'S line, 588'E line of SW NE",OIL,66119,1.21013E+11,Salem,Sep-19
+1189,Lawrence,34-3N-12W,"CDG Operations, LLC","Gray, Joseph #81-CDG","332'N line, 202'E line of SW SE",OIL,66118,1.21013E+11,Salem,Sep-19
+1190,Lawrence,35-3N-12W,"CDG Operations, LLC","Gould, A. L. #28-CDG","6'N line, 332'E line of SE SE",OIL,66120,1.21013E+11,Salem,Sep-19
+1191,Lawrence,35-3N-12W,"CDG Operations, LLC","Ryan, G. L. a/c 3 #60-CDG","335'S line, 388'W line of NE NE",OIL,66113,1.21013E+11,Salem,Sep-19
+1192,Lawrence,36-3N-12W,"CDG Operations, LLC","Ryan, G. L. a/c 3 #56-CDG","435'N line, 330'E line of NW NW",OIL,66115,1.21013E+11,Salem,Sep-19
+1193,Lawrence,36-3N-12W,"CDG Operations, LLC","Ryan, G. L. a/c 3 #57-CDG","356'S line, 330'E line of NW NW",OIL,66114,1.21013E+11,Salem,Sep-19
+1194,Macoupin,16-8N-6W,"Hardt, Edwin E.",Stoecker #34,"0'S line, 330'E line of SE",OIL,66098,1.21172E+11,Spoon,Sep-19
+1195,Macoupin,16-8N-6W,"Hardt, Edwin E.",Stoecker #35,"330'N line, 1319'W line of NE NE",OIL,66097,1.21172E+11,Spoon,Sep-19
+1196,Madison,27-6N-6W,"Grossmann, R. L. Drilling Co.",Kerin #4-N,"390'N line, 710'E line of SW SE",OIL,66110,1.21193E+11,Ste Genevi,Sep-19
+1197,Marion,29-1N-1E,"Schwartz Oil Properties, LLC",Kemnetz Community #1H-HOR,"465'S line, 330'E line of NE NW",OIL,66100,1.21213E+11,Spoon,Sep-19
+1198,Saline,24-7S-6E,"Campbell Energy, LLC",Tison Heirs #24-1,"330'N line, 584'W line of SW SW",OIL,66127,1.21653E+11,Backbone,Sep-19
+1199,Saline,31-7S-6E,Keyrock Energy LLC,Gates #1,"1199'S line, 1867'W line of SE",CMM,66104,1.21653E+11,Herrin Coa,Sep-19
+1200,Saline,7-8S-5E,Keyrock Energy LLC,Byrd #1,"1862'N line, 1384'E line of NE",CMM,66105,1.21653E+11,Herrin Coa,Sep-19
+1201,Saline,7-8S-6E,Keyrock Energy LLC,American Coal #1,"1745'S line, 1938'E line of SE",CMM,66111,1.21653E+11,Herrin Coa,Sep-19
+1202,Wabash,36-2N-12W,Waggoner Consulting Inc,Peter #2-B,"335'S line, 683'E line of SE NE",OIL,66123,1.21853E+11,Salem,Sep-19
+1203,White,25-3S-10E,"Shawnee Exploration Partners, LLC",Eagleson #25-3,"33'S line, 430'E line of NE SW",OIL,66092,1.21933E+11,Fort Payne,Sep-19
+1204,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-5,"638'S line, 188'W line of SE SW",OIL,66095,1.21933E+11,Fort Payne,Sep-19
+1205,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-6,"330'N line, 21'E line of SW SW",OIL,66094,1.21933E+11,Fort Payne,Sep-19
+1206,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Hon #36-7,"643'S line, 448'E line of SW SW",OIL,66096,1.21933E+11,Fort Payne,Sep-19
+1207,White,36-3S-10E,"Shawnee Exploration Partners, LLC",Sturm - Davis #36-8,"343'N line, 671'W line of NE NE",OIL,66093,1.21933E+11,Fort Payne,Sep-19
+1208,White,19-3S-14W,"Keepes Petroleum, Inc.",Woodham #3,"339'S line, 758'W line of SW NW",OIL,66107,1.21933E+11,Fort Payne,Sep-19
+1209,White,14-4S-10E,"ACF Resources, LLC",BB #1,"330'S line, 330'W line of SW",OIL,66121,1.21933E+11,Fort Payne,Sep-19
+1210,White,34-4S-14W,Citation Oil & Gas Corp.,"Given, H. E. etal #6","990'S line, 330'W line of SW",OIL,66122,1.2193E+11,Ullin,Sep-19
+1211,White,36-5S-8E,"Pioneer Oil Co., Inc.",Ackerman Trust #2-36,"374'S line, 330'W line of NW NW",OIL,66106,1.21933E+11,Cypress,Sep-19
+1212,White,8-5S-9E,"Stewart Producers, Inc.","Theurer, Janis #1","330'S line, 330'E line of NW SE",OIL,66108,1.21933E+11,Ste Genevi,Sep-19
+1213,White,21-6S-10E,"Campbell Energy, LLC","Austin, Madeline #2","355'S line, 355'E line of SE",OIL,66103,1.21933E+11,Ste Genevi,Sep-19
+1214,Clinton,2-1N-1W,"Gett Oil Co., Inc.",Adams - Schmitz #3-SWD,"660'N line, 271'E line of NW SE",OIL,66296,1.2027E+11,Grand Tow,Sep-20
+1215,Clinton,2-1N-1W,"Gett Oil Co., Inc.",Schmitz #1-SWD,"569'N line, 330'E line of SE",OIL,66297,1.2027E+11,Aux Vases,Sep-20
+1216,Crawford,22-6N-13W,"Rhex, LLC",Doolittle #RX-1 WI,"7'N line, 438'E line of NE SE SW",OIL,66295,1.20334E+11,Spoon,Sep-20
+1217,Franklin,36-6S-2E,Gesell's Pump Sales & Service,Benton Flood Unit #6-W,"993'N line, 774'E line of SW",WI,204763,1.2055E+11,Tar Spring,Sep-20
+1218,Gallatin,35-8S-9E,"Dee Drilling Co., Inc.",Maloney #4-WSW,"330'N line, 330'E line of SW NW",WSU,66303,1.20592E+11,Cypress,Sep-20
+1219,Marion,19-4N-1E,Penn Energy Corp.,"Malan, Maud #4","330'N line, 330'W line of NE SE",OIL,66300,1.2121E+11,Aux Vases,Sep-20
+1220,Menard,3-19N-7W,"DAC Energy & Drilling, LLC",Dart #2-1,"330'S line, 330'W line of SE SW NE",OIL,66298,1.21292E+11,Spechts Fe,Sep-20
+1221,Menard,10-19N-7W,"DAC Energy & Drilling, LLC",Dart #7-1,"332'N line, 330'W line of NW NW SE",OIL,66299,1.21292E+11,Spechts Fe,Sep-20
+1222,Wayne,8-2S-9E,Pamco Oil & Gas LLC,Fearn #55X-8,"330'N line, 400'W line of NW SE",OIL,66302,1.21913E+11,Ullin,Sep-20
+1223,Wayne,12-3S-5E,"Stewart Producers, Inc.",Almo Farms #1,"330'N line, 330'E line of NW NW NE",OIL,66301,1.21913E+11,Ullin,Sep-20
+1224,White,1-4S-10E,"ACF Resources, LLC","Hon, Don #2","692'S line, 337'W line of SE NW",OIL,66294,1.21933E+11,Fort Payne,Sep-20
+1225,Christian,27-14N-2W,"Paragon Oil Company, Inc.",Beaty #27-1,"330'N line, 330'W line of NW NW SE",OIL,66493,1.20213E+11,Racine,Sep-21
+1226,DeWitt,9-20N-2E,Kaufman Oil Co.,92131LLC #1,"330'N line, 330'W line of SW SW",OIL,66489,1.20392E+11,Guttenburg,Sep-21
+1227,DeWitt,17-20N-3E,Kaufman Oil Co.,O'Brien Family Farms #1,"330'N line, 990'E line of NE SE",OIL,66488,1.20392E+11,Edgewood,Sep-21
+1228,Edgar,9-13N-13W,"Pioneer Oil Co., Inc.",Baber #16-J,"130'N line, 130'W line of SE SW SE",OIL,66475,1.20452E+11,Spoon,Sep-21
+1229,Edgar,9-13N-13W,"Pioneer Oil Co., Inc.",Baber-Bussart Unit #1,"10'N line, 10'E line of SE NW NE",OIL,66490,1.20452E+11,Spoon,Sep-21
+1230,Effingham,24-8N-5E,"Kincaid Oil Producers, Inc.",Hoffman #2,"330'S line, 330'E line of SE SE",OIL,66483,1.20493E+11,Grand Tow,Sep-21
+1231,Franklin,26-7S-3E,"Wenwood Developments, LLC",Woods #2,"330'S line, 330'W line of NW SW",OIL,66477,1.20553E+11,Cypress,Sep-21
+1232,Hamilton,12-6S-5E,"Bi-Petro, Inc.",Smith #2-B,"330'S line, 380'W line of SE SE",OIL,66478,1.20653E+11,Ullin,Sep-21
+1233,Hamilton,5-6S-6E,"Bi-Petro, Inc.",North Rural Hill Unit #3-B,"330'S line, 380'W line of NE SW",OIL,66484,1.20653E+11,Ullin,Sep-21
+1234,Hamilton,5-6S-6E,"Bi-Petro, Inc.",North Rural Hill Unit #4-B,"330'N line, 380'W line of NW SW",OIL,66485,1.20653E+11,Ullin,Sep-21
+1235,Hamilton,6-6S-6E,"Bi-Petro, Inc.",North Rural Hill Unit #2-B,"330'N line, 380'W line of SE SE",OIL,66486,1.20653E+11,Ullin,Sep-21
+1236,Hamilton,8-6S-6E,"Bi-Petro, Inc.",Ogelsby #7-B,"330'S line, 330'E line of NW NW",OIL,66487,1.20653E+11,Ullin,Sep-21
+1237,Jefferson,25-1S-4E,Resolve Exploration Corp.,Rudolph #1,"620'S line, 330'E line of SE SW SE",OIL,66482,1.20813E+11,Ullin,Sep-21
+1238,Jefferson,10-4S-2E,"MKE Producing, Inc.",Wells #2,"100'S line, 100'W line of SW NW",OIL,66472,1.20813E+11,Fort Payne,Sep-21
+1239,Perry,21-5S-1W,"KWR Ventures, L.L.C.",Tamaroa South Pier #1-21,"330'S line, 445'E line of SW NW",OIL,66481,1.21453E+11,Ste Genevi,Sep-21
+1240,Wabash,36-2N-14W,"Foster, James L.","Trapp, Marie #1","330'N line, 1650'E line of SE",WI,204801,1.21853E+11,St Louis,Sep-21
+1241,Wayne,11-1S-6E,"Countrymark Energy Resources, LLC",Hilliard Community #5,"536'S line, 330'W line of SE SW",OIL,66492,1.21913E+11,Ullin,Sep-21
+1242,Wayne,21-1S-8E,"Dee Drilling Co., Inc.",Robbins #8,"330'N line, 330'E line of SW NW",OIL,66473,1.21913E+11,Ste Genevi,Sep-21
+1243,Wayne,21-1S-8E,"Dee Drilling Co., Inc.",Robbins #9,"330'S line, 330'W line of SW NW",OIL,66474,1.21913E+11,Ste Genevi,Sep-21
+1244,Wayne,26-2S-8E,"Palomino Petrolium, Inc.",Dozier #1,"330'S line, 825'E line of SE NW",OIL,66496,1.21913E+11,Salem,Sep-21
+1245,White,36-3S-10E,Shawnee Exploration Partners LLC,Bernard #1,"589'S line, 330'W line of NW SE",OIL,66495,1.21933E+11,Fort Payne,Sep-21
+1246,White,4-4S-14W,"Campbell Energy, LLC","Barger - Evans - Smith,Community #1","64'N line, 330'W line of SW NW SW",OIL,66494,1.21933E+11,Fort Payne,Sep-21
+1247,White,2-7S-9E,Pamco Oil & Gas LLC,Bartley #52X-2,"360'S line, 330'W line of NW NE",OIL,66476,1.21933E+11,Ullin,Sep-21
+1248,White,8-7S-10E,"Campbell Energy, LLC",Tuley #10,"1806'S line, 277'E line of SW",OIL,66491,1.21933E+11,Aux Vases,Sep-21
