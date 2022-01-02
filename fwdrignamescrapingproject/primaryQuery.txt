@@ -1,0 +1,3 @@
+SELECT externalattachmentid,surveycompany,surveytype 
+FROM railroad.completesurveydata
+WHERE externalattachmentid = '5087168'
