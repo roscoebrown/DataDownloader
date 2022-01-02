@@ -1,5 +1,6 @@
-# PDF Scrapper
+# Web Scrapper
 
-The Pdf scrapper is used for collecting permit information via pdfs.
+The Web Scrapper goes to the set website and can download a file based on the link or HTML. 
 
-It can download a whole folder of information. Manually change the bounds to get the most accurate data scrapping. 
+Error
+The main file is not set up.
