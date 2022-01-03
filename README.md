@@ -77,4 +77,8 @@ Link takes you directly to the WV DEP weekly update page. Towards the bottom of 
 ### Offshore 
 waiting for a call back from IT to get a refreshable csv/xls file to work with. Said you have to buy it on a daily basis which sounded expensive. Otherwise you would have to use the search feature in the Data Center on a daily basis but I know you don’t necessarily want to do it that way. The Data Center has a lot of information that could be automatically pulled and is a good resource on its own.
 
+
+<br />
+
 ### Dictionary Example "$myDict := dict "name1" "name2""
+[Texas]: http://www.rrc.state.tx.us/
