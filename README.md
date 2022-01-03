@@ -81,4 +81,39 @@ waiting for a call back from IT to get a refreshable csv/xls file to work with. 
 <br />
 
 ### Dictionary Example "$myDict := dict "name1" "name2""
+[Alabama]: http://www.gsa.state.al.us/
+[Alaska]: https://commerce.alaska.gov/web/aogcc
+[Arizona]: http://www.azogcc.az.gov/
+[Arkansas]: http://www.aogc.state.ar.us/Pages/Default.aspx
+# Change this one
+[California]: https://www.conservation.ca.gov/ 
+[Colorado]: https://cogcc.state.co.us/#/home
+[Idaho]: http://www.idahogeology.org/
+[Illinois]: http://www.isgs.illinois.edu/iloil
+[Indiana]: https://igs.indiana.edu/pdms/
+[Iowa]: http://www.iowadnr.gov/Environment/GeologyMapping.aspx
+[Kansas]: http://www.kgs.ku.edu/Magellan/Qualified/index.html
+[Kentucky]: https://www.uky.edu/KGS/emsweb/
+[Louisiana]: http://www.sonris.com/
+[Michigan]: http://www.deq.state.mi.us/dataminer/
+[Missouri]: http://dnr.mo.gov/geology/geosrv/ogc/index.html
+[Montana]: http://bogc.dnrc.mt.gov/onlinedata.asp
+[Nebraska]: http://www.nogcc.ne.gov/
+[Nevada]: http://minerals.nv.gov/
+[New Mexico]: http://www.emnrd.state.nm.us/ocd/
+[New York]: http://www.dec.ny.gov/cfmx/extapps/GasOil/
+[North Dakota]: https://www.dmr.nd.gov/oilgas/
+[Ohio]: http://oilandgas.ohiodnr.gov/well-information/oil-gas-well-database
+[Oklahoma]: http://www.occeweb.com/Orawebapps/OCCORaWebAppsone.html
+[Oregon]: http://www.oregongeology.org/mlrr/oilgas-logs.htm
+[South Dakota]: http://denr.sd.gov/des/og/welldata.aspx
 [Texas]: http://www.rrc.state.tx.us/
+[Utah]: https://oilgas.ogm.utah.gov/oilgasweb/live-data-search/lds-main.xhtml
+[Washington]: http://www.dnr.wa.gov/programs-and-services/geology/energy-mining-and-minerals/oil-and-gas-resources
+[Wyoming]: http://wogcc.state.wy.us/
+
+
+
+
+
+
