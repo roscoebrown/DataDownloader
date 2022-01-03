@@ -58,7 +58,7 @@ Link takes you to the O&G data page. Scroll to the bottom with the last table ti
 link: [Kansas]
 
 ### Kentucky
-link: [Ketucky]
+link: [Kentucky]
 
 ### Lousiana
 This is the Lousiana Permit data with longitude and latitude coordinates. Louisiana does do a data service for this data for $300. 
