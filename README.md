@@ -9,7 +9,7 @@ The Data downloader is the main program for collected permit data and location d
 ### Texas
 Bought the data from the state
 you have the info already on how to move forward with a subscription to their FTP
-link {Texas}
+link [Texas]
 
 ### Oklahoma 
 Already have the data
