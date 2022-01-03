@@ -112,7 +112,7 @@ link: [New Mexico]
 link: [New York]
 
 ### North Carolina
-link: [North Carolina]
+N/A
 
 ### North Dakota 
 The link in the PDF takes you to the ND DMR website. At the top of the table on the left, you need to fill out the subscription form for the premium version ($175/yr has the most data, or if you want $50 for the basic and just has permits in XLS). This is updated daily at 5am in the well index. Once you subscribe, you go back to the DMR website, Click the left hand link for “Well Index”, login, and it will provide a link for the excel file where we then sort by descending dates to get the days approved permits.
@@ -137,13 +137,13 @@ N/A
 N/A
 
 ### South Carolina
-link: [South Carolina]
+N/A
 
 ### South Dakota
 link: [South Dakota]
 
 ### Tennessee
-link: [Tennessee]
+N/A
 
 ### Texas
 Bought the data from the state
