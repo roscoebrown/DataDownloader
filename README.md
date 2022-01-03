@@ -9,7 +9,9 @@ The Data downloader is the main program for collected permit data and location d
 link: [Alabama]
 
 ### Alaska 
-Link takes you directly to the permit search field where it will populate the current month search (stored in cookies). Clicking the blue button downloads a zipped csv file of what’s shown in the table.
+
+Note<br />
+Link takes you directly to the permit search field where it will populate the current month search (stored in cookies). Clicking the blue button downloads a zipped csv file of what’s shown in the table. <br />
 link: [Alaska]
 
 ### Arizona
