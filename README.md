@@ -60,11 +60,11 @@ link: [Kansas]
 ### Kentucky
 link: [Kentucky]
 
-### Lousiana
+### Lousiania
 This is the Lousiana Permit data with longitude and latitude coordinates. Louisiana does do a data service for this data for $300. 
 However, this data can be downloaded for free manually in an excel file.
 After paying the initial fee and monthly fee and request “WELL” data, they will provide you with a login. From there you can click the link in step 6 - How do I Automate the download process? and will walk you through setting up the script.
-link: [Lousiana]
+link: [Lousiania]
 
 ### Maine
 N/A
