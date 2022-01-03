@@ -165,7 +165,7 @@ link: [Washington]
 
 ### West Virginia 
 Link takes you directly to the WV DEP weekly update page. Towards the bottom of the page you will find a series of dates and links titled “Dates: 06-10-2019 thru 06-14-2019”. Clicking the most recent date range link will download a zipped folder with an xls file of most recent approved permits
-link: [West Virginia]
+
 
 ### Wisconsin
 N/A
@@ -173,7 +173,6 @@ N/A
 ### Wyoming 
 The link takes you to the search field where you have to type in the dates, select “All Permitted Wells”, Check the box, then click Go Find. It will download a CSV file, then sort column W (Status_Dte) descending 
 link: [Wyoming]
----------------------------------------------------------------------- 
 
 ### Offshore 
 waiting for a call back from IT to get a refreshable csv/xls file to work with. Said you have to buy it on a daily basis which sounded expensive. Otherwise you would have to use the search feature in the Data Center on a daily basis but I know you don’t necessarily want to do it that way. The Data Center has a lot of information that could be automatically pulled and is a good resource on its own.
