@@ -79,7 +79,7 @@ N/A
 link: [Michigan]
 
 ### Minnesota
-link: [Minnesota]
+N/A
 
 ### Mississippi
 Only have weekly PDFs not very much activity here (1 per week).
