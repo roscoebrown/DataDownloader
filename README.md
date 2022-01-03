@@ -197,6 +197,7 @@ waiting for a call back from IT to get a refreshable csv/xls file to work with. 
 [Kentucky]: https://www.uky.edu/KGS/emsweb/
 [Louisiana]: http://www.sonris.com/
 [Michigan]: http://www.deq.state.mi.us/dataminer/
+[Mississippi]: https://www.ogb.state.ms.us/
 [Missouri]: http://dnr.mo.gov/geology/geosrv/ogc/index.html
 [Montana]: http://bogc.dnrc.mt.gov/onlinedata.asp
 [Nebraska]: http://www.nogcc.ne.gov/
