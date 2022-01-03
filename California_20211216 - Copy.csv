@@ -1,0 +1,866 @@
+OID,API,LeaseName,WellNumber,WellStatus,WellType,WellTypeLa,OperatorCo,OperatorNa,FieldName,AreaName,District,CountyName,Section,Township,Range,BaseMeridi,Latitude,Longitude,GISSource,isConfiden,isDirectio,SpudDate,WellSymbol
+-1,402120521,Angel Slough,1-Feb,Idle,DG,Dry Gas,C8720,"Crain Orchards, Inc.",Afton Gas,Main,Northern,Glenn,2,18N,01W,MD,39.44915771,-121.9462891,GPS,N,N,2/17/1988,IdleDG
+-1,402120723,Kauai,1-Mar,Idle,DG,Dry Gas,R4085,"Royale Energy, Inc.",Afton Gas,Main,Northern,Glenn,3,18N,01W,MD,39.4406395,-121.951889,GPS,N,N,12/7/1999,IdleDG
+-1,402120734,Lanai,3-Mar,Idle,DG,Dry Gas,R4085,"Royale Energy, Inc.",Afton Gas,Main,Northern,Glenn,3,18N,01W,MD,39.44717407,-121.9612732,GPS,N,N,5/13/2000,IdleDG
+-1,402120815,Anacapa,4-Mar,Idle,DG,Dry Gas,R4085,"Royale Energy, Inc.",Afton Gas,Main,Northern,Glenn,3,18N,01W,MD,39.44322968,-121.9510422,GPS,N,N,11/6/2002,IdleDG
+-1,402120034,Afton Community 3,1,Plugged,DH,Dry Hole,S3280,Shoshone Oil Corp.,Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.45586395,-121.9494247,hud,N,N,12/12/1970,PluggedDH
+-1,402100017,Afton Community 2,1,Plugged,DG,Dry Gas,V1150,"Venoco, LLC",Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.46021652,-121.953537,hud,N,N,4/14/1945,PluggedDG
+-1,402100262,Mantelli,1,Plugged,DH,Dry Hole,2212,"Donald Frankel, Operator",Afton Gas,Main,Northern,Glenn,26,19N,01W,MD,39.46752548,-121.9359894,hud,N,N,4/13/1961,PluggedDH
+-1,402100016,Afton Community 1,1,Plugged,DG,Dry Gas,V1150,"Venoco, LLC",Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.4515152,-121.9506683,hud,N,N,12/2/1943,PluggedDG
+-1,402120035,Spectrum-Pacific,1,Plugged,DH,Dry Hole,S3280,Shoshone Oil Corp.,Afton Gas,Main,Northern,Glenn,27,19N,01W,MD,39.46704483,-121.9628982,hud,N,N,12/17/1970,PluggedDH
+-1,402100240,Max Pray-Central Valley-Boyd U,1,Plugged,DH,Dry Hole,3279,General Expl. Co. of Ca,Afton Gas,Main,Northern,Glenn,2,18N,01W,MD,39.43826675,-121.9474182,hud,N,N,6/11/1959,PluggedDH
+-1,402120271,H & L Farms,1-Jan,Plugged,DG,Dry Gas,N2150,Northern Michigan Exploration Company,Afton Gas,Main,Northern,Glenn,1,18N,01W,MD,39.445755,-121.9292984,hud,N,N,6/19/1984,PluggedDG
+-1,402120614,Orchard,21-Jan,Plugged,DG,Dry Gas,S4260,"Donald C Slawson Expl Co., Inc",Afton Gas,Northwest (ABD),Northern,Glenn,21,19N,01W,MD,39.4792099,-121.9744721,GPS,N,N,9/7/1993,PluggedDG
+-1,402120613,Butte City,28-Jan,Plugged,DH,Dry Hole,S4260,"Donald C Slawson Expl Co., Inc",Afton Gas,Northwest (ABD),Northern,Glenn,28,19N,01W,MD,39.466465,-121.971077,hud,N,N,8/30/1993,PluggedDH
+-1,402120444,Angel Farms,28-Jan,Plugged,DG,Dry Gas,W1725,Western Discovery USA Inc.,Afton Gas,Northwest (ABD),Northern,Glenn,28,19N,01W,MD,39.47263336,-121.9839096,hud,N,N,5/22/1986,PluggedDG
+-1,402120617,Levee,29-Jan,Plugged,DG,Dry Gas,S4260,"Donald C Slawson Expl Co., Inc",Afton Gas,Northwest (ABD),Northern,Glenn,29,19N,01W,MD,39.47668457,-121.9908447,hud,N,N,10/15/1993,PluggedDG
+-1,402120086,Giesbrecht,Jan-34,Plugged,DH,Dry Hole,S3100,Shell Western E&P Inc.,Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.46134567,-121.9658051,hud,N,N,12/19/1975,PluggedDH
+-1,402120469,Perez,Jan-35,Plugged,DH,Dry Hole,F1505,Fountain Oil And Gas Co.,Afton Gas,Main,Northern,Glenn,35,19N,01W,MD,39.45763397,-121.9472732,hud,N,N,3/12/1987,PluggedDH
+-1,402120448,Reusser,1-A,Plugged,DG,Dry Gas,S0350,Sacramento Oil & Gas Co.,Afton Gas,Main,Northern,Glenn,35,19N,01W,MD,39.46185684,-121.9487,GPS,N,N,7/5/1986,PluggedDG
+-1,402120495,Zumwalt,14-26,Plugged,DG,Dry Gas,W1700,Western Continental Operating Company,Afton Gas,Main,Northern,Glenn,26,19N,01W,MD,39.47245407,-121.9469681,hud,N,N,10/14/1987,PluggedDG
+-1,402120494,Andreotti,15-26,Plugged,DG,Dry Gas,W1700,Western Continental Operating Company,Afton Gas,Main,Northern,Glenn,26,19N,01W,MD,39.47055054,-121.9477692,GPS,N,N,10/5/1987,PluggedDG
+-1,402120492,Andreotti,18-26,Plugged,DG,Dry Gas,W1700,Western Continental Operating Company,Afton Gas,Main,Northern,Glenn,26,19N,01W,MD,39.46476746,-121.9483108,GPS,N,N,9/25/1987,PluggedDG
+-1,402100264,Afton Community 2,2,Plugged,DH,Dry Hole,A4550,Arco Western Energy Co.,Afton Gas,Main,Northern,Glenn,27,19N,01W,MD,39.4676857,-121.9530563,hud,N,N,5/1/1948,PluggedDH
+-1,402100014,Afton Community 1,2,Plugged,DH,Dry Hole,A4550,Arco Western Energy Co.,Afton Gas,Main,Northern,Glenn,3,18N,01W,MD,39.445755,-121.9533691,hud,N,N,5/23/1948,PluggedDH
+-1,402120283,Afton Community 2,2,Plugged,DG,Dry Gas,V1150,"Venoco, LLC",Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.46003342,-121.9514236,hud,N,N,10/10/1984,PluggedDG
+-1,402120530,H & L Farms Unit,2-Feb,Plugged,DG,Dry Gas,W1725,Western Discovery USA Inc.,Afton Gas,Main,Northern,Glenn,2,18N,01W,MD,39.44584656,-121.9346161,hud,N,N,8/26/1988,PluggedDG
+-1,402120451,Federal Land Bank,28-Feb,Plugged,DG,Dry Gas,N2150,Northern Michigan Exploration Company,Afton Gas,Northwest (ABD),Northern,Glenn,28,19N,01W,MD,39.46987534,-121.9810486,hud,N,N,9/30/1986,PluggedDG
+-1,402100018,Afton Community,3-Feb,Plugged,DH,Dry Hole,V1150,"Venoco, LLC",Afton Gas,Main,Northern,Glenn,35,19N,01W,MD,39.4598465,-121.9454269,hud,N,N,6/9/1965,PluggedDH
+-1,402120514,McKee,27-1,Plugged,DG,Dry Gas,W1860,Westside Farming Co. Inc.,Afton Gas,Main,Northern,Glenn,27,19N,01W,MD,39.46814346,-121.9495468,hud,N,N,1/6/1988,PluggedDG
+-1,402120482,Bound Rancho,27-1,Plugged,DG,Dry Gas,W1860,Westside Farming Co. Inc.,Afton Gas,Main,Northern,Glenn,27,19N,01W,MD,39.46450424,-121.9518967,hud,N,N,7/15/1987,PluggedDG
+-1,402120526,McKee,27-2,Plugged,DG,Dry Gas,T1715,TXO Production Corp.,Afton Gas,Main,Northern,Glenn,27,19N,01W,MD,39.46501541,-121.9519043,hud,N,N,5/5/1988,PluggedDG
+-1,402120517,Bound Rancho,27-2,Plugged,DG,Dry Gas,W1860,Westside Farming Co. Inc.,Afton Gas,Main,Northern,Glenn,27,19N,01W,MD,39.46451569,-121.9496231,hud,N,N,1/11/1988,PluggedDG
+-1,402120616,Andreotti,27X-6,Plugged,DG,Dry Gas,W1700,Western Continental Operating Company,Afton Gas,Main,Northern,Glenn,26,19N,01W,MD,39.46470642,-121.9477234,hud,N,Y,9/29/1993,PluggedDG
+-1,402100013,Afton Community 1,3,Plugged,DH,Dry Hole,A4550,Arco Western Energy Co.,Afton Gas,Main,Northern,Glenn,2,18N,01W,MD,39.44573593,-121.9439545,hud,N,N,6/10/1948,PluggedDH
+-1,402120447,Reusser,3,Plugged,DG,Dry Gas,F1505,Fountain Oil And Gas Co.,Afton Gas,Main,Northern,Glenn,35,19N,01W,MD,39.46207428,-121.9482269,hud,N,N,6/20/1986,PluggedDG
+-1,402120733,Grand Turk,2-Mar,Plugged,DG,Dry Gas,R4085,"Royale Energy, Inc.",Afton Gas,Main,Northern,Glenn,3,18N,01W,MD,39.43955231,-121.9619446,GPS,N,N,5/2/2000,PluggedDG
+-1,402120480,Angel Farms,28-Mar,Plugged,DH,Dry Hole,N2150,Northern Michigan Exploration Company,Afton Gas,Northwest (ABD),Northern,Glenn,28,19N,01W,MD,39.47492599,-121.9714661,hud,N,N,8/6/1987,PluggedDH
+-1,402120816,San Miguel,7-Mar,Plugged,DG,Dry Gas,R4085,"Royale Energy, Inc.",Afton Gas,Main,Northern,Glenn,3,18N,01W,MD,39.44507599,-121.9618149,GPS,N,N,12/18/2002,PluggedDG
+-1,402120471,Perez,34-1,Plugged,DG,Dry Gas,C0885,California Resources Production Corporation,Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.46111298,-121.9497528,GPS,N,N,4/22/1987,PluggedDG
+-1,402120487,Lewis,34-1,Plugged,DG,Dry Gas,V1150,"Venoco, LLC",Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.46111679,-121.9498596,GPS,N,N,8/7/1987,PluggedDG
+-1,402120722,Maui,34-2,Plugged,DG,Dry Gas,R4085,"Royale Energy, Inc.",Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.45056534,-121.95047,GPS,N,N,11/27/1999,PluggedDG
+-1,402120732,Molokai,34-3,Plugged,DG,Dry Gas,V1150,"Venoco, LLC",Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.4513855,-121.9642563,hud,N,N,4/21/2000,PluggedDG
+-1,402120525,Giesbrecht,35-1,Plugged,DH,Dry Hole,F1505,Fountain Oil And Gas Co.,Afton Gas,Main,Northern,Glenn,35,19N,01W,MD,39.46357346,-121.9434738,hud,N,N,5/5/1988,PluggedDH
+-1,402120486,McComish,35-1,Plugged,DG,Dry Gas,F1505,Fountain Oil And Gas Co.,Afton Gas,Main,Northern,Glenn,35,19N,01W,MD,39.4638443,-121.9484329,hud,N,N,8/5/1987,PluggedDG
+-1,402120516,McComish,35-2,Plugged,DG,Dry Gas,F1505,Fountain Oil And Gas Co.,Afton Gas,Main,Northern,Glenn,35,19N,01W,MD,39.46311569,-121.9484558,hud,N,N,1/12/1988,PluggedDG
+-1,402120493,Andreotti,35-26,Plugged,DG,Dry Gas,W1700,Western Continental Operating Company,Afton Gas,Main,Northern,Glenn,26,19N,01W,MD,39.47047424,-121.9477692,GPS,N,N,11/2/1987,PluggedDG
+-1,402120438,Reusser,4,Plugged,GAS,Gas,S0350,Sacramento Oil & Gas Co.,Afton Gas,Main,Northern,Glenn,35,19N,01W,MD,39.46179962,-121.9486923,GPS,N,N,1/4/1986,PluggedGAS
+-1,402120496,Zumwalt,44-26,Plugged,GAS,Gas,W1700,Western Continental Operating Company,Afton Gas,Main,Northern,Glenn,26,19N,01W,MD,39.47286606,-121.9412537,hud,N,N,2/25/1988,PluggedGAS
+-1,402120536,Andreotti,54-26,Plugged,GAS,Gas,W1700,Western Continental Operating Company,Afton Gas,Main,Northern,Glenn,26,19N,01W,MD,39.47193527,-121.9381561,hud,N,Y,6/19/1989,PluggedGAS
+-1,402120537,Andreotti,55-26,Plugged,GAS,Gas,W1700,Western Continental Operating Company,Afton Gas,Main,Northern,Glenn,26,19N,01W,MD,39.46817398,-121.9405441,hud,N,Y,5/13/1989,PluggedGAS
+-1,402100015,ROCO-Afton Community,66-34,Plugged,DH,Dry Hole,A4550,Arco Western Energy Co.,Afton Gas,Main,Northern,Glenn,34,19N,01W,MD,39.45403671,-121.9547348,hud,N,N,6/10/1962,PluggedDH
+-1,402120107,Glassgow,10-Jan,Plugged,DG,Dry Gas,S3100,Shell Western E&P Inc.,"Afton, South, Gas (ABD)",Any Area,Northern,Glenn,10,18N,01W,MD,39.42490768,-121.9651794,hud,N,Y,5/31/1977,PluggedDG
+-1,402120080,Cecil,9-Jan,Plugged,DG,Dry Gas,S3100,Shell Western E&P Inc.,"Afton, South, Gas (ABD)",Any Area,Northern,Glenn,9,18N,01W,MD,39.4222641,-121.9678345,hud,N,N,10/29/1975,PluggedDG
+-1,402120254,Ossenbriggen,1-Sep,Plugged,DH,Dry Hole,T1715,TXO Production Corp.,"Afton, South, Gas (ABD)",Any Area,Northern,Glenn,9,18N,01W,MD,39.42425537,-121.9725265,hud,N,N,10/20/1983,PluggedDH
+-1,408300978,Hollister,1,Plugged,OG,Oil & Gas,6399,Oil & Gas Prop Mgmt. Inc.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.4734993,-120.267067,hud,N,N, ,PluggedOG
+-1,408300967,Republic-Hollister,1,Plugged,OG,Oil & Gas,7234,Republic Petroleum Co.,Alegria (ABD),Any Area,Coastal,Santa Barbara,36,05N,33W,SB,34.46954727,-120.2829132,hud,N,N, ,PluggedOG
+-1,408300963,Aqua Caliente Core Hole,1,Plugged,CH,Core Hole,848,Bmw Co.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.46948624,-120.2653885,hud,N,N, ,PluggedCH
+-1,408300962,Alegria,1,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.47140503,-120.2717056,hud,N,N, ,PluggedOG
+-1,408300964,Hollister,1,Plugged,OG,Oil & Gas,827,Blackwood & Nichols Co,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.48065948,-120.2613831,hud,N,N, ,PluggedOG
+-1,408300972,Alegria,10,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,32,05N,32W,SB,34.46903992,-120.2576599,hud,N,N, ,PluggedOG
+-1,408300974,Alegria,14,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,32,05N,32W,SB,34.4740181,-120.2543335,hud,N,N, ,PluggedOG
+-1,408300976,Alegria,2,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.47229767,-120.2711945,hud,N,N, ,PluggedOG
+-1,408300966,Hollister,2,Plugged,OG,Oil & Gas,6399,Oil & Gas Prop Mgmt. Inc.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.47422409,-120.2691269,hud,N,N, ,PluggedOG
+-1,408300968,Alegria,3,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.46949768,-120.2645035,hud,N,N, ,PluggedOG
+-1,408300971,Alegria,4,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.47029495,-120.2661209,hud,N,N, ,PluggedOG
+-1,408300979,Alegria,4,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.47006989,-120.2603836,hud,N,N, ,PluggedOG
+-1,408300969,Alegria,5,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.47032547,-120.2680359,hud,N,N, ,PluggedOG
+-1,408300970,Alegria,6,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.47425842,-120.2708893,hud,N,N, ,PluggedOG
+-1,408300977,Alegria,7,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.47043228,-120.2654572,hud,N,N, ,PluggedOG
+-1,408300965,Alegria,8,Plugged,OG,Oil & Gas,1279,Cal-L Expl. Corp.,Alegria (ABD),Any Area,Coastal,Santa Barbara,31,05N,32W,SB,34.47034454,-120.2628784,hud,N,N, ,PluggedOG
+-1,428300047,State 2793,1,Plugged,OG,Oil & Gas,A4525,Atlantic Richfield Company,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,32W,SB,34.4447403,-120.2729569,hud,N,N, ,PluggedOG
+-1,428304626,7R,41,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,32W,SB,34.44163895,-120.2628937,hud,N,N, ,PluggedOG
+-1,428304629,7R,46,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,32W,SB,34.44360733,-120.2702484,hud,N,N, ,PluggedOG
+-1,428300961,Gaviota C.H.,5,Plugged,OG,Oil & Gas,A4500,Arco Oil and Gas Co.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,32W,SB,34.44332504,-120.2626572,hud,N,N, ,PluggedOG
+-1,428320348,Core Hole,10-Jul,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,8,04N,32W,SB,34.44269943,-120.2598877,Well Summary,N,N, ,PluggedCH
+-1,428320349,Core Hole,17-Jul,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,12,04N,33W,SB,34.4407692,-120.2780838,Well Summary,N,N, ,PluggedCH
+-1,428320350,Core Hole,9-Jul,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,8,04N,32W,SB,34.43859863,-120.2572861,Well Summary,N,N, ,PluggedCH
+-1,428300981,Core Hole,7-D-15,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,12,04N,33W,SB,34.44168091,-120.2826843,hud,N,N, ,PluggedCH
+-1,428320403,Core Hole,7C-18,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,12,04N,33W,SB,34.43857956,-120.2791824,Well Summary,N,N,12/16/1956,PluggedCH
+-1,428320404,Core Hole,7C-19,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,12,04N,33W,SB,34.44200897,-120.2795868,Well Summary,N,N,12/15/1956,PluggedCH
+-1,428320405,Core Hole,7C-20,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,32W,SB,34.44876862,-120.2778854,Well Summary,N,N,12/13/1956,PluggedCH
+-1,428320406,Core Hole,7C-21,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,6,04N,32W,SB,34.45333862,-120.2759857,Well Summary,N,N,12/12/1956,PluggedCH
+-1,428320407,Core Hole,7C-22,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,33W,SB,34.4405899,-120.2744827,Well Summary,N,N,12/14/1956,PluggedCH
+-1,428320408,Core Hole,7C-23,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,13,04N,33W,SB,34.43454742,-120.2887878,Well Summary,N,N,12/23/1956,PluggedCH
+-1,428320411,Core Hole,7C-26,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,33W,SB,34.44620895,-120.2749863,Well Summary,N,N,1/4/1957,PluggedCH
+-1,428320412,Core Hole,7C-27,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,33W,SB,34.44532013,-120.2711868,Well Summary,N,N,1/6/1957,PluggedCH
+-1,428320384,Core Hole,7C-2A,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,12,04N,33W,SB,34.45137787,-120.2850876,Well Summary,N,N,12/5/1956,PluggedCH
+-1,428320385,Core Hole,7C-2B,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,12,04N,33W,SB,34.45067978,-120.2859878,Well Summary,N,N,12/7/1956,PluggedCH
+-1,428320386,Core Hole,7C-3,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,1,04N,33W,SB,34.45288849,-120.2854843,Well Summary,N,N,12/7/1956,PluggedCH
+-1,428320416,Core Hole,7C-31,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,1,04N,33W,SB,34.45565033,-120.2848892,Well Summary,N,N,12/26/1956,PluggedCH
+-1,428320417,Core Hole,7C-32,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,12,04N,33W,SB,34.44387054,-120.2828827,Well Summary,N,N,12/25/1956,PluggedCH
+-1,428320393,Core Hole,7C-9,Plugged,CH,Core Hole,C5640,Chevron U.S.A. Inc.,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,12,04N,33W,SB,34.44639969,-120.2794876,Well Summary,N,N,12/10/1956,PluggedCH
+-1,428304735,Core Hole,SB 32,Plugged,CH,Core Hole,A0610,Aera Energy LLC,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,32W,SB,34.44947433,-120.2615051,hud,N,N, ,PluggedCH
+-1,428304736,Core Hole,SB 33,Plugged,CH,Core Hole,A0610,Aera Energy LLC,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,32W,SB,34.44334412,-120.2657852,hud,N,N, ,PluggedCH
+-1,428304737,Core Hole,SB 34,Plugged,CH,Core Hole,A0610,Aera Energy LLC,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,7,04N,32W,SB,34.44497299,-120.2719498,hud,N,N, ,PluggedCH
+-1,428304738,Core Hole,SB 36,Plugged,CH,Core Hole,A0610,Aera Energy LLC,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,13,04N,32W,SB,34.43909454,-120.2829742,hud,N,N, ,PluggedCH
+-1,428304742,Core Hole,SB 41,Plugged,CH,Core Hole,A0610,Aera Energy LLC,Alegria Offshore (ABD),Any Area,Coastal,Santa Barbara Offshore,12,04N,33W,SB,34.44552231,-120.2857208,hud,N,N, ,PluggedCH
+-1,403700036,Porter,1,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31676102,-118.5475845,GPS,N,N,6/21/1938,IdleOG
+-1,403700754,Standard Sesnon,1,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31826019,-118.5645065,GPS,N,Y,12/25/1941,IdleGS
+-1,403700663,Del Aliso 1,10,Idle,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.3195343,-118.5755997,GPS,N,Y,5/3/1960,IdleOG
+-1,403721806,Porter,10,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31722641,-118.5496445,GPS,N,Y,10/20/1977,IdleOG
+-1,403700704,Porter,15,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31663513,-118.5523453,GPS,N,N,4/12/1940,IdleOG
+-1,403700706,Porter,17,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31705856,-118.5554352,GPS,N,N,9/27/1940,IdleOG
+-1,403700708,Porter,19,Idle,WF,Waterflood,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31771469,-118.5602188,GPS,N,N,11/22/1947,IdleWF
+-1,403700771,Standard-Sesnon 1,19,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31370163,-118.5633774,GPS,N,Y,12/22/1951,IdleOG
+-1,403721892,Mission Adrian,1B,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30493546,-118.5427628,Well Summary,N,Y,6/30/1979,IdleGS
+-1,403700697,Porter,2,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31721878,-118.5497513,GPS,N,N,1/22/1939,IdleOG
+-1,403730473,Porter Sesnon,20A,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31778717,-118.5625992,Notice of Intent to Drill,N,N, ,IdleGS
+-1,403700773,Standard-Sesnon 1,22,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31401062,-118.5649719,GPS,N,N,11/3/1952,IdleOG
+-1,403700777,Standard-Sesnon 1,26,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31761169,-118.5666809,GPS,N,N,4/7/1953,IdleOG
+-1,403700778,Standard-Sesnon 1,27,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31900787,-118.565773,GPS,N,N,6/5/1953,IdleOG
+-1,403700715,Porter,28,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31442642,-118.5551453,GPS,N,N, ,IdleOG
+-1,403700779,Standard-Sesnon 1,28,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31918716,-118.5634842,GPS,N,N,12/14/1953,IdleOG
+-1,403700698,Porter,3,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31768799,-118.5517883,GPS,N,N, ,IdleOG
+-1,403700684,Fernando Fee,30,Idle,WD,Water Disposal,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30791473,-118.5441742,GPS,N,N,8/18/1954,IdleWD
+-1,403721354,Porter,32F,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31237793,-118.5503693,Well Summary,N,Y,7/15/1973,IdleGS
+-1,403700687,Fernando Fee,33,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30653,-118.5408783,Well Summary,N,Y,3/4/1949,IdleGS
+-1,403700783,Standard-Sesnon 1,33,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31864929,-118.5697632,Unknown,N,Y,10/16/1953,IdleOG
+-1,403700784,Standard-Sesnon 1,34,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31788635,-118.5666733,Unknown,N,Y, ,IdleOG
+-1,403700785,Standard-Sesnon 1,35,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31784439,-118.5667877,GPS,N,Y, ,IdleOG
+-1,403700037,Fernando Fee,38,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31604385,-118.5444107,GPS,N,Y,10/26/1966,IdleOG
+-1,403730471,Porter,39A,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31256866,-118.5603485,Well Summary,N,Y, ,IdleGS
+-1,403722306,Ward,3A,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31759644,-118.5467377,Well Summary,N,Y,10/10/1981,IdleGS
+-1,403700034,Del Aliso 1,4,Idle,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31827927,-118.5741119,hud,N,Y,5/4/1949,IdleOG
+-1,403700694,Mission Adrian,4,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30537796,-118.5407562,GPS,N,N, ,IdleOG
+-1,403700626,Standard-Sesnon 1,45,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31347275,-118.5640335,GPS,N,N,11/27/1966,IdleOG
+-1,403700014,Standard-Sesnon 1,46,Idle,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31504059,-118.5667267,GPS,N,Y,9/23/1966,IdleOG
+-1,403700758,Standard Sesnon,5,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31380844,-118.5664368,Well Summary,N,Y,2/5/1945,IdleGS
+-1,403700658,Del Aliso 1,5,Idle,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31952667,-118.5730896,GPS,N,N,12/14/1969,IdleOG
+-1,403722309,Mission Adrian,5-A,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30554581,-118.5391006,GPS,N,N,12/5/1981,IdleGS
+-1,403722737,Porter,50A,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31460571,-118.5471191,GPS,N,Y,4/15/1983,IdleGS
+-1,403700742,Porter,57,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31438446,-118.5530853,GPS,N,N, ,IdleOG
+-1,403700745,Porter,60,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31393051,-118.5613327,GPS,N,N, ,IdleOG
+-1,403700746,Porter,61,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3152771,-118.5541077,GPS,N,N, ,IdleOG
+-1,403700039,Porter,63,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3184166,-118.5579224,GPS,N,N,4/21/1953,IdleOG
+-1,403700749,Porter,68,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31622314,-118.5505371,GPS,N,N, ,IdleOG
+-1,403700659,Del Aliso 1,6A,Idle,WD,Water Disposal,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31796646,-118.5739746,GPS,N,N,8/30/1950,IdleWD
+-1,403700760,Standard Sesnon,7,Idle,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31579971,-118.5699234,GPS,N,N,10/14/1945,IdleGS
+-1,403700012,Porter,71,Idle,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31520462,-118.5614471,GPS,N,Y,10/16/1966,IdleOG
+-1,403700662,Del Aliso 1,9,Idle,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.3191452,-118.5730133,GPS,N,N,8/25/1959,IdleOG
+-1,403700673,Orcutt,1,Active,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31945038,-118.5715179,GPS,N,N,8/22/1950,ActiveOG
+-1,403700678,Roosa,1,Active,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.32130814,-118.5776749,GPS,N,N,12/19/1943,ActiveOG
+-1,403722058,Standard Sesnon,Jan-00,Active,OB,Observation,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31829834,-118.5645599,Well Summary,N,Y,5/28/1980,ActiveOB
+-1,403700040,Standard Sesnon,10,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31272507,-118.5721054,GPS,N,N,4/20/1947,ActiveGS
+-1,403700035,Fernando Fee,11,Active,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31497574,-118.545166,GPS,N,N,8/8/1939,ActiveOG
+-1,403724321,Del Aliso,11,Active,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31782913,-118.5767136,Operator,N,Y,9/17/2009,ActiveOG
+-1,403700703,Porter,14,Active,OB,Observation,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31618881,-118.550911,GPS,N,N,5/15/1940,ActiveOB
+-1,403700707,Porter,18,Active,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31779099,-118.5579987,GPS,N,N,10/23/1943,ActiveOG
+-1,403700679,Roosa,2,Active,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.32143402,-118.5823364,GPS,N,Y,4/22/1960,ActiveOG
+-1,403700772,Standard-Sesnon 1,21,Active,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31892395,-118.5679779,GPS,N,N,1/24/1953,ActiveOG
+-1,403700709,Porter,22,Active,OB,Observation,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31458282,-118.5487671,GPS,N,N,4/5/1940,ActiveOB
+-1,403700774,Standard-Sesnon 1,23,Active,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31760025,-118.5702667,GPS,N,N,10/18/1952,ActiveOG
+-1,403700710,Porter,23,Active,WF,Waterflood,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31465912,-118.5508041,GPS,N,N,11/28/1940,ActiveWF
+-1,403700711,Porter,24,Active,WF,Waterflood,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31510544,-118.5527725,Well Summary,N,N,9/14/1940,ActiveWF
+-1,403724143,Porter,24A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.314888,-118.5528641,Well Summary,N,Y,8/5/1993,ActiveGS
+-1,403724144,Porter,24B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31501007,-118.552887,Well Summary,N,Y,7/17/1993,ActiveGS
+-1,403700712,Porter,25R,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3167572,-118.5612412,Well Summary,N,Y,11/12/1949,ActiveGS
+-1,403700713,Porter,26,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3157959,-118.5572281,GPS,N,Y, ,ActiveGS
+-1,403721362,Porter,26A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31570435,-118.5573502,GPS,N,Y, ,ActiveGS
+-1,403721357,Porter,26B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3157196,-118.557312,GPS,N,N, ,ActiveGS
+-1,403721353,Porter,26C,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31573868,-118.5572586,GPS,N,Y,4/18/1973,ActiveGS
+-1,403721320,Porter,26D,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.315758,-118.557172,Well Summary,N,Y,12/18/1972,ActiveGS
+-1,403721319,Porter,26E,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31577301,-118.5571137,Well Summary,N,Y,10/26/1972,ActiveGS
+-1,403700714,Porter,27,Active,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31422043,-118.5574646,GPS,N,N, ,ActiveOG
+-1,403700041,Standard Sesnon,29,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3152771,-118.5665054,Well Summary,N,Y,4/26/1953,ActiveGS
+-1,403724315,Roosa,3,Active,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.32148361,-118.5823517,GPS,N,Y,5/1/2007,ActiveOG
+-1,403700781,Standard Sesnon,31,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31101608,-118.5646591,Well Summary,N,Y,9/14/1953,ActiveGS
+-1,403700686,Fernando Fee,32,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.3131752,-118.5401001,GPS,N,N, ,ActiveGS
+-1,403700719,Porter,32,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31258774,-118.5506134,Well Summary,N,Y,6/1/1944,ActiveGS
+-1,403721872,Fernando Fee,32-A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31318665,-118.540184,Well Summary,N,Y,7/6/1978,ActiveGS
+-1,403721276,Porter,32B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31250381,-118.5505218,GPS,N,Y, ,ActiveGS
+-1,403721358,Fernando Fee,32B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31323242,-118.5399399,GPS,N,N,6/29/1973,ActiveGS
+-1,403721359,Fernando Fee,32C,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31321716,-118.5399857,Well Summary,N,Y,5/16/1973,ActiveGS
+-1,403721360,Porter,32C,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31247711,-118.5504532,GPS,N,N, ,ActiveGS
+-1,403721356,Fernando Fee,32D,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.3132019,-118.5400314,Well Summary,N,Y,4/5/1973,ActiveGS
+-1,403721355,Porter,32D,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31243896,-118.5504227,Well Summary,N,Y,9/26/1973,ActiveGS
+-1,403721313,Fernando Fee,32F,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31306839,-118.5402451,Well Summary,N,N,9/23/1972,ActiveGS
+-1,403730374,Fernando Fee,32G,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31345765,-118.5398358,Well Summary,N,Y,8/13/2014,ActiveGS
+-1,403730456,Fernando Fee,32H,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31349182,-118.5397797,Well Summary,N,Y,6/30/2015,ActiveGS
+-1,403700720,Porter,33,Active,OB,Observation,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31345367,-118.5522537,GPS,N,Y,1/30/1941,ActiveOB
+-1,403722044,Fernando Fee,34-A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30615616,-118.5391312,Well Summary,N,Y,10/5/1979,ActiveGS
+-1,403722302,Fernando Fee,34BR,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30633163,-118.5394134,GPS,N,Y,12/19/1980,ActiveGS
+-1,403721457,Fernando Fee,35A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30873871,-118.5441132,GPS,N,Y,7/16/1974,ActiveGS
+-1,403721458,Fernando Fee,35B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30869293,-118.5441055,GPS,N,Y,8/20/1974,ActiveGS
+-1,403721279,Fernando Fee,35C,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30804443,-118.5442047,Well Summary,N,Y,9/19/1972,ActiveGS
+-1,403721453,Fernando Fee,35D,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30798721,-118.5441513,Well Summary,N,Y,4/16/1974,ActiveGS
+-1,403721278,Fernando Fee,35E,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30794907,-118.5441742,GPS,N,N,7/10/1977,ActiveGS
+-1,403706293,Fernando Fee,36,Active,WD,Water Disposal,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31313324,-118.5402451,GPS,N,Y,9/12/1965,ActiveWD
+-1,403700724,Porter,37,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30954742,-118.550499,Well Summary,N,Y,6/12/1946,ActiveGS
+-1,403700011,Fernando Fee,37,Active,WD,Water Disposal,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31441879,-118.5454102,GPS,N,N,9/28/1966,ActiveWD
+-1,403724230,Fernando Fee,38A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30971909,-118.5445023,Well Summary,N,Y,10/7/2001,ActiveGS
+-1,403724231,Fernando Fee,38B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30966949,-118.5445099,GPS,N,Y,11/1/2001,ActiveGS
+-1,403724232,Fernando Fee,38C,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30966949,-118.5445099,GPS,N,Y,11/19/2001,ActiveGS
+-1,403724320,Roosa,4,Active,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.3213501,-118.5823746,Well Summary,N,Y,11/10/2009,ActiveOG
+-1,403722063,Standard Sesnon,Apr-00,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31496811,-118.5718308,Well Summary,N,N,8/11/1980,ActiveGS
+-1,403721876,Porter,42A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31014633,-118.5542755,GPS,N,Y, ,ActiveGS
+-1,403700731,Porter,44,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31261063,-118.5562363,Well Summary,N,Y,11/11/1955,ActiveGS
+-1,403700788,Standard Sesnon,44,Active,OB,Observation,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31248474,-118.565567,GPS,N,N, ,ActiveOB
+-1,403721361,Standard Sesnon,44B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31243896,-118.5654678,Well Summary,N,N,7/5/1974,ActiveGS
+-1,403700733,Porter,46,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31341934,-118.5569916,Well Summary,N,N,11/2/1943,ActiveGS
+-1,403721375,Standard Sesnon,4A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31512833,-118.5717011,Well Summary,N,Y,11/12/1974,ActiveGS
+-1,403730460,Standard Sesnon,4B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31478882,-118.5718231,Well Summary,N,Y,8/17/2015,ActiveGS
+-1,403700735,Porter,50,Active,WF,Waterflood,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31470871,-118.5470886,GPS,N,N,12/15/1950,ActiveWF
+-1,403724336,Porter,50B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31495667,-118.5473938,Well Summary,N,Y,7/2/2010,ActiveGS
+-1,403724337,Porter,50C,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31504822,-118.5472794,Notice of Intent to Drill,N,Y,6/7/2014,ActiveGS
+-1,403700737,Porter,52,Active,WF,Waterflood,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31287003,-118.5543976,Well Summary,N,N, ,ActiveWF
+-1,403700738,Porter,53,Active,WF,Waterflood,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31304169,-118.5502091,GPS,N,N, ,ActiveWF
+-1,403700739,Porter,54,Active,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31401443,-118.5593872,GPS,N,N, ,ActiveOG
+-1,403700743,Porter,58,Active,OB,Observation,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31443024,-118.550766,GPS,N,N, ,ActiveOB
+-1,403700759,Standard Sesnon,6,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3140564,-118.5700836,Well Summary,N,Y,6/6/1945,ActiveGS
+-1,403722057,Porter,6,Active,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31868744,-118.5559463,GPS,N,Y,6/18/1980,ActiveOG
+-1,403700747,Porter,65,Active,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31844711,-118.559494,GPS,N,N,9/30/1954,ActiveOG
+-1,403700748,Porter,66,Active,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31884766,-118.5612946,GPS,N,N, ,ActiveOG
+-1,403722742,Porter,68A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31597137,-118.550911,Well Summary,N,Y,5/23/1983,ActiveGS
+-1,403724136,Porter,68B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31615829,-118.5508041,GPS,N,Y,5/21/1993,ActiveGS
+-1,403700750,Porter,69,Active,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31489563,-118.5564651,GPS,N,Y, ,ActiveOG
+-1,403722051,Porter,69A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31484604,-118.5568314,Well Summary,N,Y,1/3/1980,ActiveGS
+-1,403724127,Porter,69B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31496811,-118.5568314,GPS,N,Y,1/28/1992,ActiveGS
+-1,403724128,Porter,69C,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31494522,-118.5569611,Well Summary,N,Y,3/19/1992,ActiveGS
+-1,403724130,Porter,69D,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31492233,-118.5572586,Well Summary,N,Y,4/28/1992,ActiveGS
+-1,403724138,Porter,69E,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31481027,-118.5570724,Well Summary,N,Y,6/23/1993,ActiveGS
+-1,403724226,Porter,69F,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31485367,-118.5574951,Well Summary,N,Y,10/7/2001,ActiveGS
+-1,403724225,Porter,69G,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31484985,-118.5576019,Well Summary,N,Y,10/28/2001,ActiveGS
+-1,403724223,Porter,69H,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31483555,-118.5577007,Well Summary,N,Y,11/23/2001,ActiveGS
+-1,403724224,Porter,69J,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31483459,-118.5578156,GPS,N,N,12/12/2001,ActiveGS
+-1,403724236,Porter,69K,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31482087,-118.55793,Well Summary,N,Y,1/1/2002,ActiveGS
+-1,403700751,Porter,70,Active,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31507874,-118.5595169,GPS,N,Y, ,ActiveOG
+-1,403724145,Porter,72A,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31469727,-118.548645,GPS,N,Y,9/20/1993,ActiveGS
+-1,403724146,Porter,72B,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31480408,-118.5485306,GPS,N,Y,9/1/1993,ActiveGS
+-1,403720642,Porter,73,Active,WF,Waterflood,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31443405,-118.5553284,GPS,N,N,9/26/1968,ActiveWF
+-1,403700660,Del Aliso 1,7A,Active,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.32077408,-118.5751343,GPS,N,N,2/13/1951,ActiveOG
+-1,403700761,Standard Sesnon,8,Active,OB,Observation,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31325531,-118.5683365,GPS,N,N,5/14/1946,ActiveOB
+-1,403700661,Del Aliso 1,8B,Active,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31954575,-118.5774918,GPS,N,N,11/25/1956,ActiveOG
+-1,403700762,Standard Sesnon,9,Active,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31352234,-118.5636978,Well Summary,N,Y,11/13/1946,ActiveGS
+-1,403700655,Del Aliso 1,1,Plugged,Multi,Multi-Purpose,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31784058,-118.574028,GPS,N,Y,7/19/1944,PluggedMulti
+-1,403700690,Mission,1,Plugged,DH,Dry Hole,C5640,Chevron U.S.A. Inc.,Aliso Canyon,Any Area,Coastal,Los Angeles,26,03N,16W,SB,34.3134346,-118.5347748,hud,N,N,7/20/1941,PluggedDH
+-1,403721465,Orcutt Trust,1,Plugged,DH,Dry Hole,H4400,"Hilliard Oil & Gas, Inc.",Aliso Canyon,Any Area,Coastal,Los Angeles,20,03N,16W,SB,34.32874298,-118.5810928,hud,N,Y,11/12/1974,PluggedDH
+-1,403700664,Frew 1,1,Plugged,DH,Dry Hole,C5640,Chevron U.S.A. Inc.,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31415176,-118.5864029,hud,N,N,8/1/1943,PluggedDH
+-1,403700682,Fernando Fee,1,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31595612,-118.5441208,Well Summary,N,N,7/27/1942,PluggedOG
+-1,403700681,Ward 3,1,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.32326126,-118.5518646,hud,N,N,6/12/1944,PluggedOG
+-1,403700691,Mission-Adrian Fee,1,Plugged,Multi,Multi-Purpose,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30574417,-118.5441208,hud,N,N,9/14/1946,PluggedMulti
+-1,403700635,Well No.,1,Plugged,DH,Dry Hole,5056,L. A. Ventura Oil Fields Co.,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30944824,-118.5447082,hud,N,N,11/1/1913,PluggedDH
+-1,403700644,Porter Fee,1,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30773544,-118.5481262,hud,N,N,11/30/1945,PluggedGS
+-1,403700639,Max Pray-Mission-Adrian,1,Plugged,DH,Dry Hole,5763,Max Pray,Aliso Canyon,Any Area,Coastal,Los Angeles,35,03N,16W,SB,34.30477524,-118.530838,hud,N,N,10/11/1957,PluggedDH
+-1,403700640,Limekiln,1,Plugged,INJ,Injection,S2700,Porter Sesnon et al,Aliso Canyon,Any Area,Coastal,Los Angeles,33,03N,16W,SB,34.30530548,-118.5557556,hud,N,Y,11/11/1955,PluggedINJ
+-1,403700634,Marquis,1,Plugged,OG,Oil & Gas,E3700,Exxon Mobil Corporation,Aliso Canyon,Any Area,Coastal,Los Angeles,26,03N,16W,SB,34.31056213,-118.5367203,hud,N,N,9/18/1945,PluggedOG
+-1,403700632,Ward,1,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31882095,-118.5480728,hud,N,N,1/14/1932,PluggedOG
+-1,403700674,Orcutt-Del Aliso-Sesnon L.W.,1,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.3177681,-118.5726852,hud,N,Y,11/22/1954,PluggedOG
+-1,403700675,Orcutt-Sesnon L.W.,1,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31971359,-118.5722046,hud,N,Y,4/5/1959,PluggedOG
+-1,403700647,Sesnon Fee,1,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,33,03N,16W,SB,34.30825424,-118.5673981,Well Summary,N,N,11/6/1942,PluggedGS
+-1,403700633,Orcutt,1,Plugged,DH,Dry Hole,3759,Hamilton and Sherman,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.32336044,-118.5631943,hud,N,Y,5/21/1961,PluggedDH
+-1,403700791,Santa Susana Orcutt,27-Jan,Plugged,DH,Dry Hole,U0200,Union Oil Company of California,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31955719,-118.5463409,hud,N,N,1/25/1939,PluggedDH
+-1,403700700,Porter,11,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.40086365,-118.641243,GPS,N,N,5/2/1939,PluggedOG
+-1,403700763,Standard Sesnon,11,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.311306,-118.5663605,Well Summary,N,N,9/14/1947,PluggedGS
+-1,403700764,Standard Sesnon,12,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.30950928,-118.5724182,Well Summary,N,N,2/12/1948,PluggedGS
+-1,403700701,Porter,12,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31565857,-118.5480423,Well Summary,N,N,8/23/1939,PluggedGS
+-1,403700683,Fernando Fee,12,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.3152771,-118.5464706,hud,N,N,1/22/1951,PluggedOG
+-1,403722064,Porter,12A,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31558609,-118.5499115,hud,N,Y,8/5/1980,PluggedOG
+-1,403700702,Porter,13,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.3167038,-118.5507202,hud,N,N,2/7/1940,PluggedOG
+-1,403700765,Standard Sesnon,13,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.30988312,-118.5637207,Well Summary,N,N,10/5/1948,PluggedGS
+-1,403700766,Standard Sesnon,14,Plugged,Multi,Multi-Purpose,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.30951691,-118.569519,Well Summary,N,Y,3/23/1949,PluggedMulti
+-1,403700767,Standard-Sesnon 1,15P,Plugged,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31814575,-118.5657578,hud,N,N,5/7/1949,PluggedOG
+-1,403700705,Porter,16,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31736755,-118.5555191,hud,N,N,9/7/1940,PluggedOG
+-1,403700768,Standard Sesnon,16,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.30969238,-118.5666046,Well Summary,N,N,9/3/1949,PluggedGS
+-1,403700769,Standard Sesnon,17,Plugged,Multi,Multi-Purpose,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31121826,-118.5684891,Well Summary,N,N,3/5/1952,PluggedMulti
+-1,403700770,Standard-Sesnon 1,18,Plugged,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31908798,-118.5712509,hud,N,N,2/22/1951,PluggedOG
+-1,403721891,Mission Adrian,1A,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30532837,-118.5429611,Well Summary,N,N,10/28/1979,PluggedGS
+-1,403700641,Limekiln,2,Plugged,OG,Oil & Gas,S2700,Porter Sesnon et al,Aliso Canyon,Any Area,Coastal,Los Angeles,33,03N,16W,SB,34.30238342,-118.5556946,hud,N,N,4/28/1947,PluggedOG
+-1,403700645,Porter Fee,2,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30830383,-118.5495529,hud,N,N,7/14/1946,PluggedGS
+-1,403700680,Ward,2,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.32047272,-118.554451,hud,N,Y,2/27/1953,PluggedOG
+-1,403700692,Mission-Adrian Fee,2,Plugged,Multi,Multi-Purpose,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30524826,-118.5382309,hud,N,N,1/9/1950,PluggedMulti
+-1,403700656,Del Aliso 1,2,Plugged,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31780243,-118.576767,GPS,N,Y,2/9/1948,PluggedOG
+-1,403700665,Frew,2,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.3154335,-118.5745468,Well Summary,N,N,10/19/1943,PluggedGS
+-1,403700676,Orcutt Trustee,2,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31774902,-118.544632,hud,N,N,12/21/1952,PluggedOG
+-1,403700648,Sesnon Fee,2,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,33,03N,16W,SB,34.3068924,-118.5648575,Well Summary,N,Y,4/21/1953,PluggedGS
+-1,403700755,Standard Sesnon,2,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.314785,-118.5690155,GPS,N,N,3/11/1943,PluggedGS
+-1,403700752,Porter-Sesnon,20,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31827927,-118.5637207,hud,N,N,8/12/1948,PluggedOG
+-1,403700775,Standard Sesnon,24,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31105423,-118.5711517,Well Summary,N,N,2/7/1953,PluggedGS
+-1,403700776,Standard Sesnon,25,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31508255,-118.5640717,Well Summary,N,N,10/1/1953,PluggedGS
+-1,403721322,Standard Sesnon,25A,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31507111,-118.5641327,Well Summary,N,Y,11/2/1972,PluggedGS
+-1,403721323,Standard Sesnon,25B,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31499863,-118.5641556,Well Summary,N,N,2/13/1973,PluggedGS
+-1,403700716,Porter,29,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31396866,-118.5536575,hud,N,N,10/9/1950,PluggedOG
+-1,403705861,Limekiln,3,Plugged,DH,Dry Hole,S2700,Porter Sesnon et al,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30389023,-118.5467529,hud,N,N,5/27/1957,PluggedDH
+-1,403700646,Porter Fee,3,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30810547,-118.548645,hud,N,N,6/12/1952,PluggedGS
+-1,403700657,Del Aliso 1,3,Plugged,OG,Oil & Gas,T1200,The Termo Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31783295,-118.5787659,Well Summary,N,N,8/6/1948,PluggedOG
+-1,403700192,Ward,3,Plugged,OB,Observation,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31773152,-118.5467543,Well Summary,N,Y,3/22/1954,PluggedOB
+-1,403700666,Frew,3,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31560135,-118.5773849,Well Summary,N,N,9/21/1944,PluggedGS
+-1,403700649,Sesnon Fee,3,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,26,03N,16W,SB,34.31229019,-118.5637131,Well Summary,N,N,11/26/1953,PluggedGS
+-1,403700693,Mission Adrian,3,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30541229,-118.5402374,Well Summary,N,N,12/6/1950,PluggedGS
+-1,403700780,Standard Sesnon,30,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3091011,-118.5651093,Well Summary,N,N,8/1/1953,PluggedGS
+-1,403700717,Porter,30,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30939484,-118.5467072,Well Summary,N,Y,5/12/1945,PluggedGS
+-1,403700685,Fernando Fee,31,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30908203,-118.5460739,hud,N,N,5/17/1945,PluggedGS
+-1,403700718,Porter,31,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31040955,-118.5488892,hud,N,N,9/12/1944,PluggedOG
+-1,403700782,Standard-Sesnon 1,32,Plugged,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31801605,-118.5713119,hud,N,Y,9/7/1956,PluggedOG
+-1,403721277,Porter,32A,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31255341,-118.5505753,Well Summary,N,Y,8/13/1972,PluggedGS
+-1,403721363,Porter,32E,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31240845,-118.5503998,Well Summary,N,Y,8/26/1973,PluggedGS
+-1,403721321,Fernando Fee,32E,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31311417,-118.5402069,Well Summary,N,Y,12/6/1972,PluggedGS
+-1,403700688,Fernando Fee,34,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.306633,-118.540329,hud,N,Y,3/28/1951,PluggedGS
+-1,403700721,Porter,34,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31069946,-118.5536957,Well Summary,N,N,12/24/1944,PluggedGS
+-1,403700722,Porter,35,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31160355,-118.5559311,Well Summary,N,Y,4/30/2018,PluggedGS
+-1,403700689,Fernando Fee,35,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30906677,-118.5457611,hud,N,N,9/19/1951,PluggedGS
+-1,403700723,Porter,36,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30957031,-118.552391,Well Summary,N,N,8/1/1953,PluggedGS
+-1,403722046,Porter,37-A,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.30946732,-118.5507965,Well Summary,N,Y,3/28/1980,PluggedGS
+-1,403700725,Porter,38,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31244278,-118.5610504,Well Summary,N,N,2/3/1947,PluggedGS
+-1,403700786,Standard-Sesnon 1,39,Plugged,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3175621,-118.5648956,hud,N,Y,7/17/1954,PluggedOG
+-1,403700726,Porter,39,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31244441,-118.5600212,Well Summary,N,Y,6/29/1947,PluggedGS
+-1,403700677,Orcutt Trustee,3A,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31794357,-118.5445862,hud,N,N,12/10/1953,PluggedOG
+-1,403700756,Standard Sesnon,3H,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31227493,-118.5637054,Well Summary,N,Y,11/29/1943,PluggedGS
+-1,403700757,Standard Sesnon,4,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31506729,-118.5718308,Well Summary,N,N,7/17/1944,PluggedGS
+-1,403700650,Sesnon Fee,4,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,32,03N,16W,SB,34.30785751,-118.5717163,Well Summary,N,N,2/5/1954,PluggedGS
+-1,403700667,Frew,4,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31313705,-118.5747986,Well Summary,N,N,9/20/1947,PluggedGS
+-1,403700699,Porter,4,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31789017,-118.553978,hud,N,N,4/10/1942,PluggedGS
+-1,403700727,Porter,40,Plugged,Multi,Multi-Purpose,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31002045,-118.561058,Well Summary,N,N,4/4/1948,PluggedMulti
+-1,403700787,Standard-Sesnon 1,40,Plugged,OG,Oil & Gas,C9035,Crimson Resource Management Corp.,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31814575,-118.5719147,hud,N,Y,8/27/1954,PluggedOG
+-1,403700728,Porter,41,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3106842,-118.5602264,hud,N,N,11/23/1948,PluggedGS
+-1,403700729,Porter,42,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.30957794,-118.5549011,hud,N,N, ,PluggedOG
+-1,403700753,Porter-Sesnon,42,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31105042,-118.5624619,Well Summary,N,N,9/14/1954,PluggedGS
+-1,403721877,Porter,42B,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31000137,-118.554657,Well Summary,N,Y,12/9/1978,PluggedGS
+-1,403721878,Porter,42C,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31030655,-118.5546341,Well Summary,N,Y,2/18/1979,PluggedGS
+-1,403700730,Porter,43,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.30975723,-118.5584183,hud,N,N, ,PluggedGS
+-1,403721455,Standard Sesnon,44A,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31244659,-118.5655136,Well Summary,N,Y,9/3/1974,PluggedGS
+-1,403700732,Porter,45,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31046295,-118.5493622,Well Summary,N,Y,3/27/1955,PluggedGS
+-1,403700734,Porter,47,Plugged,Multi,Multi-Purpose,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31374359,-118.5601501,Well Summary,N,Y,4/20/1943,PluggedMulti
+-1,403700038,Porter,5,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31905746,-118.5572662,hud,N,N,3/6/1941,PluggedOG
+-1,403700651,Sesnon Fee,5,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,33,03N,16W,SB,34.30681229,-118.5648499,Well Summary,N,Y,4/22/1954,PluggedGS
+-1,403700668,Frew,5,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31259537,-118.5765076,Well Summary,N,Y,5/16/1948,PluggedGS
+-1,403700642,Limekiln,5,Plugged,OG,Oil & Gas,S2700,Porter Sesnon et al,Aliso Canyon,Any Area,Coastal,Los Angeles,33,03N,16W,SB,34.30250931,-118.5593262,hud,N,N, ,PluggedOG
+-1,403700695,Mission Adrian,5,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,34,03N,16W,SB,34.30585098,-118.5404739,hud,N,N, ,PluggedGS
+-1,403700736,Porter,51,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31354904,-118.5578613,hud,N,N, ,PluggedOG
+-1,403700740,Porter,55,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.31361008,-118.5598221,hud,N,N, ,PluggedOG
+-1,403700741,Porter,56,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,28,03N,16W,SB,34.3135643,-118.5618973,hud,N,N, ,PluggedOG
+-1,403700744,Porter,59,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31568909,-118.5495911,hud,N,Y, ,PluggedOG
+-1,403700652,Sesnon Fee,6,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,32,03N,16W,SB,34.30789566,-118.5739059,Well Summary,N,N,7/24/1954,PluggedOG
+-1,403700643,Limekiln,6,Plugged,OG,Oil & Gas,S2700,Porter Sesnon et al,Aliso Canyon,Any Area,Coastal,Los Angeles,33,03N,16W,SB,34.30347061,-118.5629959,hud,N,N, ,PluggedOG
+-1,403700669,Frew,6,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31022644,-118.5750503,Well Summary,N,N,9/20/1948,PluggedGS
+-1,403700670,Frew,7,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31318665,-118.5747681,Well Summary,N,N,11/27/1954,PluggedGS
+-1,403700653,Sesnon Fee,7,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,33,03N,16W,SB,34.30667877,-118.5684509,Well Summary,N,Y,9/21/1955,PluggedOG
+-1,403700696,Mission-Adrian Fee,7,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,35,03N,16W,SB,34.30502319,-118.5362473,hud,N,N, ,PluggedOG
+-1,403700013,Porter,72,Plugged,OG,Oil & Gas,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,27,03N,16W,SB,34.31581879,-118.5498047,hud,N,Y,10/26/1966,PluggedOG
+-1,403700671,Frew,8,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31119537,-118.5751572,Well Summary,N,N,5/10/1955,PluggedGS
+-1,403700654,Sesnon Fee,8,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,33,03N,16W,SB,34.30689621,-118.5706711,Well Summary,N,N,12/31/1956,PluggedGS
+-1,403700672,Frew,9,Plugged,GS,Gas Storage,S4700,Southern California Gas Company,Aliso Canyon,Any Area,Coastal,Los Angeles,29,03N,16W,SB,34.31097794,-118.5794373,GPS,N,N, ,PluggedGS
+-1,403700800,Park Bodger,1,Plugged,OG,Oil & Gas,G2810,"Grayson Service, Inc.",Alondra (ABD),Any Area,Southern,Los Angeles,22,03S,14W,SB,33.88781738,-118.3357239,GPS,N,N, ,PluggedOG
+-1,403702080,Bodger,1,Plugged,OG,Oil & Gas,P1400,Hondo Oil & Gas Company,Alondra (ABD),Any Area,Southern,Los Angeles,22,03S,14W,SB,33.89195633,-118.3364029,hud,N,N, ,PluggedOG
+-1,403700804,Sovereign-Long,1,Plugged,OG,Oil & Gas,7997,Soverign Oil Corp.,Alondra (ABD),Any Area,Southern,Los Angeles,22,03S,14W,SB,33.88991165,-118.3279266,hud,N,N, ,PluggedOG
+-1,403700801,Park Community,1,Plugged,OG,Oil & Gas,P1400,Hondo Oil & Gas Company,Alondra (ABD),Any Area,Southern,Los Angeles,22,03S,14W,SB,33.89001846,-118.3301239,hud,N,N, ,PluggedOG
+-1,403700802,Village Community,1,Plugged,OG,Oil & Gas,P1400,Hondo Oil & Gas Company,Alondra (ABD),Any Area,Southern,Los Angeles,22,03S,14W,SB,33.89292908,-118.3368378,hud,N,N, ,PluggedOG
+-1,403700803,Village Community,2,Plugged,OG,Oil & Gas,P1400,Hondo Oil & Gas Company,Alondra (ABD),Any Area,Southern,Los Angeles,22,03S,14W,SB,33.88950348,-118.3290176,hud,N,N, ,PluggedOG
+-1,403700042,British-American-Texas Bodger,2,Plugged,OG,Oil & Gas,P1400,Hondo Oil & Gas Company,Alondra (ABD),Any Area,Southern,Los Angeles,22,03S,14W,SB,33.89083862,-118.3393478,hud,N,N, ,PluggedOG
+-1,403700797,Bodger,3,Plugged,OG,Oil & Gas,P1400,Hondo Oil & Gas Company,Alondra (ABD),Any Area,Southern,Los Angeles,22,03S,14W,SB,33.89385605,-118.3357697,hud,N,N, ,PluggedOG
+-1,405900430,Foiles,1,Plugged,OG,Oil & Gas,O8125,Sun Exploration & Production Co.,Anaheim (ABD),Any Area,Southern,Orange,22,04S,10W,SB,33.81470871,-117.9100723,hud,N,N, ,PluggedOG
+-1,405900429,Holsinger,1,Plugged,OG,Oil & Gas,5842,McVicar-Rood-Hall,Anaheim (ABD),Any Area,Southern,Orange,22,04S,10W,SB,33.81564713,-117.9112167,hud,N,N, ,PluggedOG
+-1,402120833,Afton Lake,1,Plugged,DG,Dry Gas,R4085,"Royale Energy, Inc.",Angel Slough Gas (ABD),Any Area,Northern,Glenn,23,18N,01W,MD,39.40292358,-121.9431076,GPS,N,N,10/16/2004,PluggedDG
+-1,402120002,Beck Unit,1,Plugged,DH,Dry Hole,L0850,Layne Oil Co.,Angel Slough Gas (ABD),Any Area,Northern,Glenn,23,18N,01W,MD,39.40441513,-121.9476166,hud,N,N,6/6/1967,PluggedDH
+-1,402100019,Angel Slough Operating Unit,1,Plugged,GAS,Gas,E3700,Exxon Mobil Corporation,Angel Slough Gas (ABD),Any Area,Northern,Glenn,23,18N,01W,MD,39.39563751,-121.9424362,hud,N,N,5/20/1960,PluggedGAS
+-1,402120792,Bonaire,14-1,Plugged,DG,Dry Gas,R4085,"Royale Energy, Inc.",Angel Slough Gas (ABD),Any Area,Northern,Glenn,14,18N,01W,MD,39.40748596,-121.9413376,GPS,N,N,6/4/2001,PluggedDG
+-1,402100020,John R. Hulen ut ux,2,Plugged,DH,Dry Hole,E3700,Exxon Mobil Corporation,Angel Slough Gas (ABD),Any Area,Northern,Glenn,23,18N,01W,MD,39.40110779,-121.9424439,hud,N,N,6/23/1960,PluggedDH
+-1,402120010,Hullen,3,Plugged,DH,Dry Hole,7175,Ratterree Land Co.,Angel Slough Gas (ABD),Any Area,Northern,Glenn,23,18N,01W,MD,39.39702606,-121.9461975,hud,N,N,12/20/1968,PluggedDH
+-1,403047239,Southern Pacific,11H,Canceled,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40129089,-118.860405,Operator,N,N, ,CanceledOG
+-1,403047176,Siegfus,31X-22,Canceled,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39749527,-118.8558884,Operator,N,N, ,CanceledOG
+-1,403024366,Southern Pacific,5H,Canceled,OG,Oil & Gas,S6360,"Stockdale Oil & Gas, Inc.",Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40458298,-118.8504715,mip,N,N, ,CanceledOG
+-1,403025015,Southern Pacific,6H,Canceled,OG,Oil & Gas,S6360,"Stockdale Oil & Gas, Inc.",Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40361023,-118.8499374,mip,N,N, ,CanceledOG
+-1,403025016,Southern Pacific,7H,Canceled,OG,Oil & Gas,S6360,"Stockdale Oil & Gas, Inc.",Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40510559,-118.8564835,mip,N,N, ,CanceledOG
+-1,403001416,"Lease by Stockdale Oil & Gas, Inc.",UC75,Canceled,OG,Oil & Gas,S6360,"Stockdale Oil & Gas, Inc.",Ant Hill,Any Area,Inland,Kern,21,29S,29E,MD,35.39701843,-118.8634338,mip,N,N, ,CanceledOG
+-1,403001839,Siegfus,USC-2,Canceled,OG,Oil & Gas,S6360,"Stockdale Oil & Gas, Inc.",Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39805222,-118.8596878,mip,N,N, ,CanceledOG
+-1,403031134,Southern Pacific,10H,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40274811,-118.8572006,GPS,N,N, ,IdleOG
+-1,402900904,Siegfus,122,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39706039,-118.8600006,GPS,N,N, ,IdleOG
+-1,403016308,Siegfus,1H,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39388657,-118.8607254,GPS,N,N, ,IdleOG
+-1,402904004,Siegfus,2122,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39701462,-118.8580704,GPS,N,N, ,IdleOG
+-1,402904006,Siegfus,222,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39521408,-118.8602753,GPS,N,N, ,IdleOG
+-1,402904008,Siegfus,2222,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39525604,-118.8580399,GPS,N,N, ,IdleOG
+-1,402900905,Southern Pacific,2715,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40065002,-118.8580399,GPS,N,N, ,IdleOG
+-1,402904007,Siegfus,3122,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39697647,-118.8559875,GPS,N,N, ,IdleOG
+-1,402900952,Southern Pacific,35-15,Idle,WD,Water Disposal,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40447998,-118.8562317,GPS,N,N, ,IdleWD
+-1,402900956,Southern Pacific,38-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39881897,-118.8560028,GPS,N,N, ,IdleOG
+-1,402904009,Siegfus,4222,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39525604,-118.8534775,GPS,N,N, ,IdleOG
+-1,403024365,Southern Pacific,4H,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40458679,-118.849884,GPS,N,N, ,IdleOG
+-1,402900961,Southern Pacific,5715,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40029144,-118.8518066,GPS,N,N, ,IdleOG
+-1,402900958,Southern Pacific,5815,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39875412,-118.8513794,GPS,N,N, ,IdleOG
+-1,403028718,Southern Pacific,5H,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39915848,-118.855423,GPS,N,N, ,IdleOG
+-1,402900522,Unspecified,81,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,21,29S,29E,MD,35.39702988,-118.8620071,GPS,N,N, ,IdleOG
+-1,402904018,Unspecified,82A-21,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,21,29S,29E,MD,35.39545059,-118.8616333,GPS,N,N, ,IdleOG
+-1,403031317,Southern Pacific,9H,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39844131,-118.8601151,GPS,N,N, ,IdleOG
+-1,403046703,Southern Pacific,C-37-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40148926,-118.8550644,Well Summary,N,Y,3/31/2012,IdleOG
+-1,403001866,Southern Pacific,C-45,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40338516,-118.8526688,GPS,N,N, ,IdleOG
+-1,402988119,Southern Pacific,C-7,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39953613,-118.8590012,GPS,N,N, ,IdleOG
+-1,402904012,Siegfus,C122,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39638901,-118.8591766,GPS,N,N, ,IdleOG
+-1,402900971,Southern Pacific,C5715,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39963913,-118.8508453,GPS,N,N, ,IdleOG
+-1,403001417,Unspecified,UC76,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,21,29S,29E,MD,35.3958931,-118.8627167,GPS,N,N, ,IdleOG
+-1,403020637,Southern Pacific,2H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40314102,-118.8499527,GPS,N,N, ,ActiveOG
+-1,402904005,Siegfus,3222,Active,WD,Water Disposal,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39525223,-118.8559265,GPS,N,N, ,ActiveWD
+-1,403031133,Southern Pacific,8H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40171051,-118.8597946,GPS,N,N, ,ActiveOG
+-1,403022600,Southern Pacific,WA 3H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40069199,-118.8605652,GPS,N,N, ,ActiveOG
+-1,402968980,Samson-SP,1,Plugged,OG,Oil & Gas,2037,Dale Hankins,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40019608,-118.8473663,GPS,N,N, ,PluggedOG
+-1,402904013,Lease by C. W. Bloemer,1,Plugged,OG,Oil & Gas,1165,C. W. Bloemer,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.3954277,-118.8616409,GPS,N,N, ,PluggedOG
+-1,402932090,Bravo,15-1,Plugged,DH,Dry Hole,6209,"Nelson and Cox, Operator",Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40885925,-118.8478928,hud,N,N, ,PluggedDH
+-1,402942822,Murano,16-1,Plugged,OG,Oil & Gas,5172,Lacal Oil Corp. and Lyle A. Garner,Ant Hill,Any Area,Inland,Kern,16,29S,29E,MD,35.40289688,-118.8688507,hud,N,N, ,PluggedOG
+-1,402900960,Southern Pacific,2815,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39883041,-118.8579636,GPS,N,N, ,PluggedOG
+-1,402904010,Siegfus,22-Mar,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39370728,-118.860321,hud,N,N, ,PluggedOG
+-1,402900951,Southern Pacific,36-15,Plugged,INJ,Injection,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40235519,-118.8561706,GPS,N,N, ,PluggedINJ
+-1,402900953,Southern Pacific,3715,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40062714,-118.8560791,GPS,N,N, ,PluggedOG
+-1,402904003,Siegfus,4122,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.3969574,-118.8535843,GPS,N,N, ,PluggedOG
+-1,402900968,Southern Pacific,4615,Plugged,WD,Water Disposal,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40231323,-118.853714,GPS,N,N, ,PluggedWD
+-1,402900896,Southern Pacific,4715,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40059662,-118.8536301,GPS,N,N, ,PluggedOG
+-1,402900959,Southern Pacific,4815,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.3987999,-118.8536529,GPS,N,N, ,PluggedOG
+-1,402904002,King,5122,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39696121,-118.8513336,GPS,N,N, ,PluggedOG
+-1,402900975,King,52-22,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39538956,-118.8513947,hud,N,N, ,PluggedOG
+-1,402900967,Southern Pacific,54-15,Plugged,OG,Oil & Gas,A1700,Amerada Hess Corp.,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40621185,-118.8516769,hud,N,N, ,PluggedOG
+-1,402900966,Southern Pacific,55-15,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40435028,-118.851654,hud,N,N, ,PluggedOG
+-1,402900965,Southern Pacific,5615,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40228653,-118.8516617,GPS,N,N, ,PluggedOG
+-1,402900957,Southern Pacific,15-Jun,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40249252,-118.8604965,hud,N,N, ,PluggedOG
+-1,402904001,King,61-22,Plugged,OG,Oil & Gas,A1700,Amerada Hess Corp.,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39720154,-118.849266,hud,N,N, ,PluggedOG
+-1,402940487,Lease by Chevron U.S.A. Inc.,62,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Ant Hill,Any Area,Inland,Kern,21,29S,29E,MD,35.39544296,-118.8661194,hud,N,N, ,PluggedOG
+-1,402940331,Unspecified,63,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,21,29S,29E,MD,35.39380646,-118.8663101,GPS,N,N, ,PluggedOG
+-1,402900963,Southern Pacific,6615,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40235138,-118.8492508,GPS,N,N, ,PluggedOG
+-1,402900962,Southern Pacific,6715,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.4005394,-118.8499527,GPS,N,N, ,PluggedOG
+-1,402904019,Unspecified,71,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,21,29S,29E,MD,35.39742661,-118.8638687,GPS,N,N, ,PluggedOG
+-1,402900955,Southern Pacific,715,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40067673,-118.8602676,GPS,N,N, ,PluggedOG
+-1,402904017,Unspecified,72,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,21,29S,29E,MD,35.39547729,-118.8639221,GPS,N,N, ,PluggedOG
+-1,402900964,Southern Pacific,76-15,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40221024,-118.8470612,GPS,N,N, ,PluggedOG
+-1,402900954,Southern Pacific,15-Aug,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39890289,-118.8602676,GPS,N,N, ,PluggedOG
+-1,402904016,Lease by Chevron U.S.A. Inc.,4-Aug,Plugged,OG,Oil & Gas,C5640,Chevron U.S.A. Inc.,Ant Hill,Any Area,Inland,Kern,21,29S,29E,MD,35.39379883,-118.8664398,hud,N,N, ,PluggedOG
+-1,402904014,Parker Fee,87-16,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,16,29S,29E,MD,35.40102386,-118.8618546,hud,N,N, ,PluggedOG
+-1,402904015,Parker Fee,88-16,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,16,29S,29E,MD,35.39882278,-118.8619995,GPS,N,N, ,PluggedOG
+-1,402949558,Southern Pacific,A-68-15,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.3986702,-118.8500214,GPS,N,N, ,PluggedOG
+-1,402900974,Southern Pacific,C-55-15,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40349579,-118.8505325,hud,N,N, ,PluggedOG
+-1,402904011,Siegfus,C3122,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,22,29S,29E,MD,35.39610291,-118.8548431,GPS,N,N, ,PluggedOG
+-1,402900973,Southern Pacific,C3715,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39995575,-118.8545837,GPS,N,N, ,PluggedOG
+-1,402900972,Southern Pacific,C4615,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40141678,-118.8527679,GPS,N,N, ,PluggedOG
+-1,402900970,Southern Pacific,C47-15,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.39982224,-118.8526382,hud,N,N, ,PluggedOG
+-1,402900969,Southern Pacific,C5615,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,Ant Hill,Any Area,Inland,Kern,15,29S,29E,MD,35.40171814,-118.8508987,GPS,N,N, ,PluggedOG
+-1,402954798,Voigt,5-Feb,Canceled,OG,Oil & Gas,G0300,G.E.C. Oil and Gas Operations,Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.52032852,-119.8337784,mip,N,N, ,CanceledOG
+-1,402954799,Voigt,5-Mar,Canceled,OG,Oil & Gas,G0300,G.E.C. Oil and Gas Operations,Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.52667999,-119.8420868,mip,N,N, ,CanceledOG
+-1,403031629,Voigt,502-5,Canceled,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52403259,-119.845787,mip,N,N, ,CanceledOG
+-1,403031631,Voigt,504-5,Canceled,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51988983,-119.8447342,mip,N,N, ,CanceledOG
+-1,403037557,Williams,702-6,Canceled,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52259827,-119.8656387,mip,N,N, ,CanceledOG
+-1,402923907,Pickrell-Williams,1,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51361465,-119.8489838,GPS,N,N, ,IdleOG
+-1,402951328,Voigt,5-Jan,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.5226326,-119.8501358,GPS,N,N, ,IdleOG
+-1,402947042,Voigt,6-Jan,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.5233345,-119.8505859,GPS,N,N, ,IdleOG
+-1,403006912,Phippen,11A,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51016998,-119.8461762,GPS,N,N, ,IdleOG
+-1,402913493,Williams,175-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51946259,-119.8546753,GPS,N,N, ,IdleOG
+-1,402960382,Soenco Mitchel,1T,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.51271057,-119.8517609,GPS,N,N, ,IdleOG
+-1,402913466,Williams,23-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.5229454,-119.8646088,GPS,N,N, ,IdleOG
+-1,402913496,Williams,233-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52203751,-119.8634491,GPS,N,N, ,IdleOG
+-1,402901327,Williams,243-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52219772,-119.8601685,GPS,N,N, ,IdleOG
+-1,402913464,Williams,6-Mar,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52289581,-119.8670044,GPS,N,N, ,IdleOG
+-1,403030628,Voigt,32X-5,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.5216713,-119.8448563,GPS,N,N,7/10/2006,IdleOG
+-1,402913472,Williams,35-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51939774,-119.8622436,GPS,N,N, ,IdleOG
+-1,402923910,Pickrell-Williams,4,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51480865,-119.8496246,GPS,N,N, ,IdleOG
+-1,402919709,Phippen,4,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51026154,-119.8485794,GPS,N,N, ,IdleOG
+-1,402913487,Williams,42X-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52405167,-119.8600845,GPS,N,N, ,IdleOG
+-1,402913475,Williams,45-6,Idle,DG,Dry Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51937103,-119.8600082,GPS,N,N, ,IdleDG
+-1,402923911,Pickrell-Williams,5,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51367188,-119.8470993,GPS,N,N, ,IdleOG
+-1,402955240,Williams,5/5/2006,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52199554,-119.8623581,GPS,N,N, ,IdleOG
+-1,402901199,Pickrell-Mitchel,5-A,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.51264572,-119.852005,GPS,N,N, ,IdleOG
+-1,403031497,Voigt,501-5,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52166748,-119.8437271,GPS,N,N, ,IdleOG
+-1,402913503,Williams,505-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.5188446,-119.8565979,GPS,N,N,12/28/1944,IdleOG
+-1,402919696,Voigt,52-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52422333,-119.8578262,GPS,N,N, ,IdleOG
+-1,402919704,Voigt,535-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.5226326,-119.8578262,GPS,N,N, ,IdleOG
+-1,402919705,Voigt,537-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52187347,-119.8581696,GPS,N,N, ,IdleOG
+-1,402973709,Williams,5.45E-04,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51945496,-119.857193,GPS,N,N, ,IdleOG
+-1,402913476,Williams,55-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.5194664,-119.8578033,GPS,N,N, ,IdleOG
+-1,402913441,Hopkins A,56X-31,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53117752,-119.8584061,GPS,N,N, ,IdleOG
+-1,402913479,Williams,66-6,Idle,DG,Dry Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51802444,-119.8555908,hud,N,N, ,IdleDG
+-1,402913480,Williams,67-6,Idle,DG,Dry Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51583481,-119.8555679,GPS,N,N, ,IdleDG
+-1,402923913,Pickrell-Williams,7,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51366806,-119.8460159,GPS,N,N, ,IdleOG
+-1,402913448,Williams,72-1,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,1,28S,19E,MD,35.52470779,-119.8715744,GPS,N,N, ,IdleOG
+-1,402913488,Williams,74X-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51955795,-119.8539581,GPS,N,N, ,IdleOG
+-1,402913484,Williams,78-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51411438,-119.8533936,GPS,N,N, ,IdleOG
+-1,403021150,Voigt,780-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52316284,-119.8574677,GPS,N,N, ,IdleOG
+-1,403024369,Williams,783-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51761627,-119.8535156,GPS,N,N, ,IdleOG
+-1,403024913,Williams,787-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51859283,-119.8569794,GPS,N,Y, ,IdleOG
+-1,403028878,Williams,790-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52514267,-119.8615036,GPS,N,N, ,IdleOG
+-1,402919713,Phippen,8,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51301193,-119.8474884,GPS,N,N, ,IdleOG
+-1,403030627,Voigt,83X-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52347565,-119.851326,mip,N,N,9/26/2006,IdleOG
+-1,403041103,Williams,844A-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52192688,-119.8603516,Well Summary,N,N,8/13/2010,IdleOG
+-1,402913485,Williams,87-6,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51600266,-119.8512039,GPS,N,N, ,IdleOG
+-1,402919714,Phippen,9,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.50933838,-119.8474274,GPS,N,N, ,IdleOG
+-1,402923914,Pickrell-Mitchel,1,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.51272583,-119.8504105,GPS,N,N, ,ActiveOG
+-1,402919715,Phippen,10,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51210785,-119.846405,GPS,N,N, ,ActiveOG
+-1,403026621,Pickrell-Williams,10,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51530838,-119.8471451,GPS,N,N, ,ActiveOG
+-1,402948670,Phippen,15,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.50683975,-119.8446045,GPS,N,N, ,ActiveOG
+-1,402973707,Williams,1.65E-04,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51906967,-119.8553009,GPS,N,N, ,ActiveOG
+-1,402913494,Williams,176-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51843262,-119.854599,GPS,N,N, ,ActiveOG
+-1,402913495,Williams,177-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51738358,-119.8542175,GPS,N,N, ,ActiveOG
+-1,402961879,Phippen,18,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51153183,-119.8491821,GPS,N,N, ,ActiveOG
+-1,402923908,Pickrell-Williams,2,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51361084,-119.8496018,GPS,N,N, ,ActiveOG
+-1,402923915,Pickrell-Mitchel,2,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.51262665,-119.8504028,GPS,N,N, ,ActiveOG
+-1,402919707,Phippen,2,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51296997,-119.8495789,GPS,N,N, ,ActiveOG
+-1,402913463,Williams,6-Feb,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52471924,-119.867096,GPS,N,N, ,ActiveOG
+-1,402913467,Williams,24-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.5211525,-119.864624,GPS,N,N, ,ActiveOG
+-1,402913497,Williams,244-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52117538,-119.8609924,GPS,N,N, ,ActiveOG
+-1,403034180,Williams,25-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52018738,-119.8647003,GPS,N,N, ,ActiveOG
+-1,402913498,Williams,274-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52000427,-119.8547287,GPS,N,N, ,ActiveOG
+-1,402913499,Williams,275-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51900864,-119.8546448,GPS,N,N, ,ActiveOG
+-1,402913500,Williams,276-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51792526,-119.8543854,GPS,N,N, ,ActiveOG
+-1,402913501,Williams,277-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51676178,-119.8536606,GPS,N,N, ,ActiveOG
+-1,402961031,Soenco Mitchel,2T,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.51283646,-119.8524475,GPS,N,N, ,ActiveOG
+-1,402923916,Pickrell-Mitchel,3,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.51116562,-119.8504868,GPS,N,N, ,ActiveOG
+-1,402923909,Pickrell-Williams,3,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51362228,-119.8480911,GPS,N,N, ,ActiveOG
+-1,402913502,Williams,303-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52212906,-119.8611374,GPS,N,N, ,ActiveOG
+-1,402913470,Williams,33-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52299881,-119.8622513,GPS,N,N, ,ActiveOG
+-1,402913471,Williams,34-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52116776,-119.8622894,GPS,N,N, ,ActiveOG
+-1,402913437,Hopkins A,37X-31,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.52910614,-119.8616715,GPS,N,N, ,ActiveOG
+-1,402923917,Pickrell-Mitchel,4,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.51206207,-119.851593,GPS,N,N, ,ActiveOG
+-1,402973708,Williams,4.05E-04,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52007294,-119.8594818,GPS,N,N, ,ActiveOG
+-1,402913473,Williams,43-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52305222,-119.8600388,GPS,N,N, ,ActiveOG
+-1,402901325,Williams,44-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52124023,-119.8600769,GPS,N,N, ,ActiveOG
+-1,402913439,Hopkins A,47-31,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53026199,-119.86026,GPS,N,N, ,ActiveOG
+-1,402913440,Hopkins A,48X-31,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.52896118,-119.859787,GPS,N,N, ,ActiveOG
+-1,403006825,Phippen,4A,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51024246,-119.8486023,GPS,N,N, ,ActiveOG
+-1,402923918,Pickrell-Mitchel,5,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.51256943,-119.8519592,GPS,N,N, ,ActiveOG
+-1,402919702,Voigt,503-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52191925,-119.8566589,GPS,N,N, ,ActiveOG
+-1,402919703,Voigt,504-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52101898,-119.8566208,GPS,N,N, ,ActiveOG
+-1,402919697,Voigt,53-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52279663,-119.8577042,GPS,N,N, ,ActiveOG
+-1,402919698,Voigt,54-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52092361,-119.8577881,GPS,N,N, ,ActiveOG
+-1,402913477,Williams,56-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51766968,-119.8578339,GPS,N,N, ,ActiveOG
+-1,402923912,Pickrell-Williams,6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51367569,-119.846962,GPS,N,N, ,ActiveOG
+-1,402919706,Voigt,604-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52061844,-119.8545075,GPS,N,N, ,ActiveOG
+-1,402913504,Williams,605-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51990509,-119.8544617,GPS,N,N, ,ActiveOG
+-1,402913443,Hopkins A,62X-31,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53941345,-119.8557816,GPS,N,N, ,ActiveOG
+-1,402919699,Voigt,63-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52217484,-119.8552933,GPS,N,N, ,ActiveOG
+-1,403040124,Williams,634-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.5211792,-119.8634415,Operator,N,N,4/16/2010,ActiveOG
+-1,402919700,Voigt,64-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52101135,-119.8556519,GPS,N,N, ,ActiveOG
+-1,402913478,Williams,65-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51950073,-119.8555145,GPS,N,N, ,ActiveOG
+-1,403040125,Williams,691-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52620697,-119.8619308,Well Summary,N,Y,4/20/2010,ActiveOG
+-1,402919712,Phippen,7,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51119614,-119.8473129,GPS,N,N, ,ActiveOG
+-1,403037506,Williams,701,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,1,28S,19E,MD,35.52376938,-119.8688355,Operator,N,N,11/8/2008,ActiveOG
+-1,402973710,Williams,7.06E-04,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51865768,-119.8538895,GPS,N,N, ,ActiveOG
+-1,402913481,Williams,75-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51953506,-119.8533783,GPS,N,N, ,ActiveOG
+-1,402913489,Williams,75X-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51812363,-119.8531799,GPS,N,N, ,ActiveOG
+-1,402901326,Williams,76-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51774597,-119.8534317,GPS,N,N, ,ActiveOG
+-1,402913490,Williams,76X-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51685333,-119.8525925,GPS,N,N, ,ActiveOG
+-1,402913483,Williams,77-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51589584,-119.8534012,GPS,N,N, ,ActiveOG
+-1,403019011,Voigt,777-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52079773,-119.8553238,GPS,N,Y,10/18/2001,ActiveOG
+-1,403020374,Voigt,778-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52186966,-119.8568192,GPS,N,N, ,ActiveOG
+-1,403020375,Williams,779-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51976013,-119.855896,GPS,N,N, ,ActiveOG
+-1,402913491,Williams,77X-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51579285,-119.8531113,GPS,N,N, ,ActiveOG
+-1,403021151,Voigt,781-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52458572,-119.8582993,GPS,N,Y, ,ActiveOG
+-1,403024367,Voigt,782-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52283478,-119.8574066,GPS,N,Y,2/25/2004,ActiveOG
+-1,403024368,Voigt,784-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52417755,-119.8580551,GPS,N,Y,3/7/2004,ActiveOG
+-1,403024618,Williams,785-6,Active,PM,Pressure Maintenance,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51987457,-119.8565292,GPS,N,N, ,ActivePM
+-1,403024619,Williams,786-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52405548,-119.8596344,GPS,N,N, ,ActiveOG
+-1,403028146,Williams,788-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52521133,-119.8599625,GPS,N,N, ,ActiveOG
+-1,403028877,Williams,789-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52636337,-119.8607941,GPS,N,N, ,ActiveOG
+-1,402913492,Williams,78X-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51485443,-119.852066,GPS,N,N, ,ActiveOG
+-1,403032413,Williams,791-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52578735,-119.8614349,GPS,N,N, ,ActiveOG
+-1,403026120,Williams,792-6,Active,PM,Pressure Maintenance,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52256012,-119.8598785,GPS,N,N, ,ActivePM
+-1,403037738,Williams,793-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52702713,-119.8629303,Operator,N,N,11/20/2008,ActiveOG
+-1,403037402,Voigt,835-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52258301,-119.8579407,Operator,N,N,10/12/2008,ActiveOG
+-1,403041102,Williams,835A-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52059555,-119.8613434,Operator,N,N,8/17/2010,ActiveOG
+-1,403036527,Williams,843-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52281189,-119.8594208,GPS,N,N,6/21/2008,ActiveOG
+-1,403039560,Voigt,843L-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.5224762,-119.8587952,Well Summary,N,Y,11/30/2009,ActiveOG
+-1,403039561,Williams,844-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52141953,-119.8590012,Operator,N,N,11/22/2009,ActiveOG
+-1,403039563,Williams,845-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52058411,-119.8591003,Operator,N,N,12/11/2009,ActiveOG
+-1,403041104,Williams,845A-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52056885,-119.8603058,Operator,N,N,8/7/2010,ActiveOG
+-1,403038696,Voigt,854-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52155685,-119.8572617,Operator,N,N,6/6/2009,ActiveOG
+-1,403039562,Voigt,855L-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52050781,-119.8580856,Operator,N,N,12/6/2009,ActiveOG
+-1,403038697,Williams,856-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51991272,-119.856842,Operator,N,N,5/31/2009,ActiveOG
+-1,403037403,Williams,865-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51980591,-119.8559265,GPS,N,N,10/16/2008,ActiveOG
+-1,402913486,Williams,88-6,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.51359177,-119.8505859,GPS,N,N, ,ActiveOG
+-1,403026099,Pickrell-Williams,9,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51448822,-119.8468094,GPS,N,N, ,ActiveOG
+-1,402937442,Williams,1,Plugged,DH,Dry Hole,3117,Fred L. Williams,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51733398,-119.8468018,hud,N,N, ,PluggedDH
+-1,402925996,Palomar-Voigt,1,Plugged,DH,Dry Hole,6631,Palomar Oil and Refining Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52719879,-119.8581467,hud,N,N, ,PluggedDH
+-1,402937113,Continental-Texas Fee,1,Plugged,DH,Dry Hole,1828,Continental Oil Company,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.50868225,-119.8422012,hud,N,N, ,PluggedDH
+-1,402945836,Earl Cole,1,Plugged,DH,Dry Hole,8160,"Supreme Oil & Gas Corp., Operator",Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.52050781,-119.8394546,hud,N,N, ,PluggedDH
+-1,402913459,Voigt Three,1,Plugged,DH,Dry Hole,S3100,Shell Western E&P Inc.,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52292633,-119.8474426,hud,N,N, ,PluggedDH
+-1,402919695,Voigt B,1,Plugged,DH,Dry Hole,C5640,Chevron U.S.A. Inc.,Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.51568985,-119.8262177,hud,N,N, ,PluggedDH
+-1,402925846,Voigt-Custodian,1-Jan,Plugged,DH,Dry Hole,T1400,Tesoro Petroleum Corp.,Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.52222061,-119.8282547,hud,N,N, ,PluggedDH
+-1,403038483,Hankins,31-Jan,Plugged,OG,Oil & Gas,P1450,"Pacific Coast Exploration, LLC",Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53556824,-119.8580475,Operator,N,N,3/11/2009,PluggedOG
+-1,402972224,Chevron-Voigt,4-Jan,Plugged,DH,Dry Hole,C5640,Chevron U.S.A. Inc.,Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.51773071,-119.827179,hud,N,N, ,PluggedDH
+-1,402937137,Mitchel-Goodstein-Voigt,5-Jan,Plugged,DH,Dry Hole,3469,Golden Bear Oil Company,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52380371,-119.8470459,hud,N,N, ,PluggedDH
+-1,403003865,Skate,6-Jan,Plugged,OG,Oil & Gas,O2080,Onesta Corp.,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52342224,-119.8633957,hud,N,N, ,PluggedOG
+-1,403067394,Unspecified,7-Jan,New,OG,Oil & Gas,11116,West Bay Exploration Company,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.50702926,-119.8530053,Notice of Intent to Drill,Y,Y, ,NewOG
+-1,402925847,Voigt,11,Plugged,DH,Dry Hole,T1400,Tesoro Petroleum Corp.,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52653885,-119.8489227,hud,N,N, ,PluggedDH
+-1,402919716,Phippen,11,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51016235,-119.8462677,Operator,N,N, ,PluggedOG
+-1,402919717,Phippen,12,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.50745773,-119.8473053,hud,N,N, ,PluggedDH
+-1,402945577,Phippen,13,Plugged,WD,Water Disposal,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.5111351,-119.8449326,hud,N,N,6/19/1970,PluggedWD
+-1,402945734,Voigt,14X,Plugged,DH,Dry Hole,T3000,Tiger Oil Co.,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52121735,-119.8485489,hud,N,N, ,PluggedDH
+-1,402952058,Voigt Great Basins,16X,Plugged,DH,Dry Hole,G0300,G.E.C. Oil and Gas Operations,Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.51745605,-119.8311539,hud,N,N,10/12/1975,PluggedDH
+-1,403006684,Phippen,19,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.50829315,-119.8467483,hud,N,N, ,PluggedOG
+-1,402937441,Lease by Fred L. Williams,2,Plugged,DH,Dry Hole,3117,Fred L. Williams,Antelope Hills,Williams,Inland,Kern,1,28S,19E,MD,35.52403259,-119.8751526,hud,N,N, ,PluggedDH
+-1,402925997,Voigt,2,Plugged,DH,Dry Hole,6631,Palomar Oil and Refining Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52747726,-119.8562775,hud,N,N, ,PluggedDH
+-1,402913462,Voigt,6-Feb,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52632141,-119.8545608,hud,N,N, ,PluggedDH
+-1,402949936,Voigt,6-Feb,Plugged,OG,Oil & Gas,G0300,G.E.C. Oil and Gas Operations,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52428055,-119.8516006,hud,N,N, ,PluggedOG
+-1,402919708,Phippen,3,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51106262,-119.8495712,Operator,N,N, ,PluggedOG
+-1,402950548,Voigt,6-Mar,Plugged,OG,Oil & Gas,G0300,G.E.C. Oil and Gas Operations,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.5154686,-119.8527069,hud,N,N, ,PluggedOG
+-1,402913428,Core Hole,32-31,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53955078,-119.8623733,hud,N,N, ,PluggedCH
+-1,402913468,Williams,32-6,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52478027,-119.8622513,GPS,N,N, ,PluggedOG
+-1,402913469,Williams,32A-6,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52476883,-119.8622665,hud,N,N, ,PluggedOG
+-1,402913451,Shell-Intex Voigt,33-4,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.52326965,-119.8266754,Unknown,N,N, ,PluggedDH
+-1,402959304,Voigt,1-Apr,Plugged,DH,Dry Hole,P4800,Pyramid Oil Company,Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.51685715,-119.8261719,hud,N,N, ,PluggedDH
+-1,402937433,Nepple Custodian,14-Apr,Plugged,OG,Oil & Gas,2715,"Estate of Edward A. Nepple, W. A. MacMullen, Trustee",Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.52140427,-119.8315277,hud,N,N, ,PluggedOG
+-1,402937434,Nepple Custodian,15-Apr,Plugged,OG,Oil & Gas,2715,"Estate of Edward A. Nepple, W. A. MacMullen, Trustee",Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.51984024,-119.8314591,hud,N,N, ,PluggedOG
+-1,402937435,Nepple Custodian,16-Apr,Plugged,OG,Oil & Gas,2715,"Estate of Edward A. Nepple, W. A. MacMullen, Trustee",Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.5186615,-119.8314896,hud,N,N, ,PluggedOG
+-1,402913465,Williams,6-Apr,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52109528,-119.8670731,GPS,N,N, ,PluggedOG
+-1,402913429,Core Hole,46,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53289795,-119.8627777,hud,N,N, ,PluggedCH
+-1,402913438,Hopkins A,46X-31,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53216553,-119.8606644,hud,N,N, ,PluggedDH
+-1,402913454,Core Hole,49A,Plugged,CH,Core Hole,S3100,Shell Western E&P Inc.,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52559662,-119.8461456,hud,N,N, ,PluggedCH
+-1,402919710,Phippen,5,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51205444,-119.8484268,GPS,N,N, ,PluggedOG
+-1,402960806,Voigt,1-May,Plugged,DH,Dry Hole,P4800,Pyramid Oil Company,Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.52495575,-119.8342438,hud,N,N, ,PluggedDH
+-1,402937436,Nepple Custodian,May-73,Plugged,DH,Dry Hole,2715,"Estate of Edward A. Nepple, W. A. MacMullen, Trustee",Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.52242661,-119.8348694,hud,N,N, ,PluggedDH
+-1,402937437,Nepple Custodian,May-75,Plugged,DH,Dry Hole,2715,"Estate of Edward A. Nepple, W. A. MacMullen, Trustee",Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.51960373,-119.8345032,hud,N,N, ,PluggedDH
+-1,402937438,Nepple Custodian,May-83,Plugged,DH,Dry Hole,2715,"Estate of Edward A. Nepple, W. A. MacMullen, Trustee",Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.52246475,-119.8334351,hud,N,N, ,PluggedDH
+-1,402937439,Nepple Custodian,May-84,Plugged,OG,Oil & Gas,2715,"Estate of Edward A. Nepple, W. A. MacMullen, Trustee",Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.52125549,-119.8333664,hud,N,N, ,PluggedOG
+-1,402937440,Nepple Custodian,May-85,Plugged,OG,Oil & Gas,2715,"Estate of Edward A. Nepple, W. A. MacMullen, Trustee",Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.51977921,-119.8328628,hud,N,N, ,PluggedOG
+-1,403031630,Voigt,503-5,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52603149,-119.8477554,mip,N,N, ,PluggedOG
+-1,402913430,Core Hole,51,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.54143143,-119.8556137,hud,N,N, ,PluggedCH
+-1,402913431,Core Hole,52,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.52822495,-119.8657913,hud,N,N, ,PluggedCH
+-1,402913450,Core Hole,53,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Nepple Gas (ABD),Inland,Kern,4,28S,20E,MD,35.52370453,-119.8283539,hud,N,N, ,PluggedCH
+-1,402977276,Hopkins A,53-31,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53796768,-119.8584213,Operator,N,N, ,PluggedOG
+-1,402913455,Core Hole,54,Plugged,CH,Core Hole,S3100,Shell Western E&P Inc.,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52256012,-119.8486481,hud,N,N, ,PluggedCH
+-1,402913442,Hopkins A,57X-31,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.5294342,-119.857933,GPS,N,N, ,PluggedOG
+-1,402919711,Phippen,6,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.50932693,-119.8494949,hud,N,N, ,PluggedDH
+-1,402913452,Antelope Hills,60,Plugged,DH,Dry Hole,S3100,Shell Western E&P Inc.,Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.51615524,-119.8372345,hud,N,N, ,PluggedDH
+-1,402913453,Antelope Hills,61,Plugged,DH,Dry Hole,S3100,Shell Western E&P Inc.,Antelope Hills,Nepple Gas (ABD),Inland,Kern,5,28S,20E,MD,35.51356125,-119.8400421,hud,N,N, ,PluggedDH
+-1,402913432,Core Hole,62,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.52801895,-119.8575592,hud,N,N, ,PluggedCH
+-1,402913433,Core Hole,63,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53134155,-119.8564377,hud,N,N, ,PluggedCH
+-1,402913461,Antelope Hills,64,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52361679,-119.8584824,hud,N,N, ,PluggedDH
+-1,402946151,Shell Hopkins,64X-31,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53532028,-119.8563995,hud,N,N, ,PluggedDH
+-1,402913434,Core Hole,66,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.54120255,-119.8502655,hud,N,N, ,PluggedCH
+-1,402913444,Hopkins A,66X-31,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53237152,-119.8568573,hud,N,N, ,PluggedDH
+-1,402913435,Core Hole,67,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.54060745,-119.8509521,hud,N,N, ,PluggedCH
+-1,403038877,Aera,67X-36,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,36,27S,19E,MD,35.53112411,-119.8747482,Operator,N,N,6/11/2009,PluggedOG
+-1,402913505,Core Hole,69,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,8,28S,20E,MD,35.51115417,-119.8474731,hud,N,N, ,PluggedCH
+-1,402921748,Antelope Fee,1-Jul,Plugged,DH,Dry Hole,C5640,Chevron U.S.A. Inc.,Antelope Hills,Williams,Inland,Kern,7,28S,20E,MD,35.51242828,-119.8554382,hud,N,N, ,PluggedDH
+-1,402913445,Hopkins A,71X-31,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.54120255,-119.8531876,GPS,N,N, ,PluggedOG
+-1,402913436,Core Hole,72,Plugged,CH,Core Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53106689,-119.8665314,hud,N,N, ,PluggedCH
+-1,402913447,Hopkins Fee,72X-31,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.53950882,-119.8539658,mip,N,N, ,PluggedDH
+-1,402913460,Antelope,73,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52419281,-119.8534393,hud,N,N, ,PluggedDH
+-1,402913456,Voigt Core Hole,74,Plugged,CH,Core Hole,S3100,Shell Western E&P Inc.,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52625656,-119.8455429,hud,N,N, ,PluggedCH
+-1,402919701,Voigt,74-6,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,6,28S,20E,MD,35.52096176,-119.8534088,hud,N,N, ,PluggedOG
+-1,402913457,Voigt Core Hole,75,Plugged,CH,Core Hole,S3100,Shell Western E&P Inc.,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52716446,-119.8450088,hud,N,N, ,PluggedCH
+-1,402913458,Voigt Core Hole,76,Plugged,CH,Core Hole,S3100,Shell Western E&P Inc.,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.52141953,-119.842392,hud,N,N, ,PluggedCH
+-1,402913446,Hopkins A,78-31,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Hopkins,Inland,Kern,31,27S,20E,MD,35.52882385,-119.853363,hud,N,N, ,PluggedDH
+-1,402901071,Pickrell-Williams,8,Plugged,DH,Dry Hole,P3300,D. J. Pickrell,Antelope Hills,Williams,Inland,Kern,5,28S,20E,MD,35.51845551,-119.8425598,hud,N,N, ,PluggedDH
+-1,402913449,Williams,82-1,Plugged,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,Antelope Hills,Williams,Inland,Kern,1,28S,19E,MD,35.52473831,-119.869339,GPS,N,N, ,PluggedOG
+-1,402945904,Hopkins B,23-Jan,Canceled,OG,Oil & Gas,7819,Shell Oil Company,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56787109,-119.9007492,mip,N,N, ,CanceledOG
+-1,403038523,Carlton Investment,15R-15,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57629395,-119.9064331,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403040181,Chapman Fee,358,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58564377,-119.9188385,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403042733,Carlton Investment,358A,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57891846,-119.9070129,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403042735,Carlton Investment,367A,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57844543,-119.9088058,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403061778,Lease by California Resources Production Corporation,36H-14,Canceled,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57451248,-119.8971863,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403037686,Carlton Investment,375I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5803566,-119.909874,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403039416,Chapman Fee,449-15,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58298874,-119.914917,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403039414,Carlton Investment,451-15,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58198166,-119.9134598,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403039415,Carlton Investment,453-15,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58082581,-119.9121857,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403043398,Carlton Investment,500I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5818367,-119.9164505,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403060781,Carlton Investment,500Xi,Canceled,INJ,Injection,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58098221,-119.9143066,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403043399,Carlton Investment,501I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58077621,-119.9150314,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403060780,Carlton Investment,501Xi,Canceled,INJ,Injection,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58098221,-119.9143066,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403043400,Carlton Investment,502I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5796814,-119.9136658,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403043401,Carlton Investment,503I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57890701,-119.9127808,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403043402,Carlton Investment,504I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57793427,-119.9116898,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403043403,Carlton Investment,505I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57667542,-119.9101715,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403037165,Carlton Investment,507I-15,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57405853,-119.9082947,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403043404,Carlton Investment,508I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57667542,-119.9101715,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403037164,Carlton Investment,508I-15,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57282257,-119.9076538,GPS,N,Y, ,CanceledOG
+-1,403057032,Carlton Investment,509i,Canceled,INJ,Injection,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57460022,-119.9066467,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403043405,Carlton Investment,509I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57471466,-119.9077148,Operator,N,N, ,CanceledINJ
+-1,403061691,Carlton Investment,509Xi,Canceled,INJ,Injection,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57474518,-119.9067383,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403043649,Carlton Investment,512I,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58018875,-119.9145584,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403043650,Carlton Investment,513I,Canceled,SF,Steamflood,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57379532,-119.9073563,Notice of Intent to Drill,N,N, ,CanceledSF
+-1,403057134,Carlton Investment,513i,Canceled,INJ,Injection,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57382965,-119.9061356,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403060779,Carlton Investment,513Xi,Canceled,INJ,Injection,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57374191,-119.9060822,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403043651,Carlton Investment,514I,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5729866,-119.9069824,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403038525,Carlton Investment,601I-15,Canceled,INJ,Injection,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57581329,-119.9065018,Notice of Intent to Drill,N,N, ,CanceledINJ
+-1,403061690,Carlton Investment,702H,Canceled,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57868958,-119.9045715,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403042616,Carlton Investment,7R,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57577133,-119.9081192,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403058284,Hopkins B,804H-23,Canceled,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.57118607,-119.8950729,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403058285,Hopkins B,805H-23,Canceled,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56454086,-119.8916244,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,403042737,Carlton Investment,903,Canceled,OG,Oil & Gas,V1370,Vintage Production California LLC,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57492447,-119.9112778,Notice of Intent to Drill,N,N, ,CanceledOG
+-1,402945794,Carlton Investment,15-Jan,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57632828,-119.909874,GPS,N,N, ,IdleOG
+-1,402975564,Carlton Investment,15-Oct,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57133484,-119.903862,GPS,N,N, ,IdleOG
+-1,403053264,Chapman Fee,105,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58363342,-119.920845,Well Summary,N,Y,3/18/2014,IdleOG
+-1,403053440,Carlton Investment,117H,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57690811,-119.9097366,Well Summary,N,N,3/28/2014,IdleOG
+-1,402985911,Carlton Investment,15-Dec,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58185959,-119.9137802,GPS,N,N, ,IdleOG
+-1,403000432,Chapman Fee,15-228,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5823288,-119.9160004,GPS,N,N, ,IdleOG
+-1,402985837,Chapman Fee,15-413,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58552551,-119.919075,GPS,N,N, ,IdleOG
+-1,403000433,Chapman Fee,15-416,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58309555,-119.9191666,GPS,N,N, ,IdleOG
+-1,402985835,Chapman Fee,15-427,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58246231,-119.9176712,GPS,N,N, ,IdleOG
+-1,402985836,Chapman Fee,15-432,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58242798,-119.9170837,GPS,N,N, ,IdleOG
+-1,403000434,Chapman Fee,15-633,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58232117,-119.9094009,GPS,N,N, ,IdleOG
+-1,402975565,Carlton Investment,16-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58046722,-119.9109268,GPS,N,N, ,IdleOG
+-1,402980245,Carlton Investment,19-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5799408,-119.9095993,GPS,N,N, ,IdleOG
+-1,402919719,Effie Martin,2,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57216644,-119.896431,GPS,N,N, ,IdleOG
+-1,402945843,Carlton Investment,15-Feb,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57833099,-119.9097519,GPS,N,N, ,IdleOG
+-1,402980247,Carlton Investment,26-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57923889,-119.9075546,GPS,N,N, ,IdleOG
+-1,402975567,Carlton Investment,27-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58037186,-119.9089203,GPS,N,N, ,IdleOG
+-1,402974839,Carlton Investment,296-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57355499,-119.9057846,GPS,N,N, ,IdleOG
+-1,402974840,Carlton Investment,298-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57538605,-119.9069672,GPS,N,N, ,IdleOG
+-1,402973313,Carlton Investment,299-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57470703,-119.9068909,GPS,N,N, ,IdleOG
+-1,402974836,Carlton Investment,30-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57732773,-119.9045792,GPS,N,N, ,IdleOG
+-1,402974841,Carlton Investment,300-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57743454,-119.9107742,GPS,N,N, ,IdleOG
+-1,402969793,Carlton Investment,301-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57612228,-119.9087524,GPS,N,N, ,IdleOG
+-1,402974866,Carlton Investment,302-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57842255,-119.9126816,GPS,N,N, ,IdleOG
+-1,402969792,Carlton Investment,303-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57700729,-119.9101944,GPS,N,N, ,IdleOG
+-1,402969791,Carlton Investment,305-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57778549,-119.9113998,GPS,N,N, ,IdleOG
+-1,402974843,Carlton Investment,306-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57909393,-119.9135895,GPS,N,N, ,IdleOG
+-1,402974844,Carlton Investment,307-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57956314,-119.9128265,GPS,N,N, ,IdleOG
+-1,402973314,Carlton Investment,309-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57976151,-119.9150009,GPS,N,N, ,IdleOG
+-1,402974845,Carlton Investment,310-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58050919,-119.9155273,GPS,N,N, ,IdleOG
+-1,402974846,Carlton Investment,311-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58114624,-119.9163132,GPS,N,N, ,IdleOG
+-1,402974848,Carlton Investment,313-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58156967,-119.9171448,GPS,N,N, ,IdleOG
+-1,402974849,Carlton Investment,314-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58189774,-119.9162598,GPS,N,N, ,IdleOG
+-1,403040182,Hopkins B,316A-23,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56848526,-119.8989563,Operator,N,N,6/24/2010,IdleOG
+-1,403001344,Carlton Investment,32-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57846069,-119.9193344,GPS,N,N, ,IdleOG
+-1,403008296,Carlton Investment,320-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57934952,-119.9144363,GPS,N,N, ,IdleOG
+-1,403023951,Carlton Investment,323H-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58000565,-119.9149704,Well Summary,N,N, ,IdleOG
+-1,403027461,Carlton Investment,325H-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57899857,-119.9125137,GPS,N,N, ,IdleOG
+-1,403040130,Carlton Investment,334,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58171082,-119.9117966,Operator,N,N,5/23/2010,IdleOG
+-1,402974837,Carlton Investment,34-15,Idle,WS,Water Source,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58119965,-119.9082718,GPS,N,N, ,IdleWS
+-1,403033546,Carlton Investment,350H-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57676315,-119.9057159,GPS,N,N, ,IdleOG
+-1,403042734,Carlton Investment,358B,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58049393,-119.9084015,Well Summary,N,Y,3/26/2011,IdleOG
+-1,403037121,Carlton Investment,358H-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57633972,-119.9044418,GPS,N,N, ,IdleOG
+-1,403040379,Chapman Fee,359,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58550262,-119.9179916,Operator,N,N,4/20/2010,IdleOG
+-1,403037122,Carlton Investment,360H-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58068466,-119.9091034,Operator,N,N,9/14/2008,IdleOG
+-1,403037162,Fee,362H,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57670975,-119.9023666,Operator,N,N,9/3/2008,IdleOG
+-1,403039378,Chapman Fee,362I,Idle,OB,Observation,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58282089,-119.9142837,Operator,N,N,10/15/2009,IdleOB
+-1,403040158,Carlton Investment,363I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58176804,-119.9117889,Well Summary,N,Y,5/21/2010,IdleSF
+-1,403037123,Carlton Investment,364H-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58042145,-119.9083481,GPS,N,N, ,IdleOG
+-1,403039379,Carlton Investment,364I,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58093643,-119.9119415,Well Summary,N,Y,10/12/2009,IdleSF
+-1,403037535,Carlton Investment,365I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57994843,-119.9107742,GPS,N,N,10/7/2008,IdleSF
+-1,403037536,Carlton Investment,366I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57897186,-119.9096298,GPS,N,N,10/5/2008,IdleSF
+-1,403037538,Carlton Investment,367I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5779686,-119.9084244,GPS,N,N,10/11/2008,IdleSF
+-1,403037615,Carlton Investment,368I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57729721,-119.9077072,GPS,N,N,10/15/2008,IdleSF
+-1,403037616,Carlton Investment,369I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57639694,-119.9061661,GPS,N,N,10/13/2008,IdleSF
+-1,403040159,Carlton Investment,370I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57510757,-119.9042206,Operator,N,Y,6/12/2010,IdleSF
+-1,403040160,Carlton Investment,371I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57365799,-119.9040832,Well Summary,N,Y,6/7/2010,IdleSF
+-1,403040157,Effie Martin,372I,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57250214,-119.9032517,Operator,N,N,6/22/2010,IdleSF
+-1,403037539,Carlton Investment,401I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58009338,-119.9134521,GPS,N,N,10/17/2008,IdleSF
+-1,403037540,Carlton Investment,403I-15,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57880783,-119.9117203,GPS,N,N,10/19/2008,IdleSF
+-1,403040123,Chapman Fee,414I,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58321381,-119.9169311,Operator,N,N,4/25/2010,IdleSF
+-1,403043043,Chapman Fee,415,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58462143,-119.9181061,Operator,N,N,3/4/2011,IdleOG
+-1,403042767,Chapman Fee,418,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58559036,-119.9203033,Operator,N,N,3/9/2011,IdleOG
+-1,402913511,Hopkins B,41X-23,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.57046509,-119.8952713,GPS,N,N, ,IdleOG
+-1,402972593,Carlton Investment,430-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5801506,-119.9135742,GPS,N,N, ,IdleOG
+-1,403035827,Carlton Investment,452H-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58039474,-119.913269,Well Summary,N,Y, ,IdleOG
+-1,403039342,Carlton Investment,455-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58008957,-119.911026,Operator,N,N,10/2/2009,IdleOG
+-1,403039343,Carlton Investment,457-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57887268,-119.9099197,Operator,N,N,10/22/2009,IdleOG
+-1,403039344,Carlton Investment,459-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57790375,-119.9082413,Operator,N,N,10/27/2009,IdleOG
+-1,402913506,Fussel Fee,47X-14,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57359314,-119.8962784,GPS,N,N, ,IdleOG
+-1,402913507,Fussel Fee,48X-14,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57355499,-119.8970337,GPS,N,N, ,IdleOG
+-1,402969794,Carlton Investment,15-May,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57662582,-119.9085312,GPS,N,N,11/2/1983,IdleOG
+-1,402980393,Effie Martin,50,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57237625,-119.90242,GPS,N,N, ,IdleOG
+-1,403053272,Carlton Investment,505i,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57676315,-119.9106293,Well Summary,N,Y,3/13/2014,IdleSF
+-1,403037167,Carlton Investment,506I-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57518387,-119.9091492,Well Summary,N,N, ,IdleOG
+-1,403053411,Carlton Investment,512ix,Idle,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58012772,-119.914444,Well Summary,N,Y,3/4/2014,IdleSF
+-1,403001571,Effie Martin,52,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57132721,-119.8992538,GPS,N,N, ,IdleOG
+-1,403040122,Chapman Fee,521,Idle,OB,Observation,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5833931,-119.9180145,Well Summary,N,Y,4/23/2010,IdleOB
+-1,403001343,Fee,54,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57616043,-119.9028473,GPS,N,N, ,IdleOG
+-1,403042766,Carlton Investment,546H,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57957077,-119.9122086,Well Summary,N,N,4/6/2011,IdleOG
+-1,403040110,Carlton Investment,548H,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57939148,-119.9120026,Well Summary,N,Y,5/1/2010,IdleOG
+-1,402913514,Hopkins B,55X-23,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56220245,-119.89328,GPS,N,N, ,IdleOG
+-1,402975563,Carlton Investment,15-Jun,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58013916,-119.9122314,GPS,N,N, ,IdleOG
+-1,402913515,Hopkins B,61X-23,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.5687561,-119.893158,GPS,N,N, ,IdleOG
+-1,402913516,Hopkins B,62X-23,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56759644,-119.8918152,GPS,N,N, ,IdleOG
+-1,402985906,Carlton Investment,15-Jul,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57556915,-119.9081116,GPS,N,N, ,IdleOG
+-1,403037163,Carlton Investment,700-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58205795,-119.9092865,GPS,N,N,9/21/2008,IdleOG
+-1,403037523,Carlton Investment,701-15,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57882309,-119.9056396,GPS,N,N,11/3/2008,IdleOG
+-1,402913518,Hopkins B,73X-23,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56578445,-119.8896408,GPS,N,N, ,IdleOG
+-1,403040059,Carlton Investment,801,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57462692,-119.9093781,Well Summary,N,Y,2/18/2011,IdleOG
+-1,403042736,Carlton Investment,804,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57530594,-119.9108429,Operator,N,Y,3/22/2011,IdleOG
+-1,403060857,Hopkins B,807H-25,Idle,UNK,Unknown,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,25,27S,19E,MD,35.551479,-119.881571,Well Summary,N,N,10/19/2016,IdleUNK
+-1,402913529,Hopkins B,81X-26,Idle,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,26,27S,19E,MD,35.55614853,-119.8860016,GPS,N,N, ,IdleOG
+-1,403040060,Carlton Investment,902,Idle,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57408905,-119.9102478,Well Summary,N,N,4/17/2010,IdleOG
+-1,402985796,Chapman Fee,WD1,Idle,WD,Water Disposal,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58240891,-119.920517,Operator,N,N, ,IdleWD
+-1,402987781,Carlton Investment,WW1,Idle,WD,Water Disposal,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57419968,-119.9093247,GPS,N,N, ,IdleWD
+-1,403001586,Fussel Fee,14-Jan,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57326889,-119.9029465,GPS,N,N, ,ActiveOG
+-1,402982599,Carlton Investment,15-Nov,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5734024,-119.9043655,GPS,N,N, ,ActiveOG
+-1,403053439,Carlton Investment,115H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58137512,-119.9151535,Well Summary,N,Y,3/7/2014,ActiveOG
+-1,403053441,Carlton Investment,118H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57488632,-119.9067917,Well Summary,N,Y,3/22/2014,ActiveOG
+-1,402985912,Carlton Investment,13-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57638168,-119.9073181,GPS,N,N, ,ActiveOG
+-1,402973310,Carlton Investment,14-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57528687,-119.9054565,GPS,N,N, ,ActiveOG
+-1,402980244,Carlton Investment,15-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57631683,-119.9063187,GPS,N,N, ,ActiveOG
+-1,402973311,Carlton Investment,17-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57239914,-119.9045105,GPS,N,N, ,ActiveOG
+-1,403001587,Fussel Fee,14-Feb,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57430267,-119.9030075,GPS,N,N, ,ActiveOG
+-1,402974834,Carlton Investment,20-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57404709,-119.9038467,GPS,N,N, ,ActiveOG
+-1,402974835,Carlton Investment,21-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5777359,-119.9077148,GPS,N,N, ,ActiveOG
+-1,402985913,Carlton Investment,22-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57501984,-119.9038086,GPS,N,N, ,ActiveOG
+-1,402975566,Carlton Investment,23-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57664871,-119.9049301,GPS,N,N, ,ActiveOG
+-1,403044560,Lease by California Resources Production Corporation,23H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.58184814,-119.9025879,Operator,N,Y,4/30/2012,ActiveOG
+-1,402980246,Carlton Investment,25-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57813644,-119.9064941,GPS,N,N, ,ActiveOG
+-1,402972592,Carlton Investment,290-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5741806,-119.9053574,GPS,N,N, ,ActiveOG
+-1,402945869,Carlton Investment,15-Mar,Active,WD,Water Disposal,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5755806,-119.9089661,GPS,N,N, ,ActiveWD
+-1,402974842,Carlton Investment,304-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57920837,-119.9121628,GPS,N,N, ,ActiveOG
+-1,402974847,Carlton Investment,312-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58165359,-119.9155502,GPS,N,N, ,ActiveOG
+-1,402974850,Carlton Investment,315-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58195877,-119.9177628,GPS,N,N, ,ActiveOG
+-1,402974851,Carlton Investment,316-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58197784,-119.9150009,GPS,N,N, ,ActiveOG
+-1,403008297,Carlton Investment,321-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58033371,-119.9144287,GPS,N,N, ,ActiveOG
+-1,403022777,Carlton Investment,322H-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58190918,-119.917038,GPS,N,N, ,ActiveOG
+-1,403040129,Fee,323A,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57527161,-119.9031677,Well Summary,N,Y,6/9/2010,ActiveOG
+-1,403027460,Carlton Investment,324H-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57953644,-119.9126663,GPS,N,N, ,ActiveOG
+-1,403027552,Carlton Investment,326H-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57345581,-119.9052658,GPS,N,N, ,ActiveOG
+-1,403027553,Carlton Investment,327H-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57149887,-119.9053726,GPS,N,N, ,ActiveOG
+-1,403034338,Carlton Investment,352H-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57952881,-119.9095535,Unknown,N,N,11/23/2007,ActiveOG
+-1,403035823,Carlton Investment,354H-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57752228,-119.9060745,GPS,N,N, ,ActiveOG
+-1,403035824,Carlton Investment,356H-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57963943,-119.9090042,GPS,N,N, ,ActiveOG
+-1,403037537,Carlton Investment,400I-15,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5813446,-119.9145584,GPS,N,N,10/9/2008,ActiveSF
+-1,403038524,Carlton Investment,402I-15,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57953262,-119.9122772,Operator,N,N,4/24/2010,ActiveSF
+-1,403037541,Carlton Investment,404I-15,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57759857,-119.9099121,GPS,N,N, ,ActiveSF
+-1,403040161,Carlton Investment,405I-15,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57191849,-119.9047852,Operator,N,N,6/17/2010,ActiveSF
+-1,403043516,Carlton Investment,406I-15,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5759697,-119.9072342,Operator,N,N,4/1/2011,ActiveSF
+-1,403043517,Carlton Investment,407I-15,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57321167,-119.9056396,Operator,N,N,4/3/2011,ActiveSF
+-1,403040162,Carlton Investment,412I-15,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58213806,-119.9156418,Operator,N,N,4/27/2010,ActiveSF
+-1,402972594,Carlton Investment,435-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5807991,-119.9151916,GPS,N,N, ,ActiveOG
+-1,403042765,Carlton Investment,444H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58169174,-119.9128494,Operator,N,N,4/14/2011,ActiveOG
+-1,403040109,Carlton Investment,446H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57984161,-119.9110107,Operator,N,N,5/17/2010,ActiveOG
+-1,403039345,Carlton Investment,448H-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57743835,-119.9089813,Well Summary,N,Y,10/31/2009,ActiveOG
+-1,403035826,Carlton Investment,450H-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57857132,-119.9092789,GPS,N,N, ,ActiveOG
+-1,403040131,Carlton Investment,453,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58061218,-119.9116516,Operator,N,N,5/26/2010,ActiveOG
+-1,403037406,Carlton Investment,456H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5808754,-119.9123688,Unknown,N,N,10/11/2008,ActiveOG
+-1,403042617,Carlton Investment,460,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57547379,-119.9053116,Operator,N,N,3/13/2011,ActiveOG
+-1,403040132,Carlton Investment,461,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57624435,-119.9065704,Operator,N,N,6/14/2010,ActiveOG
+-1,403040133,Carlton Investment,462,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57471085,-119.9050522,Well Summary,N,N,5/29/2010,ActiveOG
+-1,403040134,Carlton Investment,463,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57384491,-119.9046249,Well Summary,N,Y,6/1/2010,ActiveOG
+-1,403040135,Carlton Investment,465,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57305908,-119.9042816,Well Summary,N,Y,6/4/2010,ActiveOG
+-1,403040136,Carlton Investment,467,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57211304,-119.9044189,Operator,N,N,6/19/2011,ActiveOG
+-1,403053269,Carlton Investment,502i,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57949448,-119.9138336,Well Summary,N,Y,3/7/2014,ActiveSF
+-1,403053270,Carlton Investment,503i,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57891083,-119.912941,Well Summary,N,Y,3/9/2014,ActiveSF
+-1,403053271,Carlton Investment,504i,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57756042,-119.911499,Well Summary,N,Y,3/11/2014,ActiveSF
+-1,403053273,Carlton Investment,508i,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57616043,-119.9095764,Well Summary,N,Y,3/13/2014,ActiveSF
+-1,403001342,Effie Martin,51,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57242203,-119.9008255,GPS,N,N, ,ActiveOG
+-1,403037730,Carlton Investment,510I-15,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57338333,-119.9067688,GPS,N,N,11/14/2008,ActiveOG
+-1,403042618,Carlton Investment,511,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5722084,-119.9061127,Well Summary,N,Y,3/18/2011,ActiveOG
+-1,402913512,Hopkins B,51X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.57026291,-119.8938751,GPS,N,N, ,ActiveOG
+-1,403040137,Carlton Investment,550H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.577034,-119.9094238,Operator,N,N,5/13/2010,ActiveOG
+-1,403040111,Carlton Investment,552H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58028793,-119.9138489,Well Summary,N,Y,5/5/2010,ActiveOG
+-1,403040195,Carlton Investment,554H,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57786942,-119.9096756,Well Summary,N,Y,5/9/2010,ActiveOG
+-1,403033549,Carlton Investment,600I-15,Active,SF,Steamflood,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57473755,-119.9059906,hud,N,N,7/20/2007,ActiveSF
+-1,402913517,Hopkins B,63X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56547165,-119.8922577,GPS,N,N, ,ActiveOG
+-1,403034142,Hopkins B,65X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56399918,-119.8909988,GPS,N,N,10/13/2007,ActiveOG
+-1,402913519,Hopkins B,74X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56397629,-119.8896866,GPS,N,N, ,ActiveOG
+-1,402913520,Hopkins B,75X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56216812,-119.8897324,GPS,N,N, ,ActiveOG
+-1,402913521,Hopkins B,78X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.55761337,-119.8882294,GPS,N,N, ,ActiveOG
+-1,403055005,Hopkins B,801H-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56454086,-119.8901062,Well Summary,N,Y,6/1/2014,ActiveOG
+-1,403055006,Hopkins B,802H-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.5581398,-119.8868866,Well Summary,N,Y,7/1/2014,ActiveOG
+-1,403055007,Hopkins B,803H-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56455612,-119.890213,Well Summary,N,Y,6/13/2014,ActiveOG
+-1,402913522,Hopkins B,86X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56072998,-119.8884201,GPS,N,N, ,ActiveOG
+-1,403040126,Hopkins B,875X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56401443,-119.8910294,Operator,N,N,4/10/2010,ActiveOG
+-1,402913523,Hopkins B,87X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.5588913,-119.8882217,GPS,N,N, ,ActiveOG
+-1,402913524,Hopkins B,88X-23,Active,OG,Oil & Gas,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.55765915,-119.8869095,GPS,N,N, ,ActiveOG
+-1,402972591,Carlton Investment,15-Sep,Active,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57867813,-119.911171,GPS,N,N, ,ActiveOG
+-1,403041336,Carlton Investment,WW2,Active,WD,Water Disposal,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57748032,-119.9134674,Operator,N,N,8/24/2010,ActiveWD
+-1,403053229,Carlton Investment,WWD4,Active,WD,Water Disposal,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57431412,-119.9076538,Well Summary,N,Y, ,ActiveWD
+-1,402923924,Wm. L. Hernstadt,1,Plugged,DH,Dry Hole,9252,William L. Hernstadt,"Antelope Hills, North",Any Area,Inland,Kern,24,27S,19E,MD,35.56288147,-119.8802643,hud,N,N, ,PluggedDH
+-1,402947209,Shell-Getty,1,Plugged,DH,Dry Hole,C1360,CalResources LLC,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57571411,-119.8878479,mip,N,N, ,PluggedDH
+-1,402915025,Martin Core Hole,1,Plugged,CH,Core Hole,S2630,"Seneca Resources Company, LLC","Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58287048,-119.9152756,Operator,N,N, ,PluggedCH
+-1,402919718,Effie Martin,1,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57207489,-119.8947601,hud,N,N, ,PluggedOG
+-1,403029524,Alessandria,1,Plugged,DH,Dry Hole,E0100,E & B Natural Resources Management Corporation,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56497955,-119.9017181,hud,N,N, ,PluggedDH
+-1,402941782,Shell-Fee,24-Jan,Plugged,DH,Dry Hole,C4200,Cayman Corporation,"Antelope Hills, North",Any Area,Inland,Kern,24,27S,19E,MD,35.56483459,-119.8847504,hud,N,N, ,PluggedDH
+-1,402963224,Carlton Investment,100-15,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57714462,-119.9109497,hud,N,N, ,PluggedOG
+-1,402913525,Core Hole,107-24,Plugged,CH,Core Hole,S3100,Shell Western E&P Inc.,"Antelope Hills, North",Any Area,Inland,Kern,24,27S,19E,MD,35.55779648,-119.8836365,mip,N,N, ,PluggedCH
+-1,402984808,"Lease by Seneca Resources Company, LLC",15-101,Plugged,OG,Oil & Gas,S2630,"Seneca Resources Company, LLC","Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58556366,-119.9181976,Operator,N,N, ,PluggedOG
+-1,402984809,"Lease by Seneca Resources Company, LLC",15-102,Plugged,OG,Oil & Gas,S2630,"Seneca Resources Company, LLC","Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58373642,-119.9190674,GPS,N,N, ,PluggedOG
+-1,402984810,"Lease by Seneca Resources Company, LLC",15-103,Plugged,OG,Oil & Gas,S2630,"Seneca Resources Company, LLC","Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.5836525,-119.9157181,Operator,N,N, ,PluggedOG
+-1,402915026,Martin Core Hole,2,Plugged,CH,Core Hole,S2630,"Seneca Resources Company, LLC","Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58334351,-119.9136734,Operator,N,N, ,PluggedCH
+-1,402909774,Fee,23,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.58070755,-119.9011612,hud,N,N, ,PluggedOG
+-1,402909775,Fee,24,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.57896423,-119.9001541,hud,N,N, ,PluggedOG
+-1,402913527,Core Hole,24X-25,Plugged,CH,Core Hole,S3100,Shell Western E&P Inc.,"Antelope Hills, North",Any Area,Inland,Kern,25,27S,19E,MD,35.56397247,-119.9003754,hud,N,N, ,PluggedCH
+-1,402909776,Fee,25,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,14,27S,19E,MD,35.5772934,-119.8989258,hud,N,N, ,PluggedOG
+-1,402913509,Core Hole,26-23,Plugged,CH,Core Hole,C1360,CalResources LLC,"Antelope Hills, North",Any Area,Inland,Kern,23,27S,19E,MD,35.56108856,-119.9003372,mip,N,N, ,PluggedCH
+-1,402974838,Carlton Investment,294-15,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57128525,-119.9057922,GPS,N,N, ,PluggedOG
+-1,402973312,Carlton Investment,297-15,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57225037,-119.9059372,GPS,N,N, ,PluggedOG
+-1,402982600,Carlton Investment,297R-15,Plugged,OG,Oil & Gas,C0885,California Resources Production Corporation,"Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.57285309,-119.9062576,GPS,N,N, ,PluggedOG
+-1,402915027,Martin Core Hole,3,Plugged,CH,Core Hole,S2630,"Seneca Resources Company, LLC","Antelope Hills, North",Any Area,Inland,Kern,15,27S,19E,MD,35.58406448,-119.9121552,Operator,N,N, ,PluggedCH
