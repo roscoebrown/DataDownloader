@@ -1,7 +1,9 @@
 # DataDownloader
 
 The Data downloader is the main program for collected permit data and location data. <br />
+<br />
 What is this project trying to acheive? <br />
+<br />
 The goal of the DataDownloader project is to automatically download permit and location data from state websites. <br />
 Then automatically organize and upload to the Gibson Reports AWS server. Each of the branches hold a component of the project. <br />
 As of right now I have finished the automatic data download and transfer to csv. files from their respective state websites.
