@@ -21,11 +21,12 @@ link: [Arizona]
 link: [Arkansas] 
   
 ### California 
+California_bot complete <br />
 FTP Server link. Click 2019 - then sort by last modified and download the latest excel file of approved permits. <br />
 link: [California]
 
 ### Colorado 
-<br />
+Colorado_bot complete <br />
 Note<br />
 Link directly to Permit search page. Near the bottom, click the “Go” button under “Approved Permits Last 12 Months” - Permits to Drill (Form 2A). It will take a second for this to load, once it does, click the purple floppy disk with green arrow button revealing a drop down list and download a CSV file or any file type of your choice.<br />
 link: [Colorado]
@@ -66,7 +67,7 @@ link: [Kansas]
 link: [Kentucky]
 
 ### Louisiana
-<br />
+Louisiana_bot is in progress will complete after setting SQL code<br />
 This is the Lousiana Permit data with longitude and latitude coordinates. Louisiana does do a data service for this data for $300. 
 However, this data can be downloaded for free manually in an excel file. <br />
 After paying the initial fee and monthly fee and request “WELL” data, they will provide you with a login. From there you can click the link in step 6 - How do I Automate the download process? and will walk you through setting up the script.<br />
