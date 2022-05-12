@@ -19,8 +19,8 @@ Colorado_folder = "D:\Python\WebScraper\Colorado"
 Colorado_time = "12:27"
 # finding the newest file
 
-# __init__():
-HTML_scraping()
+if __name__ == "__main__":
+    HTML_scraping()
 '''
 list_of_files = glob.glob('path to folder')
 latest_file = max(list_of_files, key = os.path.getctime)
